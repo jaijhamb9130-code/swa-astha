@@ -1,0 +1,27 @@
+[
+    {
+        "staffName": "Prakash Joshi",
+        "action": "Generated invoice INV-2026-0142 for Sunita Devi",
+        "time": "2026-02-22T11:20:00Z"
+    },
+    {
+        "staffName": "Meena Kumari",
+        "action": "Updated stock for Paracetamol 500mg (+500 units)",
+        "time": "2026-02-22T10:45:00Z"
+    },
+    {
+        "staffName": "Anita Sharma",
+        "action": "Accepted order ORD002 from Priya Sharma",
+        "time": "2026-02-22T10:20:00Z"
+    },
+    {
+        "staffName": "Sanjay Patel",
+        "action": "Generated invoice INV-2026-0141 for Deepa Nair",
+        "time": "2026-02-22T09:50:00Z"
+    },
+    {
+        "staffName": "Meena Kumari",
+        "action": "Added new medicine: Vitamin D3 60K IU",
+        "time": "2026-02-22T09:15:00Z"
+    }
+]

@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbe9"
+  },
+  "bill_id": "0BE28C8D",
+  "hospital": "SwaAstha Central Hospital",
+  "file_name": "invoice_SWA-100000.pdf",
+  "amount": 4016.43,
+  "date": "13 Apr 2026",
+  "status": "Pending",
+  "uploaded_at": {
+    "$date": "2026-04-17T12:10:53.287Z"
+  },
+  "phone": "9990001000"
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbed"
+  },
+  "bill_id": "1294E964",
+  "hospital": "Apollo Diagnostics",
+  "file_name": "invoice_SWA-100001.pdf",
+  "amount": 4192.12,
+  "date": "15 Apr 2026",
+  "status": "Pending",
+  "uploaded_at": {
+    "$date": "2026-04-17T12:10:53.389Z"
+  },
+  "phone": "9990001001"
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbf1"
+  },
+  "bill_id": "DB9FC820",
+  "hospital": "Apollo Diagnostics",
+  "file_name": "invoice_SWA-100002.pdf",
+  "amount": 3205.55,
+  "date": "07 Apr 2026",
+  "status": "Paid",
+  "uploaded_at": {
+    "$date": "2026-04-17T12:10:53.406Z"
+  },
+  "phone": "9990001002"
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbf5"
+  },
+  "bill_id": "C8692AA9",
+  "hospital": "Apollo Diagnostics",
+  "file_name": "invoice_SWA-100003.pdf",
+  "amount": 1081.87,
+  "date": "10 Apr 2026",
+  "status": "Pending",
+  "uploaded_at": {
+    "$date": "2026-04-17T12:10:53.421Z"
+  },
+  "phone": "9990001003"
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbf9"
+  },
+  "bill_id": "0F6E8501",
+  "hospital": "City Care Clinic",
+  "file_name": "invoice_SWA-100004.pdf",
+  "amount": 2819.76,
+  "date": "07 Apr 2026",
+  "status": "Pending",
+  "uploaded_at": {
+    "$date": "2026-04-17T12:10:53.435Z"
+  },
+  "phone": "9990001004"
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbfd"
+  },
+  "bill_id": "A22C75D6",
+  "hospital": "SwaAstha Central Hospital",
+  "file_name": "invoice_SWA-100005.pdf",
+  "amount": 3232.05,
+  "date": "06 Apr 2026",
+  "status": "Pending",
+  "uploaded_at": {
+    "$date": "2026-04-17T12:10:53.450Z"
+  },
+  "phone": "9990001005"
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dc01"
+  },
+  "bill_id": "8F943366",
+  "hospital": "City Care Clinic",
+  "file_name": "invoice_SWA-100006.pdf",
+  "amount": 521.61,
+  "date": "05 Apr 2026",
+  "status": "Paid",
+  "uploaded_at": {
+    "$date": "2026-04-17T12:10:53.461Z"
+  },
+  "phone": "9990001006"
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dc05"
+  },
+  "bill_id": "2C9BF9F1",
+  "hospital": "SwaAstha Central Hospital",
+  "file_name": "invoice_SWA-100007.pdf",
+  "amount": 2792.26,
+  "date": "05 Apr 2026",
+  "status": "Paid",
+  "uploaded_at": {
+    "$date": "2026-04-17T12:10:53.477Z"
+  },
+  "phone": "9990001007"
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dc09"
+  },
+  "bill_id": "562984E9",
+  "hospital": "SwaAstha Central Hospital",
+  "file_name": "invoice_SWA-100008.pdf",
+  "amount": 1431.78,
+  "date": "09 Apr 2026",
+  "status": "Paid",
+  "uploaded_at": {
+    "$date": "2026-04-17T12:10:53.491Z"
+  },
+  "phone": "9990001008"
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dc0d"
+  },
+  "bill_id": "CEA20D1E",
+  "hospital": "Apollo Diagnostics",
+  "file_name": "invoice_SWA-100009.pdf",
+  "amount": 3577.71,
+  "date": "06 Apr 2026",
+  "status": "Paid",
+  "uploaded_at": {
+    "$date": "2026-04-17T12:10:53.506Z"
+  },
+  "phone": "9990001009"
+}]

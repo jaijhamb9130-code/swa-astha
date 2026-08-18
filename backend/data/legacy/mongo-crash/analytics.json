@@ -1,0 +1,94 @@
+{
+    "keyMetrics": {
+        "todaysSales": {
+            "value": 48750,
+            "trend": "+12.5% from yesterday"
+        },
+        "totalOrders": {
+            "value": 34,
+            "status": "8 pending, 26 completed"
+        },
+        "lowStock": {
+            "value": 7,
+            "description": "Medicines need restocking"
+        },
+        "expiringSoon": {
+            "value": 4,
+            "description": "Within next 30 days"
+        }
+    },
+    "salesOverviewTrend": [
+        {
+            "date": "15 Feb",
+            "revenue": 40000
+        },
+        {
+            "date": "16 Feb",
+            "revenue": 49000
+        },
+        {
+            "date": "17 Feb",
+            "revenue": 44000
+        },
+        {
+            "date": "18 Feb",
+            "revenue": 43000
+        },
+        {
+            "date": "19 Feb",
+            "revenue": 45000
+        },
+        {
+            "date": "20 Feb",
+            "revenue": 46000
+        },
+        {
+            "date": "21 Feb",
+            "revenue": 52000
+        }
+    ],
+    "topSellingMedicines": [
+        {
+            "rank": 1,
+            "medicineName": "Paracetamol 500mg",
+            "sold": 856,
+            "revenue": 21400
+        },
+        {
+            "rank": 2,
+            "medicineName": "Cetirizine 10mg",
+            "sold": 642,
+            "revenue": 11556
+        },
+        {
+            "rank": 3,
+            "medicineName": "Amoxicillin 250mg",
+            "sold": 534,
+            "revenue": 34710
+        },
+        {
+            "rank": 4,
+            "medicineName": "Omeprazole 20mg",
+            "sold": 498,
+            "revenue": 23904
+        },
+        {
+            "rank": 5,
+            "medicineName": "Metformin 500mg",
+            "sold": 467,
+            "revenue": 16345
+        },
+        {
+            "rank": 6,
+            "medicineName": "Ibuprofen 400mg",
+            "sold": 423,
+            "revenue": 9306
+        },
+        {
+            "rank": 7,
+            "medicineName": "Amlodipine 5mg",
+            "sold": 389,
+            "revenue": 16338
+        }
+    ]
+}

@@ -1,0 +1,802 @@
+[
+    {
+        "_id": "69b113709d1fe37b7dff033a",
+        "pharmacy_id": "c07c124f-e284-4d6b-be8d-4a32b7a1e43c",
+        "name": "Virtual Pharmacy 1",
+        "city": "Bangalore",
+        "establishedYear": 2008,
+        "rating": "4.1"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff033b",
+        "pharmacy_id": "ba4e007a-0297-4968-875b-2a01e6b7e650",
+        "name": "Virtual Pharmacy 2",
+        "city": "Mumbai",
+        "establishedYear": 2021,
+        "rating": "3.8"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff033c",
+        "pharmacy_id": "303857dd-e854-4aca-9198-571a35b6d1f4",
+        "name": "Virtual Pharmacy 3",
+        "city": "Delhi",
+        "establishedYear": 2020,
+        "rating": "4.1"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff033d",
+        "pharmacy_id": "4a27db9c-48e4-4d62-9027-b4edafdafec0",
+        "name": "Virtual Pharmacy 4",
+        "city": "Hyderabad",
+        "establishedYear": 2009,
+        "rating": "4.4"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff033e",
+        "pharmacy_id": "af310822-ac1f-454e-8ebe-a63f000008f2",
+        "name": "Virtual Pharmacy 5",
+        "city": "Mumbai",
+        "establishedYear": 2010,
+        "rating": "3.7"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff033f",
+        "pharmacy_id": "aadd90f9-2dc4-4569-8371-86b022bcf9a4",
+        "name": "Virtual Pharmacy 6",
+        "city": "Hyderabad",
+        "establishedYear": 2004,
+        "rating": "3.4"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0340",
+        "pharmacy_id": "841c33a6-8e01-48dd-9ec2-56e7b86f8822",
+        "name": "Virtual Pharmacy 7",
+        "city": "Bangalore",
+        "establishedYear": 2004,
+        "rating": "3.3"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0341",
+        "pharmacy_id": "779ee87e-2f40-43d2-9e49-9833d81dd507",
+        "name": "Virtual Pharmacy 8",
+        "city": "Kolkata",
+        "establishedYear": 2002,
+        "rating": "4.6"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0342",
+        "pharmacy_id": "edf6c738-5b9a-43ed-924b-0d126d0cb3f9",
+        "name": "Virtual Pharmacy 9",
+        "city": "Chennai",
+        "establishedYear": 2019,
+        "rating": "3.7"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0343",
+        "pharmacy_id": "2ab3d029-e861-47c5-aea9-feaaade5d24d",
+        "name": "Virtual Pharmacy 10",
+        "city": "Hyderabad",
+        "establishedYear": 2001,
+        "rating": "3.9"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0344",
+        "pharmacy_id": "8ef6cbde-3403-448b-9415-047496baacf3",
+        "name": "Virtual Pharmacy 11",
+        "city": "Bangalore",
+        "establishedYear": 2014,
+        "rating": "3.4"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0345",
+        "pharmacy_id": "f766050a-642d-49b4-937e-bf6f402640ca",
+        "name": "Virtual Pharmacy 12",
+        "city": "Bangalore",
+        "establishedYear": 2000,
+        "rating": "3.9"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0346",
+        "pharmacy_id": "2b4abb00-148c-44f6-971d-b5b9f6aa45c5",
+        "name": "Virtual Pharmacy 13",
+        "city": "Pune",
+        "establishedYear": 2008,
+        "rating": "3.1"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0347",
+        "pharmacy_id": "efa41220-4ed2-40eb-ba3d-a7fbf689577f",
+        "name": "Virtual Pharmacy 14",
+        "city": "Delhi",
+        "establishedYear": 2001,
+        "rating": "3.1"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0348",
+        "pharmacy_id": "ee399fb1-8a44-4650-a164-ea2cd96964f5",
+        "name": "Virtual Pharmacy 15",
+        "city": "Chennai",
+        "establishedYear": 2008,
+        "rating": "4.6"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0349",
+        "pharmacy_id": "13f3db0c-ad72-4124-8d69-d6651d655121",
+        "name": "Virtual Pharmacy 16",
+        "city": "Pune",
+        "establishedYear": 2004,
+        "rating": "3.2"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff034a",
+        "pharmacy_id": "43197ebf-d3a8-4728-bd91-c22fcab21b57",
+        "name": "Virtual Pharmacy 17",
+        "city": "Mumbai",
+        "establishedYear": 2006,
+        "rating": "4.3"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff034b",
+        "pharmacy_id": "0ca3de8e-c32a-48db-a384-91ed9666188e",
+        "name": "Virtual Pharmacy 18",
+        "city": "Bangalore",
+        "establishedYear": 2023,
+        "rating": "3.3"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff034c",
+        "pharmacy_id": "bd008a25-d8dd-4b81-bb7c-6d2551d22870",
+        "name": "Virtual Pharmacy 19",
+        "city": "Chennai",
+        "establishedYear": 2020,
+        "rating": "4.2"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff034d",
+        "pharmacy_id": "50e936fe-6493-4287-9501-03821d2d7bc3",
+        "name": "Virtual Pharmacy 20",
+        "city": "Hyderabad",
+        "establishedYear": 2017,
+        "rating": "4.2"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff034e",
+        "pharmacy_id": "496c1213-7477-439b-9cb9-05d0e5fe7305",
+        "name": "Virtual Pharmacy 21",
+        "city": "Kolkata",
+        "establishedYear": 2013,
+        "rating": "4.0"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff034f",
+        "pharmacy_id": "46578f89-44ac-488e-a60d-f971202bebf4",
+        "name": "Virtual Pharmacy 22",
+        "city": "Chennai",
+        "establishedYear": 2011,
+        "rating": "4.6"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0350",
+        "pharmacy_id": "810b3c35-454d-4a02-aa47-db852cfa0171",
+        "name": "Virtual Pharmacy 23",
+        "city": "Pune",
+        "establishedYear": 2013,
+        "rating": "3.1"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0351",
+        "pharmacy_id": "d89932f2-635f-45d2-b6f7-c5fd4c2f53ab",
+        "name": "Virtual Pharmacy 24",
+        "city": "Mumbai",
+        "establishedYear": 2001,
+        "rating": "4.2"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0352",
+        "pharmacy_id": "97e7de72-fdf1-4b02-a84d-dc3ff85ebf0d",
+        "name": "Virtual Pharmacy 25",
+        "city": "Hyderabad",
+        "establishedYear": 2022,
+        "rating": "4.3"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0353",
+        "pharmacy_id": "d8f66e28-b0e6-4952-9f9c-005fb8e40200",
+        "name": "Virtual Pharmacy 26",
+        "city": "Bangalore",
+        "establishedYear": 2002,
+        "rating": "3.7"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0354",
+        "pharmacy_id": "b247c38f-ae2d-4524-b0d4-b80f95d20dfe",
+        "name": "Virtual Pharmacy 27",
+        "city": "Hyderabad",
+        "establishedYear": 2021,
+        "rating": "4.9"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0355",
+        "pharmacy_id": "3d3fe847-1733-467b-8aff-f881a2842df9",
+        "name": "Virtual Pharmacy 28",
+        "city": "Bangalore",
+        "establishedYear": 2017,
+        "rating": "4.0"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0356",
+        "pharmacy_id": "6c6795ab-eb82-496b-ae4c-1c4b74cdbfc9",
+        "name": "Virtual Pharmacy 29",
+        "city": "Bangalore",
+        "establishedYear": 2009,
+        "rating": "4.5"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0357",
+        "pharmacy_id": "7b618b42-6555-478b-8c36-7c1756456c78",
+        "name": "Virtual Pharmacy 30",
+        "city": "Kolkata",
+        "establishedYear": 2014,
+        "rating": "4.0"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0358",
+        "pharmacy_id": "6a1a80e8-4caa-43a9-b4ea-a5c0b61b1a31",
+        "name": "Virtual Pharmacy 31",
+        "city": "Mumbai",
+        "establishedYear": 2008,
+        "rating": "4.0"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0359",
+        "pharmacy_id": "2c933647-ea59-4e1d-bc25-2c63c3451563",
+        "name": "Virtual Pharmacy 32",
+        "city": "Kolkata",
+        "establishedYear": 2016,
+        "rating": "3.8"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff035a",
+        "pharmacy_id": "fe36e67b-434e-462a-b278-094c755c0f24",
+        "name": "Virtual Pharmacy 33",
+        "city": "Pune",
+        "establishedYear": 2015,
+        "rating": "4.5"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff035b",
+        "pharmacy_id": "16ffecaa-7049-4864-a0e0-655437351255",
+        "name": "Virtual Pharmacy 34",
+        "city": "Delhi",
+        "establishedYear": 2017,
+        "rating": "3.8"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff035c",
+        "pharmacy_id": "cbc7de49-7b85-44af-b69e-b722b557c284",
+        "name": "Virtual Pharmacy 35",
+        "city": "Pune",
+        "establishedYear": 2017,
+        "rating": "4.0"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff035d",
+        "pharmacy_id": "77cef37e-8063-4181-9500-2b6d44ce45bc",
+        "name": "Virtual Pharmacy 36",
+        "city": "Delhi",
+        "establishedYear": 2023,
+        "rating": "3.5"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff035e",
+        "pharmacy_id": "179d207e-a094-4ada-9f68-2187ed87214a",
+        "name": "Virtual Pharmacy 37",
+        "city": "Bangalore",
+        "establishedYear": 2005,
+        "rating": "4.8"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff035f",
+        "pharmacy_id": "c632cdef-7309-4424-8149-7bd74470d3f7",
+        "name": "Virtual Pharmacy 38",
+        "city": "Mumbai",
+        "establishedYear": 2021,
+        "rating": "3.5"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0360",
+        "pharmacy_id": "fc2befac-ac69-498e-a7b7-899950b1f4a4",
+        "name": "Virtual Pharmacy 39",
+        "city": "Chennai",
+        "establishedYear": 2010,
+        "rating": "3.8"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0361",
+        "pharmacy_id": "aa72c89b-add9-451b-90d0-0f3a1ef293aa",
+        "name": "Virtual Pharmacy 40",
+        "city": "Mumbai",
+        "establishedYear": 2020,
+        "rating": "3.5"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0362",
+        "pharmacy_id": "d3fb055b-b181-4b00-ab1d-82dfcef4f72b",
+        "name": "Virtual Pharmacy 41",
+        "city": "Chennai",
+        "establishedYear": 2022,
+        "rating": "3.7"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0363",
+        "pharmacy_id": "e556599c-f750-4594-9806-74fd4fd1d1cd",
+        "name": "Virtual Pharmacy 42",
+        "city": "Delhi",
+        "establishedYear": 2019,
+        "rating": "3.5"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0364",
+        "pharmacy_id": "e682efed-f7fc-49f2-9d73-074ac94d8e3e",
+        "name": "Virtual Pharmacy 43",
+        "city": "Kolkata",
+        "establishedYear": 2006,
+        "rating": "4.0"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0365",
+        "pharmacy_id": "6c386af4-3f91-4e8e-9c33-a50b410b32d1",
+        "name": "Virtual Pharmacy 44",
+        "city": "Kolkata",
+        "establishedYear": 2016,
+        "rating": "3.1"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0366",
+        "pharmacy_id": "5126f836-dda5-4cd2-8d0e-7523328fc852",
+        "name": "Virtual Pharmacy 45",
+        "city": "Hyderabad",
+        "establishedYear": 2016,
+        "rating": "4.8"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0367",
+        "pharmacy_id": "89ecd7fb-04d0-49ae-a545-16b256a62c73",
+        "name": "Virtual Pharmacy 46",
+        "city": "Kolkata",
+        "establishedYear": 2005,
+        "rating": "4.2"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0368",
+        "pharmacy_id": "4c34c33b-5595-4aa3-9d37-ed2a40ae1680",
+        "name": "Virtual Pharmacy 47",
+        "city": "Hyderabad",
+        "establishedYear": 2005,
+        "rating": "4.5"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0369",
+        "pharmacy_id": "c04d894a-7946-4788-a666-49eb5a7cf374",
+        "name": "Virtual Pharmacy 48",
+        "city": "Delhi",
+        "establishedYear": 2018,
+        "rating": "4.9"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff036a",
+        "pharmacy_id": "6d6893f7-bc03-4b88-8ade-b0248ea1349f",
+        "name": "Virtual Pharmacy 49",
+        "city": "Chennai",
+        "establishedYear": 2012,
+        "rating": "3.7"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff036b",
+        "pharmacy_id": "da850fc6-dff9-4242-838e-8c5511d4e7bd",
+        "name": "Virtual Pharmacy 50",
+        "city": "Bangalore",
+        "establishedYear": 2008,
+        "rating": "3.8"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff036c",
+        "pharmacy_id": "e2fb343e-1af5-467f-9a47-1d8e3865a470",
+        "name": "Virtual Pharmacy 51",
+        "city": "Chennai",
+        "establishedYear": 2000,
+        "rating": "4.5"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff036d",
+        "pharmacy_id": "74047ec8-8555-4bde-b129-9157f770b6a0",
+        "name": "Virtual Pharmacy 52",
+        "city": "Pune",
+        "establishedYear": 2011,
+        "rating": "3.7"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff036e",
+        "pharmacy_id": "1b6c830a-28ad-4ef1-8a19-43d389e2d09b",
+        "name": "Virtual Pharmacy 53",
+        "city": "Chennai",
+        "establishedYear": 2008,
+        "rating": "4.1"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff036f",
+        "pharmacy_id": "8fc4f1b6-1a08-4c2a-b785-df2b25e7c038",
+        "name": "Virtual Pharmacy 54",
+        "city": "Delhi",
+        "establishedYear": 2012,
+        "rating": "3.9"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0370",
+        "pharmacy_id": "0ef71c7f-6325-438b-9be3-c17bdc360d00",
+        "name": "Virtual Pharmacy 55",
+        "city": "Mumbai",
+        "establishedYear": 2000,
+        "rating": "4.7"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0371",
+        "pharmacy_id": "a6be0803-777f-4992-826e-add847fddd0c",
+        "name": "Virtual Pharmacy 56",
+        "city": "Delhi",
+        "establishedYear": 2022,
+        "rating": "4.0"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0372",
+        "pharmacy_id": "b0f1e86e-8397-49b7-af17-5c23df866a90",
+        "name": "Virtual Pharmacy 57",
+        "city": "Kolkata",
+        "establishedYear": 2007,
+        "rating": "5.0"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0373",
+        "pharmacy_id": "f01d5ea7-cb6d-4d64-b30a-86ab81d10ba9",
+        "name": "Virtual Pharmacy 58",
+        "city": "Chennai",
+        "establishedYear": 2017,
+        "rating": "3.8"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0374",
+        "pharmacy_id": "f0bd17b0-fcfb-4676-bab5-fbcb3cac5e8d",
+        "name": "Virtual Pharmacy 59",
+        "city": "Hyderabad",
+        "establishedYear": 2020,
+        "rating": "3.6"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0375",
+        "pharmacy_id": "8f08256e-c3c5-4d44-a0d8-ba057f5df94f",
+        "name": "Virtual Pharmacy 60",
+        "city": "Kolkata",
+        "establishedYear": 2013,
+        "rating": "3.2"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0376",
+        "pharmacy_id": "8e8b31e5-eefe-4e9e-b577-e56976b527b9",
+        "name": "Virtual Pharmacy 61",
+        "city": "Delhi",
+        "establishedYear": 2017,
+        "rating": "5.0"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0377",
+        "pharmacy_id": "5be7c75c-0b71-4628-8738-f8e4fd3efe54",
+        "name": "Virtual Pharmacy 62",
+        "city": "Pune",
+        "establishedYear": 2007,
+        "rating": "4.5"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0378",
+        "pharmacy_id": "b921ad91-9a6c-4615-a53c-8e7069e7a733",
+        "name": "Virtual Pharmacy 63",
+        "city": "Kolkata",
+        "establishedYear": 2022,
+        "rating": "4.1"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0379",
+        "pharmacy_id": "72205dea-f10f-4863-9fd4-d77d96e90fed",
+        "name": "Virtual Pharmacy 64",
+        "city": "Pune",
+        "establishedYear": 2009,
+        "rating": "4.6"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff037a",
+        "pharmacy_id": "847c8d27-4105-47a9-8d85-93b84e0e2afe",
+        "name": "Virtual Pharmacy 65",
+        "city": "Kolkata",
+        "establishedYear": 2022,
+        "rating": "3.4"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff037b",
+        "pharmacy_id": "c6e275c0-fd20-4096-8d26-b5fd10a40a6b",
+        "name": "Virtual Pharmacy 66",
+        "city": "Mumbai",
+        "establishedYear": 2017,
+        "rating": "4.7"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff037c",
+        "pharmacy_id": "70f0a25d-2a17-4e74-b08e-4bb0e0f77f15",
+        "name": "Virtual Pharmacy 67",
+        "city": "Delhi",
+        "establishedYear": 2005,
+        "rating": "4.4"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff037d",
+        "pharmacy_id": "54a695a2-6c70-4e50-a135-212e695c73a3",
+        "name": "Virtual Pharmacy 68",
+        "city": "Hyderabad",
+        "establishedYear": 2015,
+        "rating": "3.1"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff037e",
+        "pharmacy_id": "03cd98c3-db93-4628-9ead-d6680692688d",
+        "name": "Virtual Pharmacy 69",
+        "city": "Delhi",
+        "establishedYear": 2000,
+        "rating": "4.2"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff037f",
+        "pharmacy_id": "e63162fa-a50c-4486-b2f1-712ddc5ba92e",
+        "name": "Virtual Pharmacy 70",
+        "city": "Chennai",
+        "establishedYear": 2021,
+        "rating": "3.1"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0380",
+        "pharmacy_id": "e7f8eb5a-db8b-494d-a0dc-da0218aaf273",
+        "name": "Virtual Pharmacy 71",
+        "city": "Mumbai",
+        "establishedYear": 2021,
+        "rating": "4.7"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0381",
+        "pharmacy_id": "cee95481-4994-4165-9c3a-03bc3e92c3ba",
+        "name": "Virtual Pharmacy 72",
+        "city": "Hyderabad",
+        "establishedYear": 2021,
+        "rating": "4.9"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0382",
+        "pharmacy_id": "4b0680e0-c390-4418-8019-f45882dd9e3d",
+        "name": "Virtual Pharmacy 73",
+        "city": "Pune",
+        "establishedYear": 2020,
+        "rating": "3.9"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0383",
+        "pharmacy_id": "09d280cd-d821-4e4d-a27d-739c1d9d71ff",
+        "name": "Virtual Pharmacy 74",
+        "city": "Mumbai",
+        "establishedYear": 2002,
+        "rating": "4.9"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0384",
+        "pharmacy_id": "d360b3fa-5df6-4eae-8a9a-cb6d307b7f54",
+        "name": "Virtual Pharmacy 75",
+        "city": "Delhi",
+        "establishedYear": 2007,
+        "rating": "4.2"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0385",
+        "pharmacy_id": "dbff0138-ba82-4cd5-9888-54c518528f61",
+        "name": "Virtual Pharmacy 76",
+        "city": "Mumbai",
+        "establishedYear": 2017,
+        "rating": "4.2"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0386",
+        "pharmacy_id": "6366affa-e0de-4ac5-ba70-804422b4fc2d",
+        "name": "Virtual Pharmacy 77",
+        "city": "Mumbai",
+        "establishedYear": 2011,
+        "rating": "4.1"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0387",
+        "pharmacy_id": "b3555331-b195-4897-8a11-2d1b9802374a",
+        "name": "Virtual Pharmacy 78",
+        "city": "Mumbai",
+        "establishedYear": 2015,
+        "rating": "4.8"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0388",
+        "pharmacy_id": "55664f1b-221e-436b-be35-3f5a6229b755",
+        "name": "Virtual Pharmacy 79",
+        "city": "Kolkata",
+        "establishedYear": 2018,
+        "rating": "3.7"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0389",
+        "pharmacy_id": "a87eb6c1-0fd8-4326-ab3e-5e61252b6a57",
+        "name": "Virtual Pharmacy 80",
+        "city": "Bangalore",
+        "establishedYear": 2008,
+        "rating": "4.7"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff038a",
+        "pharmacy_id": "f0508264-c6fc-46f0-8f34-9c0956eed483",
+        "name": "Virtual Pharmacy 81",
+        "city": "Kolkata",
+        "establishedYear": 2007,
+        "rating": "4.4"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff038b",
+        "pharmacy_id": "9344c8a7-f2a5-43f0-aea5-43afc3cf5a8c",
+        "name": "Virtual Pharmacy 82",
+        "city": "Delhi",
+        "establishedYear": 2010,
+        "rating": "3.5"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff038c",
+        "pharmacy_id": "636fec7e-8294-49da-8959-61d9afb09152",
+        "name": "Virtual Pharmacy 83",
+        "city": "Mumbai",
+        "establishedYear": 2023,
+        "rating": "4.7"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff038d",
+        "pharmacy_id": "db0a7d44-0682-4fa6-bc21-7e8cc76b991f",
+        "name": "Virtual Pharmacy 84",
+        "city": "Mumbai",
+        "establishedYear": 2012,
+        "rating": "3.1"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff038e",
+        "pharmacy_id": "9fd5b2fd-b88d-48c2-9cfc-f9acd3326a49",
+        "name": "Virtual Pharmacy 85",
+        "city": "Chennai",
+        "establishedYear": 2009,
+        "rating": "4.3"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff038f",
+        "pharmacy_id": "9883f62a-5c5b-4ff2-b21e-6c26032a7e9c",
+        "name": "Virtual Pharmacy 86",
+        "city": "Delhi",
+        "establishedYear": 2011,
+        "rating": "4.2"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0390",
+        "pharmacy_id": "6c4128de-ed24-4e3b-bd4e-90c7f227d552",
+        "name": "Virtual Pharmacy 87",
+        "city": "Hyderabad",
+        "establishedYear": 2003,
+        "rating": "3.8"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0391",
+        "pharmacy_id": "8df8ffe5-3408-4694-8e95-89195face6fc",
+        "name": "Virtual Pharmacy 88",
+        "city": "Bangalore",
+        "establishedYear": 2017,
+        "rating": "3.7"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0392",
+        "pharmacy_id": "21b2fc19-9283-4b62-bfef-bd4af8fb58f7",
+        "name": "Virtual Pharmacy 89",
+        "city": "Bangalore",
+        "establishedYear": 2000,
+        "rating": "3.5"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0393",
+        "pharmacy_id": "bcd7f518-8cc3-4eb3-a10d-fc06b27e642c",
+        "name": "Virtual Pharmacy 90",
+        "city": "Delhi",
+        "establishedYear": 2015,
+        "rating": "3.3"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0394",
+        "pharmacy_id": "f0595816-cf3b-4caa-a1ca-0f6532e45739",
+        "name": "Virtual Pharmacy 91",
+        "city": "Chennai",
+        "establishedYear": 2013,
+        "rating": "4.8"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0395",
+        "pharmacy_id": "cdd434b4-399c-45d4-bdb4-dafa38056690",
+        "name": "Virtual Pharmacy 92",
+        "city": "Hyderabad",
+        "establishedYear": 2020,
+        "rating": "3.2"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0396",
+        "pharmacy_id": "d65b4dd9-48cb-4b1c-82eb-1da9ad7deffe",
+        "name": "Virtual Pharmacy 93",
+        "city": "Mumbai",
+        "establishedYear": 2014,
+        "rating": "4.2"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0397",
+        "pharmacy_id": "f5a18532-1e71-4835-b98d-892998d273bb",
+        "name": "Virtual Pharmacy 94",
+        "city": "Kolkata",
+        "establishedYear": 2000,
+        "rating": "3.9"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0398",
+        "pharmacy_id": "7dfbd336-17ae-4007-8c72-78a2f2f03b02",
+        "name": "Virtual Pharmacy 95",
+        "city": "Chennai",
+        "establishedYear": 2016,
+        "rating": "3.3"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0399",
+        "pharmacy_id": "7ca1120c-3ca2-4360-9bb7-869596a15cd8",
+        "name": "Virtual Pharmacy 96",
+        "city": "Kolkata",
+        "establishedYear": 2021,
+        "rating": "4.7"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff039a",
+        "pharmacy_id": "ce7aba0b-02a4-4eb9-874d-8cbeebd36406",
+        "name": "Virtual Pharmacy 97",
+        "city": "Delhi",
+        "establishedYear": 2019,
+        "rating": "4.2"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff039b",
+        "pharmacy_id": "631e0636-d920-4822-b56f-c39bbaa6ae45",
+        "name": "Virtual Pharmacy 98",
+        "city": "Chennai",
+        "establishedYear": 2002,
+        "rating": "3.8"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff039c",
+        "pharmacy_id": "8165ca95-a8a3-42e2-80a0-53597aa63b6d",
+        "name": "Virtual Pharmacy 99",
+        "city": "Bangalore",
+        "establishedYear": 2012,
+        "rating": "3.1"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff039d",
+        "pharmacy_id": "35ab266a-f422-47ba-a451-76bc4522429e",
+        "name": "Virtual Pharmacy 100",
+        "city": "Mumbai",
+        "establishedYear": 2005,
+        "rating": "4.1"
+    }
+]

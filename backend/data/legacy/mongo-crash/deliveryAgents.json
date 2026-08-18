@@ -1,0 +1,50 @@
+[
+    {
+        "_id": "69b1136f9d1fe37b7dfef758",
+        "employee_id": "DEL-001",
+        "name": "Ravi Shankar",
+        "phone": "+91 99887 76655",
+        "statusBadge": "Out For Delivery",
+        "deliveriesToday": 5,
+        "currentOrder": "ORD003 - Amit Patel",
+        "currentOrderAmount": 150,
+        "available": true,
+        "agent_id": "83a8766d-c424-4471-960e-6cdc2cc74750"
+    },
+    {
+        "_id": "69b1136f9d1fe37b7dfef759",
+        "employee_id": "DEL-002",
+        "name": "Suresh Babu",
+        "phone": "+91 88776 65544",
+        "statusBadge": "Active",
+        "deliveriesToday": 7,
+        "currentOrder": null,
+        "currentOrderAmount": null,
+        "available": true,
+        "agent_id": "039ab441-d020-4668-bc2d-55eb83e7ebe2"
+    },
+    {
+        "_id": "69b1136f9d1fe37b7dfef75a",
+        "employee_id": "DEL-003",
+        "name": "Manoj Tiwari",
+        "phone": "+91 77665 54433",
+        "statusBadge": "Out For Delivery",
+        "deliveriesToday": 4,
+        "currentOrder": "ORD009 - Arun Verma",
+        "currentOrderAmount": 120,
+        "available": true,
+        "agent_id": "3eb5be14-c590-48a5-ab40-10501ff885f8"
+    },
+    {
+        "_id": "69b1136f9d1fe37b7dfef75b",
+        "employee_id": "DEL-004",
+        "name": "Kiran Yadav",
+        "phone": "+91 66554 43322",
+        "statusBadge": "Idle",
+        "deliveriesToday": 3,
+        "currentOrder": null,
+        "currentOrderAmount": null,
+        "available": false,
+        "agent_id": "3cf3a1a4-6345-4f8c-a5cd-177c811bd31c"
+    }
+]

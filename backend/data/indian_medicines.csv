@@ -1,0 +1,1216 @@
+brand_name,salt_composition,strength,manufacturer,type,schedule
+Dolo 650,Paracetamol,650mg,Micro Labs Ltd,Tablet,OTC
+Crocin Advance,Paracetamol,500mg,GlaxoSmithKline,Tablet,OTC
+Calpol,Paracetamol,500mg,GlaxoSmithKline,Tablet,OTC
+Paracetamol IP,Paracetamol,500mg,Generic,Tablet,OTC
+Augmentin 625 Duo,Amoxicillin + Clavulanic Acid,500mg/125mg,GlaxoSmithKline,Tablet,H
+Amoxicillin,Amoxicillin,500mg,Generic,Capsule,H
+Mox 500,Amoxicillin,500mg,Ranbaxy,Capsule,H
+Azithral 500,Azithromycin,500mg,Alembic Pharma,Tablet,H
+Azee 500,Azithromycin,500mg,Cipla,Tablet,H
+Zithromax,Azithromycin,500mg,Pfizer,Tablet,H
+Azithromycin,Azithromycin,500mg,Generic,Tablet,H
+Cifran 500,Ciprofloxacin,500mg,Sun Pharma,Tablet,H
+Ciplox 500,Ciprofloxacin,500mg,Cipla,Tablet,H
+Ciprofloxacin,Ciprofloxacin,500mg,Generic,Tablet,H
+Oflox 200,Ofloxacin,200mg,Cipla,Tablet,H
+O2 400,Ofloxacin,400mg,Cipla,Tablet,H
+Norflox 400,Norfloxacin,400mg,Cipla,Tablet,H
+Metrogyl 400,Metronidazole,400mg,J B Chemicals,Tablet,H
+Flagyl,Metronidazole,400mg,Sanofi,Tablet,H
+Levoflox 500,Levofloxacin,500mg,Cipla,Tablet,H
+Cetirizine,Cetirizine,10mg,Generic,Tablet,OTC
+Alerid,Cetirizine,10mg,Cipla,Tablet,OTC
+Cetzine,Cetirizine,10mg,Sun Pharma,Tablet,OTC
+Zyrtec,Cetirizine,10mg,UCB,Tablet,OTC
+Montair LC,Montelukast + Levocetirizine,10mg/5mg,Cipla,Tablet,H
+Montek LC,Montelukast + Levocetirizine,10mg/5mg,Sun Pharma,Tablet,H
+Montair 10,Montelukast,10mg,Cipla,Tablet,H
+Levocet,Levocetirizine,5mg,Sun Pharma,Tablet,OTC
+Xyzal,Levocetirizine,5mg,UCB,Tablet,OTC
+Pantop 40,Pantoprazole,40mg,Aristo Pharma,Tablet,H
+Pan 40,Pantoprazole,40mg,Alkem,Tablet,H
+Pantocid,Pantoprazole,40mg,Sun Pharma,Tablet,H
+Pantoprazole,Pantoprazole,40mg,Generic,Tablet,H
+Omez 20,Omeprazole,20mg,Dr Reddys,Capsule,H
+Omeprazole,Omeprazole,20mg,Generic,Capsule,H
+Razo 20,Rabeprazole,20mg,Dr Reddys,Capsule,H
+Rabeprazole,Rabeprazole,20mg,Generic,Capsule,H
+Metformin,Metformin,500mg,Generic,Tablet,H
+Glycomet 500,Metformin,500mg,USV,Tablet,H
+Glycomet GP 1,Glimepiride + Metformin,1mg/500mg,USV,Tablet,H
+Glycomet GP 2,Glimepiride + Metformin,2mg/500mg,USV,Tablet,H
+Amaryl M,Glimepiride + Metformin,1mg/500mg,Sanofi,Tablet,H
+Glimepiride,Glimepiride,2mg,Generic,Tablet,H
+Janumet,Sitagliptin + Metformin,50mg/500mg,MSD,Tablet,H
+Galvus Met,Vildagliptin + Metformin,50mg/500mg,Novartis,Tablet,H
+Amlodipine,Amlodipine,5mg,Generic,Tablet,H
+Amlong 5,Amlodipine,5mg,Micro Labs,Tablet,H
+Stamlo 5,Amlodipine,5mg,Dr Reddys,Tablet,H
+Telmisartan,Telmisartan,40mg,Generic,Tablet,H
+Telma 40,Telmisartan,40mg,Glenmark,Tablet,H
+Telma H,Telmisartan + Hydrochlorothiazide,40mg/12.5mg,Glenmark,Tablet,H
+Losartan,Losartan,50mg,Generic,Tablet,H
+Losar 50,Losartan,50mg,Unichem,Tablet,H
+Atenolol,Atenolol,50mg,Generic,Tablet,H
+Metoprolol,Metoprolol,50mg,Generic,Tablet,H
+Met XL 50,Metoprolol Succinate,50mg,Cipla,Tablet,H
+Nebicard 5,Nebivolol,5mg,Torrent,Tablet,H
+Aspirin,Aspirin,75mg,Generic,Tablet,OTC
+Ecosprin 75,Aspirin,75mg,USV,Tablet,OTC
+Ecosprin AV 75,Aspirin + Atorvastatin,75mg/10mg,USV,Capsule,H
+Atorvastatin,Atorvastatin,10mg,Generic,Tablet,H
+Atorva 10,Atorvastatin,10mg,Zydus,Tablet,H
+Lipitor,Atorvastatin,10mg,Pfizer,Tablet,H
+Rosuvastatin,Rosuvastatin,10mg,Generic,Tablet,H
+Rosuvas 10,Rosuvastatin,10mg,Sun Pharma,Tablet,H
+Crestor,Rosuvastatin,10mg,AstraZeneca,Tablet,H
+Clopidogrel,Clopidogrel,75mg,Generic,Tablet,H
+Clopilet 75,Clopidogrel,75mg,Sun Pharma,Tablet,H
+Ibuprofen,Ibuprofen,400mg,Generic,Tablet,OTC
+Brufen 400,Ibuprofen,400mg,Abbott,Tablet,OTC
+Combiflam,Ibuprofen + Paracetamol,400mg/325mg,Sanofi,Tablet,OTC
+Diclofenac,Diclofenac,50mg,Generic,Tablet,H
+Voveran 50,Diclofenac,50mg,Novartis,Tablet,H
+Voveran SR 100,Diclofenac,100mg,Novartis,Tablet,H
+Aceclofenac,Aceclofenac,100mg,Generic,Tablet,H
+Zerodol SP,Aceclofenac + Paracetamol + Serratiopeptidase,100mg/325mg/15mg,IPCA Labs,Tablet,H
+Zerodol P,Aceclofenac + Paracetamol,100mg/325mg,IPCA Labs,Tablet,H
+Nimesulide,Nimesulide,100mg,Generic,Tablet,H
+Naprosyn 500,Naproxen,500mg,RPG Life Sciences,Tablet,H
+Tramadol,Tramadol,50mg,Generic,Capsule,H
+Ultracet,Tramadol + Paracetamol,37.5mg/325mg,Johnson & Johnson,Tablet,H
+Prednisolone,Prednisolone,10mg,Generic,Tablet,H
+Wysolone 10,Prednisolone,10mg,Pfizer,Tablet,H
+Omnacortil,Prednisolone,10mg,Macleods,Tablet,H
+Deflazacort,Deflazacort,6mg,Generic,Tablet,H
+Defcort 6,Deflazacort,6mg,Cipla,Tablet,H
+Methylprednisolone,Methylprednisolone,8mg,Generic,Tablet,H
+Medrol 8,Methylprednisolone,8mg,Pfizer,Tablet,H
+Dexamethasone,Dexamethasone,0.5mg,Generic,Tablet,H
+Betamethasone,Betamethasone,0.5mg,Generic,Tablet,H
+Hydrocortisone,Hydrocortisone,10mg,Generic,Tablet,H
+Phenytoin,Phenytoin,100mg,Generic,Tablet,H
+Eptoin 100,Phenytoin,100mg,Abbott,Tablet,H
+Carbamazepine,Carbamazepine,200mg,Generic,Tablet,H
+Tegrital 200,Carbamazepine,200mg,Novartis,Tablet,H
+Gabapentin,Gabapentin,300mg,Generic,Capsule,H
+Gabapin 300,Gabapentin,300mg,Intas,Capsule,H
+Pregabalin,Pregabalin,75mg,Generic,Capsule,H
+Pregalin 75,Pregabalin,75mg,Torrent,Capsule,H
+Levipil 500,Levetiracetam,500mg,Sun Pharma,Tablet,H
+Amitriptyline,Amitriptyline,25mg,Generic,Tablet,H
+Tryptomer 25,Amitriptyline,25mg,Merind,Tablet,H
+Fluoxetine,Fluoxetine,20mg,Generic,Capsule,H
+Fludac 20,Fluoxetine,20mg,Cadila,Capsule,H
+Sertraline,Sertraline,50mg,Generic,Tablet,H
+Daxid 50,Sertraline,50mg,Pfizer,Tablet,H
+Escitalopram,Escitalopram,10mg,Generic,Tablet,H
+Nexito 10,Escitalopram,10mg,Sun Pharma,Tablet,H
+Clonazepam,Clonazepam,0.5mg,Generic,Tablet,H
+Clonotril 0.5,Clonazepam,0.5mg,Torrent,Tablet,H
+Alprazolam,Alprazolam,0.25mg,Generic,Tablet,H
+Alprax 0.25,Alprazolam,0.25mg,Torrent,Tablet,H
+Lorazepam,Lorazepam,1mg,Generic,Tablet,H
+Olanzapine,Olanzapine,5mg,Generic,Tablet,H
+Olanex 5,Olanzapine,5mg,Sun Pharma,Tablet,H
+Risperidone,Risperidone,2mg,Generic,Tablet,H
+Sizodon 2,Risperidone,2mg,Sun Pharma,Tablet,H
+Quetiapine,Quetiapine,100mg,Generic,Tablet,H
+Thyroxine,Levothyroxine,50mcg,Generic,Tablet,H
+Thyronorm 50,Levothyroxine,50mcg,Abbott,Tablet,H
+Eltroxin 50,Levothyroxine,50mcg,GlaxoSmithKline,Tablet,H
+Insulin Glargine,Insulin Glargine,100IU/ml,Generic,Injection,H
+Lantus,Insulin Glargine,100IU/ml,Sanofi,Injection,H
+Insulin Human,Insulin Human Regular,40IU/ml,Generic,Injection,H
+Mixtard 30,Insulin Human 30/70,40IU/ml,Novo Nordisk,Injection,H
+Vitamin B Complex,Vitamin B Complex,-,Generic,Tablet,OTC
+Becosules,Vitamin B Complex + Vitamin C,-,Pfizer,Capsule,OTC
+Shelcal 500,Calcium + Vitamin D3,500mg/250IU,Torrent,Tablet,OTC
+Calcimax,Calcium + Vitamin D3,500mg/250IU,Meyer Organics,Tablet,OTC
+Supradyn,Multivitamin + Multimineral,-,Bayer,Tablet,OTC
+Zincovit,Multivitamin + Zinc,-,Apex Labs,Tablet,OTC
+Limcee,Ascorbic Acid (Vitamin C),500mg,Abbott,Tablet,OTC
+Ferrous Fumarate,Ferrous Fumarate,200mg,Generic,Tablet,OTC
+Autrin,Iron + Folic Acid + Zinc,-,Abbott,Capsule,OTC
+Folvite 5,Folic Acid,5mg,Pfizer,Tablet,OTC
+Syrup Ondem,Ondansetron,4mg/5ml,Alkem,Syrup,H
+Emeset 4,Ondansetron,4mg,Cipla,Tablet,H
+Ondansetron,Ondansetron,4mg,Generic,Tablet,H
+Domperidone,Domperidone,10mg,Generic,Tablet,H
+Domstal 10,Domperidone,10mg,Torrent,Tablet,H
+Drotin DS,Drotaverine,80mg,Walter Bushnell,Tablet,H
+Meftal Spas,Mefenamic Acid + Dicyclomine,250mg/10mg,Blue Cross,Tablet,H
+Dicyclomine,Dicyclomine,20mg,Generic,Tablet,H
+Ranitidine,Ranitidine,150mg,Generic,Tablet,H
+Rantac 150,Ranitidine,150mg,J B Chemicals,Tablet,H
+Sucralfate,Sucralfate,1gm,Generic,Syrup,H
+Mucaine Gel,Aluminium Hydroxide + Magnesium Hydroxide + Oxetacaine,-,Pfizer,Gel,OTC
+Gelusil MPS,Magnesium Hydroxide + Aluminium Hydroxide + Simethicone,-,Pfizer,Syrup,OTC
+Digene,Aluminium Hydroxide + Magnesium Hydroxide + Simethicone,-,Abbott,Syrup,OTC
+ORS,Oral Rehydration Salts,-,Generic,Powder,OTC
+Electral,Oral Rehydration Salts,-,FDC Ltd,Powder,OTC
+Loperamide,Loperamide,2mg,Generic,Capsule,OTC
+Lopamide,Loperamide,2mg,Cipla,Capsule,OTC
+Norflox TZ,Norfloxacin + Tinidazole,400mg/600mg,Cipla,Tablet,H
+Oflox TZ,Ofloxacin + Ornidazole,200mg/500mg,Cipla,Tablet,H
+Fluconazole,Fluconazole,150mg,Generic,Capsule,H
+Forcan 150,Fluconazole,150mg,Cipla,Capsule,H
+Ketoconazole,Ketoconazole,200mg,Generic,Tablet,H
+Itraconazole,Itraconazole,100mg,Generic,Capsule,H
+Candid Cream,Clotrimazole,1%,Glenmark,Cream,OTC
+Dermiford Cream,Clobetasol + Neomycin + Miconazole,-,Mankind,Cream,H
+Betnovate N,Betamethasone + Neomycin,-,GlaxoSmithKline,Cream,H
+Soframycin,Framycetin,1%,Sanofi,Cream,H
+Mupirocin Ointment,Mupirocin,2%,Generic,Ointment,H
+T-Bact,Mupirocin,2%,GlaxoSmithKline,Ointment,H
+Fusidic Acid Cream,Fusidic Acid,2%,Generic,Cream,H
+Silver Sulfadiazine,Silver Sulfadiazine,1%,Generic,Cream,H
+Salbutamol Inhaler,Salbutamol,100mcg,Generic,Inhaler,H
+Asthalin Inhaler,Salbutamol,100mcg,Cipla,Inhaler,H
+Budecort Inhaler,Budesonide,200mcg,Cipla,Inhaler,H
+Foracort Inhaler,Formoterol + Budesonide,6mcg/200mcg,Cipla,Inhaler,H
+Seroflo Inhaler,Salmeterol + Fluticasone,25mcg/125mcg,Cipla,Inhaler,H
+Deriphyllin,Theophylline + Etofylline,23mg/77mg,Zydus,Tablet,H
+Alex Syrup,Phenylephrine + Chlorpheniramine + Dextromethorphan,-,Glenmark,Syrup,OTC
+Benadryl Cough Syrup,Diphenhydramine,-,J&J,Syrup,OTC
+Grilinctus Syrup,Dextromethorphan + CPM + Phenylephrine,-,Franco Indian,Syrup,OTC
+Sinarest,Paracetamol + Phenylephrine + Chlorpheniramine,500mg/10mg/2mg,Centaur,Tablet,OTC
+Cheston Cold,Paracetamol + Phenylephrine + Cetirizine,500mg/10mg/5mg,Cipla,Tablet,OTC
+Ambroxol,Ambroxol,30mg,Generic,Tablet,OTC
+Mucinac,Acetylcysteine,600mg,Cipla,Tablet,H
+Monticope,Montelukast + Levocetirizine,10mg/5mg,Cipla,Tablet,H
+Allegra 120,Fexofenadine,120mg,Sanofi,Tablet,H
+Chlorpheniramine,Chlorpheniramine Maleate,4mg,Generic,Tablet,OTC
+Hydroxyzine,Hydroxyzine,25mg,Generic,Tablet,H
+Atarax 25,Hydroxyzine,25mg,UCB,Tablet,H
+Deriphyllin Retard,Theophylline + Etofylline,150mg/50mg,Zydus,Tablet,H
+Montek,Montelukast,10mg,Sun Pharma,Tablet,H
+Amlokind AT,Amlodipine + Atenolol,5mg/50mg,Mankind,Tablet,H
+Cilacar 10,Cilnidipine,10mg,J B Chemicals,Tablet,H
+Ramipril,Ramipril,5mg,Generic,Tablet,H
+Cardace 5,Ramipril,5mg,Sanofi,Tablet,H
+Enalapril,Enalapril,5mg,Generic,Tablet,H
+Envas 5,Enalapril,5mg,Cadila,Tablet,H
+Indapamide,Indapamide,1.5mg,Generic,Tablet,H
+Chlorthalidone,Chlorthalidone,12.5mg,Generic,Tablet,H
+Furosemide,Furosemide,40mg,Generic,Tablet,H
+Lasix 40,Furosemide,40mg,Sanofi,Tablet,H
+Spironolactone,Spironolactone,25mg,Generic,Tablet,H
+Aldactone 25,Spironolactone,25mg,RPG Life Sciences,Tablet,H
+Torsemide,Torsemide,10mg,Generic,Tablet,H
+Dytor 10,Torsemide,10mg,Cipla,Tablet,H
+Warfarin,Warfarin,5mg,Generic,Tablet,H
+Warf 5,Warfarin,5mg,Cipla,Tablet,H
+Heparin,Heparin,5000IU/ml,Generic,Injection,H
+Enoxaparin,Enoxaparin,40mg,Generic,Injection,H
+Clexane,Enoxaparin,40mg,Sanofi,Injection,H
+Pioglitazone,Pioglitazone,15mg,Generic,Tablet,H
+Voglibose,Voglibose,0.3mg,Generic,Tablet,H
+PPG 0.3,Voglibose,0.3mg,USV,Tablet,H
+Teneligliptin,Teneligliptin,20mg,Generic,Tablet,H
+Ziten 20,Teneligliptin,20mg,Glenmark,Tablet,H
+Dapagliflozin,Dapagliflozin,10mg,Generic,Tablet,H
+Oxra 10,Dapagliflozin,10mg,Sun Pharma,Tablet,H
+Empagliflozin,Empagliflozin,25mg,Generic,Tablet,H
+Clarithromycin,Clarithromycin,500mg,Generic,Tablet,H
+Claribid 500,Clarithromycin,500mg,Abbott,Tablet,H
+Doxycycline,Doxycycline,100mg,Generic,Capsule,H
+Doxy-1 L-DR Forte,Doxycycline,100mg,USV,Capsule,H
+Cefixime,Cefixime,200mg,Generic,Tablet,H
+Taxim-O 200,Cefixime,200mg,Alkem,Tablet,H
+Zifi 200,Cefixime,200mg,FDC Ltd,Tablet,H
+Cefuroxime,Cefuroxime Axetil,500mg,Generic,Tablet,H
+Ceftum 500,Cefuroxime Axetil,500mg,GlaxoSmithKline,Tablet,H
+Pulmoxyl 500,Amoxicillin,500mg,Mankind,Capsule,H
+Piroxicam,Piroxicam,20mg,Generic,Capsule,H
+Dolonex 20,Piroxicam,20mg,Pfizer,Capsule,H
+Ketprofen,Ketoprofen,100mg,Generic,Tablet,H
+Lornoxicam,Lornoxicam,8mg,Generic,Tablet,H
+Lornitrat,Lornoxicam,8mg,Zydus,Tablet,H
+Etoricoxib,Etoricoxib,90mg,Generic,Tablet,H
+Etoshine 90,Etoricoxib,90mg,Sun Pharma,Tablet,H
+Nucoxia 90,Etoricoxib,90mg,Zydus,Tablet,H
+Indomethacin,Indomethacin,25mg,Generic,Capsule,H
+Indocap,Indomethacin,25mg,Jagsonpal,Capsule,H
+Domperidone + Pantoprazole,Domperidone + Pantoprazole,30mg/40mg,Generic,Capsule,H
+Pantop D SR,Domperidone + Pantoprazole,30mg/40mg,Aristo,Capsule,H
+Pan D,Domperidone + Pantoprazole,30mg/40mg,Alkem,Capsule,H
+Rabeprazole + Itopride,Rabeprazole + Itopride,20mg/150mg,Generic,Capsule,H
+Razo I,Rabeprazole + Itopride,20mg/150mg,Dr Reddys,Capsule,H
+Ganaton,Itopride,50mg,Abbott,Tablet,H
+Leosulpiride,Levosulpiride,25mg,Generic,Tablet,H
+Lesuride,Levosulpiride,25mg,Sun Pharma,Tablet,H
+Bilastine,Bilastine,20mg,Generic,Tablet,H
+Bila-Ten,Bilastine,20mg,Glenmark,Tablet,H
+Fexofenadine + Montelukast,Fexofenadine + Montelukast,120mg/10mg,Generic,Tablet,H
+Allegra M,Fexofenadine + Montelukast,120mg/10mg,Sanofi,Tablet,H
+Doxofylline,Doxofylline,400mg,Generic,Tablet,H
+Doxiflo 400,Doxofylline,400mg,Macleods,Tablet,H
+Acebrophylline,Acebrophylline,100mg,Generic,Capsule,H
+AB Phylline,Acebrophylline,100mg,Sun Pharma,Capsule,H
+Olmesartan,Olmesartan Medoxomil,20mg,Generic,Tablet,H
+Olmesar 20,Olmesartan Medoxomil,20mg,Macleods,Tablet,H
+Olmy 20,Olmesartan Medoxomil,20mg,Zydus,Tablet,H
+Cilnidipine,Cilnidipine,10mg,Generic,Tablet,H
+Cilacar 5,Cilnidipine,5mg,JB Chemicals,Tablet,H
+Bisoprolol,Bisoprolol Fumarate,5mg,Generic,Tablet,H
+Concor 5,Bisoprolol Fumarate,5mg,Merck,Tablet,H
+Ivabradine,Ivabradine,5mg,Generic,Tablet,H
+Ivabrad 5,Ivabradine,5mg,Sun Pharma,Tablet,H
+Ranolazine,Ranolazine,500mg,Generic,Tablet,H
+Ranexa,Ranolazine,500mg,Menarini,Tablet,H
+Venlafaxine,Venlafaxine,75mg,Generic,Capsule,H
+Venlor 75,Venlafaxine,75mg,Cipla,Capsule,H
+Desvenlafaxine,Desvenlafaxine,50mg,Generic,Tablet,H
+D-Veniz 50,Desvenlafaxine,50mg,Sun Pharma,Tablet,H
+Duloxetine,Duloxetine,30mg,Generic,Capsule,H
+Duvanta 30,Duloxetine,30mg,Intas,Capsule,H
+Paroxetine,Paroxetine,25mg,Generic,Tablet,H
+Pexep 25,Paroxetine,25mg,Intas,Tablet,H
+Mirtazapine,Mirtazapine,15mg,Generic,Tablet,H
+Mirtaz 15,Mirtazapine,15mg,Sun Pharma,Tablet,H
+Methylcobalamin,Methylcobalamin,1500mcg,Generic,Tablet,OTC
+Me-12,Methylcobalamin,1500mcg,USV,Tablet,OTC
+Neurobion Forte,Vitamin B Complex + Vitamin B12,-,P&G,Tablet,OTC
+Evion 400,Vitamin E (Tocopheryl Acetate),400mg,P&G,Capsule,OTC
+Uprise-D3 60K,Cholecalciferol (Vitamin D3),60000IU,Alkem Labs,Capsule,H
+Calcirol,Cholecalciferol (Vitamin D3),60000IU,Cadila,Sachet,H
+Coenzyme Q10,Coenzyme Q10,100mg,Generic,Capsule,OTC
+Omega-3 Fatty Acids,Omega-3 Fatty Acids,1000mg,Generic,Capsule,OTC
+Febrex,Paracetamol,500mg,Various,Tablet,H
+Pyrigesic,Paracetamol,500mg,Various,Tablet,H
+T-98,Paracetamol,500mg,Various,Tablet,H
+Pacimol,Paracetamol,500mg,Various,Tablet,H
+Sumo L,Paracetamol,500mg,Various,Tablet,H
+Lupipara,Paracetamol,500mg,Various,Tablet,H
+Paracetamol Generic,Paracetamol,500mg,Generic,Tablet,H
+Mox,Amoxicillin,250mg,Various,Tablet,H
+Novamox,Amoxicillin,250mg,Various,Tablet,H
+Almox,Amoxicillin,250mg,Various,Tablet,H
+Moxyl,Amoxicillin,250mg,Various,Tablet,H
+Cipmox,Amoxicillin,250mg,Various,Tablet,H
+Amoxicillin Generic,Amoxicillin,250mg,Generic,Tablet,H
+Azax,Azithromycin,250mg,Various,Tablet,H
+Azibact,Azithromycin,250mg,Various,Tablet,H
+Trulimax,Azithromycin,250mg,Various,Tablet,H
+Zady,Azithromycin,250mg,Various,Tablet,H
+Zathrin,Azithromycin,250mg,Various,Tablet,H
+Azithromycin Generic,Azithromycin,250mg,Generic,Tablet,H
+Cifran,Ciprofloxacin,250mg,Various,Tablet,H
+Ciprobid,Ciprofloxacin,250mg,Various,Tablet,H
+Zoxan,Ciprofloxacin,250mg,Various,Tablet,H
+Cipro,Ciprofloxacin,250mg,Various,Tablet,H
+Quintor,Ciprofloxacin,250mg,Various,Tablet,H
+Ciprofloxacin Generic,Ciprofloxacin,250mg,Generic,Tablet,H
+Oflox,Ofloxacin,200mg,Various,Tablet,H
+Zenflox,Ofloxacin,200mg,Various,Tablet,H
+Zanocin,Ofloxacin,200mg,Various,Tablet,H
+Tarivid,Ofloxacin,200mg,Various,Tablet,H
+Ofloxacin Generic,Ofloxacin,200mg,Generic,Tablet,H
+Metrogyl,Metronidazole,200mg,Various,Tablet,H
+Metron,Metronidazole,200mg,Various,Tablet,H
+Aldazole,Metronidazole,200mg,Various,Tablet,H
+Metronidazole Generic,Metronidazole,200mg,Generic,Tablet,H
+Okacet,Cetirizine,5mg,Various,Tablet,H
+Altime,Cetirizine,5mg,Various,Tablet,H
+Setride,Cetirizine,5mg,Various,Tablet,H
+Cetirizine Generic,Cetirizine,5mg,Generic,Tablet,H
+L-Hist,Levocetirizine,5mg,Various,Tablet,H
+Levozet,Levocetirizine,5mg,Various,Tablet,H
+Vozet,Levocetirizine,5mg,Various,Tablet,H
+L-Cetro,Levocetirizine,5mg,Various,Tablet,H
+Levocetirizine Generic,Levocetirizine,5mg,Generic,Tablet,H
+Pantakind,Pantoprazole,20mg,Various,Tablet,H
+Pantosec,Pantoprazole,20mg,Various,Tablet,H
+Pantaloc,Pantoprazole,20mg,Various,Tablet,H
+Pentalink,Pantoprazole,20mg,Various,Tablet,H
+Pantoprazole Generic,Pantoprazole,20mg,Generic,Tablet,H
+Omez,Omeprazole,20mg,Various,Tablet,H
+Omee,Omeprazole,20mg,Various,Tablet,H
+Omecip,Omeprazole,20mg,Various,Tablet,H
+Oscal,Omeprazole,20mg,Various,Tablet,H
+Omeprazole Generic,Omeprazole,20mg,Generic,Tablet,H
+Glycomet SR,Metformin,1000mg,Various,Tablet,H
+Metffil,Metformin,1000mg,Various,Tablet,H
+Istamet,Metformin,1000mg,Various,Tablet,H
+Obimet,Metformin,1000mg,Various,Tablet,H
+Metformin Generic,Metformin,1000mg,Generic,Tablet,H
+Amlosafe,Amlodipine,10mg,Various,Tablet,H
+Amlodac,Amlodipine,10mg,Various,Tablet,H
+Amlovas,Amlodipine,10mg,Various,Tablet,H
+Amcard,Amlodipine,10mg,Various,Tablet,H
+Amlodipine Generic,Amlodipine,10mg,Generic,Tablet,H
+Telsar,Telmisartan,20mg,Various,Tablet,H
+Telvas,Telmisartan,20mg,Various,Tablet,H
+Telmikind,Telmisartan,20mg,Various,Tablet,H
+Sartel,Telmisartan,20mg,Various,Tablet,H
+Telmisartan Generic,Telmisartan,20mg,Generic,Tablet,H
+Atpure,Atorvastatin,20mg,Various,Tablet,H
+Atorlip,Atorvastatin,20mg,Various,Tablet,H
+Tonact,Atorvastatin,20mg,Various,Tablet,H
+Storvas,Atorvastatin,20mg,Various,Tablet,H
+Atorvastatin Generic,Atorvastatin,20mg,Generic,Tablet,H
+Rozavel,Rosuvastatin,5mg,Various,Tablet,H
+Rosulip,Rosuvastatin,5mg,Various,Tablet,H
+Roseday,Rosuvastatin,5mg,Various,Tablet,H
+Razel,Rosuvastatin,5mg,Various,Tablet,H
+Rosuvastatin Generic,Rosuvastatin,5mg,Generic,Tablet,H
+Ibugesic,Ibuprofen,200mg,Various,Tablet,H
+Brufen,Ibuprofen,200mg,Various,Tablet,H
+Cidafen,Ibuprofen,200mg,Various,Tablet,H
+Fenasol,Ibuprofen,200mg,Various,Tablet,H
+Ibuprofen Generic,Ibuprofen,200mg,Generic,Tablet,H
+Voveran,Diclofenac,75mg,Various,Tablet,H
+Dicloran,Diclofenac,75mg,Various,Tablet,H
+Dynapar,Diclofenac,75mg,Various,Tablet,H
+Nac,Diclofenac,75mg,Various,Tablet,H
+Diclofenac Generic,Diclofenac,75mg,Generic,Tablet,H
+Zerodol,Aceclofenac,200mg,Various,Tablet,H
+Hifenac,Aceclofenac,200mg,Various,Tablet,H
+Acemiz,Aceclofenac,200mg,Various,Tablet,H
+Acelof,Aceclofenac,200mg,Various,Tablet,H
+Aceclofenac Generic,Aceclofenac,200mg,Generic,Tablet,H
+Rantac,Ranitidine,300mg,Various,Tablet,H
+Zinetac,Ranitidine,300mg,Various,Tablet,H
+Aciloc,Ranitidine,300mg,Various,Tablet,H
+Histac,Ranitidine,300mg,Various,Tablet,H
+Ranitidine Generic,Ranitidine,300mg,Generic,Tablet,H
+Domstal,Domperidone,30mg,Various,Tablet,H
+Domperon,Domperidone,30mg,Various,Tablet,H
+Motinorm,Domperidone,30mg,Various,Tablet,H
+Gasnil,Domperidone,30mg,Various,Tablet,H
+Domperidone Generic,Domperidone,30mg,Generic,Tablet,H
+Ondem,Ondansetron,8mg,Various,Tablet,H
+Emeset,Ondansetron,8mg,Various,Tablet,H
+Periset,Ondansetron,8mg,Various,Tablet,H
+Zofer,Ondansetron,8mg,Various,Tablet,H
+Ondansetron Generic,Ondansetron,8mg,Generic,Tablet,H
+Forcan,Fluconazole,200mg,Various,Tablet,H
+Syscan,Fluconazole,200mg,Various,Tablet,H
+Fluka,Fluconazole,200mg,Various,Tablet,H
+Zocon,Fluconazole,200mg,Various,Tablet,H
+Fluconazole Generic,Fluconazole,200mg,Generic,Tablet,H
+Candid,Clotrimazole,1%,Various,Tablet,H
+Abzorb,Clotrimazole,1%,Various,Tablet,H
+Canesten,Clotrimazole,1%,Various,Tablet,H
+Surfaz,Clotrimazole,1%,Various,Tablet,H
+Clotrimazole Generic,Clotrimazole,1%,Generic,Tablet,H
+Uprise,Vitamin D3,2000IU,Various,Tablet,H
+D-Rise,Vitamin D3,2000IU,Various,Tablet,H
+Depura,Vitamin D3,2000IU,Various,Tablet,H
+D3-Must,Vitamin D3,2000IU,Various,Tablet,H
+Vitamin D3 Generic,Vitamin D3,2000IU,Generic,Tablet,H
+A to Z,Multivitamin,-,Various,Tablet,H
+Revit,Multivitamin,-,Various,Tablet,H
+HealthKart,Multivitamin,-,Various,Tablet,H
+Maxirich,Multivitamin,-,Various,Tablet,H
+Multivitamin Generic,Multivitamin,-,Generic,Tablet,H
+Amaryl,Glimepiride,1mg,Various,Tablet,H
+Glimy,Glimepiride,1mg,Various,Tablet,H
+Euglim,Glimepiride,1mg,Various,Tablet,H
+Glimulin,Glimepiride,1mg,Various,Tablet,H
+Glimepiride Generic,Glimepiride,1mg,Generic,Tablet,H
+Galvus,Vildagliptin,50mg,Various,Tablet,H
+Zomelis,Vildagliptin,50mg,Various,Tablet,H
+Vildamax,Vildagliptin,50mg,Various,Tablet,H
+Jalra,Vildagliptin,50mg,Various,Tablet,H
+Vildagliptin Generic,Vildagliptin,50mg,Generic,Tablet,H
+Zeten,Teneligliptin,20mg,Various,Tablet,H
+Dynaglipt,Teneligliptin,20mg,Various,Tablet,H
+Tenglyn,Teneligliptin,20mg,Various,Tablet,H
+Teniva,Teneligliptin,20mg,Various,Tablet,H
+Teneligliptin Generic,Teneligliptin,20mg,Generic,Tablet,H
+Tobrex,Tobramycin,0.3%,Alcon,Eye Drop,H
+Tobramycin Eye Drops,Tobramycin,0.3%,Generic,Eye Drop,H
+Vigamox,Moxifloxacin,0.5%,Alcon,Eye Drop,H
+Moxifloxacin Eye Drops,Moxifloxacin,0.5%,Generic,Eye Drop,H
+Moxi,Moxifloxacin,0.5%,Cipla,Eye Drop,H
+Ciplox Eye Drop,Ciprofloxacin,0.3%,Cipla,Eye Drop,H
+Ciprofloxacin Eye Drops,Ciprofloxacin,0.3%,Generic,Eye Drop,H
+Zymar,Gatifloxacin,0.3%,Allergan,Eye Drop,H
+Gatifloxacin Eye Drops,Gatifloxacin,0.3%,Generic,Eye Drop,H
+Pataday,Olopatadine,0.2%,Alcon,Eye Drop,H
+Olopatadine Eye Drops,Olopatadine,0.2%,Generic,Eye Drop,H
+Lotemax,Loteprednol,0.5%,Bausch & Lomb,Eye Drop,H
+Loteprednol Eye Drops,Loteprednol,0.5%,Generic,Eye Drop,H
+Refresh Tears,Carboxymethylcellulose,0.5%,Allergan,Eye Drop,OTC
+Carboxymethylcellulose Eye Drops,Carboxymethylcellulose,0.5%,Generic,Eye Drop,OTC
+Systane Ultra,Polyethylene Glycol,0.4%,Alcon,Eye Drop,OTC
+Polyethylene Glycol Eye Drops,Polyethylene Glycol,0.4%,Generic,Eye Drop,OTC
+Econazine,Econazole + Triamcinolone,-,Glaxo,Cream,H
+Panderm,Terbinafine + Ofloxacin + Ornidazole + Clobetasol,-,Macleods,Cream,H
+Fourderm,Chlorhexidine + Neomycin + Miconazole + Clobetasol,-,Cipla,Cream,H
+Itch Guard,Terbinafine,-,Paras,Cream,OTC
+Ring Guard,Miconazole,-,Paras,Cream,OTC
+Boroline,Boric Acid + Zinc Oxide,-,GD Pharma,Cream,OTC
+Vicco Turmeric,Turmeric + Sandalwood Oil,-,Vicco,Cream,OTC
+Betnovate C,Betamethasone + Clioquinol,-,GSK,Cream,H
+Betnovate GM,Betamethasone + Gentamicin + Miconazole,-,GSK,Cream,H
+Tenovate,Clobetasol Propionate,0.05%,Glaxo,Cream,H
+L-Thyroxine,Levothyroxine,100mcg,Generic,Tablet,H
+Thyronorm 100,Levothyroxine,100mcg,Abbott,Tablet,H
+Thyronorm 75,Levothyroxine,75mcg,Abbott,Tablet,H
+Thyronorm 12.5,Levothyroxine,12.5mcg,Abbott,Tablet,H
+Thyronorm 25,Levothyroxine,25mcg,Abbott,Tablet,H
+Eltroxin 100,Levothyroxine,100mcg,GSK,Tablet,H
+Thyrox 50,Levothyroxine,50mcg,Macleods,Tablet,H
+D-Rise 60K,Cholecalciferol,60000IU,USV,Capsule,H
+Calcirol Sachet,Cholecalciferol,60000IU,Cadila,Sachet,H
+Depura Kids,Vitamin D3,400IU/ml,Sanofi,Drops,OTC
+Zincovit Syrup,Multivitamins + Minerals + Zinc,-,Apex,Syrup,OTC
+A to Z NS,Multivitamins + Minerals,-,Alkem,Tablet,OTC
+Revital H,Ginseng + Vitamins + Minerals,-,Sun Pharma,Capsule,OTC
+Folvite,Folic Acid,5mg,Pfizer,Tablet,OTC
+Dexorange,Ferric Ammonium Citrate + Folic Acid + B12,-,Franco-Indian,Syrup,OTC
+Liv 52,Himalayan Herbs,-,Himalaya,Tablet,OTC
+Cystone,Himalayan Herbs,-,Himalaya,Tablet,OTC
+Septilin,Himalayan Herbs,-,Himalaya,Tablet,OTC
+Abana,Himalayan Herbs,-,Himalaya,Tablet,OTC
+Geriforte,Himalayan Herbs,-,Himalaya,Tablet,OTC
+Confido,Himalayan Herbs,-,Himalaya,Tablet,OTC
+Speman,Himalayan Herbs,-,Himalaya,Tablet,OTC
+Tentex Royal,Himalayan Herbs,-,Himalaya,Capsule,OTC
+Shatavari,Asparagus Racemosus,-,Himalaya,Tablet,OTC
+Ashvagandha,Withania Somnifera,-,Himalaya,Tablet,OTC
+Neem,Azadirachta Indica,-,Himalaya,Tablet,OTC
+Brahmi,Bacopa Monnieri,-,Himalaya,Tablet,OTC
+Tulasi,Ocimum Sanctum,-,Himalaya,Tablet,OTC
+Garlicane,Garlic Oil,-,Generic,Capsule,OTC
+Neurobion,Vitamin B1 + B6 + B12,-,P&G,Tablet,OTC
+Polycare,Iron + Zinc + B12,-,Various,Syrup,OTC
+Calcimax-500,Calcium + Vitamin D3 + Magnesium + Zinc,500mg,Meyer,Tablet,OTC
+Shelcal-OS,Calcium + Alfacalcidol,500mg,Torrent,Tablet,H
+Gemcal,Calcitriol + Calcium Carbonate,0.25mcg/500mg,Alkem,Capsule,H
+Vitneurin,Vitamin B Complex,-,Glaxo,Tablet,OTC
+Nurokind-LC,Levocarnitine + Me-Cbl + Folic Acid,-,Mankind,Tablet,H
+Rejuven 1500,Methylcobalamin,1500mcg,Torrent,Tablet,OTC
+Folvite MB,Folic Acid + Methylcobalamin + B6,-,Pfizer,Tablet,H
+Pregalin M 75,Pregabalin + Methylcobalamin,75mg/750mcg,Torrent,Capsule,H
+Gabapin ME 300,Gabapentin + Methylcobalamin,300mg/500mcg,Intas,Tablet,H
+Cobadex Forte,Multivitamins,-,Glaxo,Capsule,OTC
+Evion LC,Vitamin E + Levocarnitine,-,P&G,Tablet,H
+HealthKart Multivitamin,Multivitamins + Minerals + Ginseng,-,HealthKart,Tablet,OTC
+B-Protine,Protein + Vitamins + Minerals,-,British Biologicals,Powder,OTC
+Protinex,Protein Supplement,-,Danone,Powder,OTC
+Women's Horlicks,Nutritional Supplement,-,Hindustan Unilever,Powder,OTC
+Ensure,Nutritional Supplement,-,Abbott,Powder,OTC
+Glavia,Nutritional Supplement,-,Generic,Powder,OTC
+Ensure Diabetes,Nutritional Supplement for Diabetes,-,Abbott,Powder,OTC
+Revital,Ginseng + Vitamins,-,Sun Pharma,Capsule,OTC
+Veenat,Imatinib Mesylate,400mg,Natco Pharma,Tablet,H
+Glivec,Imatinib Mesylate,100mg,Novartis,Tablet,H
+Capegard,Capecitabine,500mg,Cipla,Tablet,H
+Xeloda,Capecitabine,500mg,Roche,Tablet,H
+Nolvadex,Tamoxifen Citrate,20mg,AstraZeneca,Tablet,H
+Mamofen,Tamoxifen Citrate,20mg,Khandelwal Labs,Tablet,H
+Letroz,Letrozole,2.5mg,Sun Pharma,Tablet,H
+Femara,Letrozole,2.5mg,Novartis,Tablet,H
+Altraz,Anastrozole,1mg,Alkem,Tablet,H
+Arimidex,Anastrozole,1mg,AstraZeneca,Tablet,H
+Calutide,Bicalutamide,50mg,Cipla,Tablet,H
+Erlocip,Erlotinib,150mg,Cipla,Tablet,H
+Geftinat,Gefitinib,250mg,Natco Pharma,Tablet,H
+Iressa,Gefitinib,250mg,AstraZeneca,Tablet,H
+Sorafenat,Sorafenib,200mg,Natco Pharma,Tablet,H
+Folitrax,Methotrexate,10mg,IPCA Labs,Tablet,H
+Neotrexate,Methotrexate,2.5mg,Zydus,Tablet,H
+Endoxan,Cyclophosphamide,50mg,Baxter,Tablet,H
+Cycloxan,Cyclophosphamide,50mg,Biochem,Tablet,H
+Hydrea,Hydroxyurea,500mg,Bristol-Myers Squibb,Capsule,H
+Cytodrox,Hydroxyurea,500mg,Zydus,Capsule,H
+Lenalidex,Lenalidomide,25mg,Natco Pharma,Capsule,H
+Revlimid,Lenalidomide,10mg,Cipla,Capsule,H
+Bortecad,Bortezomib,2mg,Cadila,Injection,H
+Velcade,Bortezomib,3.5mg,Johnson & Johnson,Injection,H
+Abirapro,Abiraterone Acetate,250mg,Glenmark,Tablet,H
+Zytiga,Abiraterone Acetate,250mg,Johnson & Johnson,Tablet,H
+Bdenza,Enzalutamide,40mg,BDR Pharma,Capsule,H
+Xtandi,Enzalutamide,40mg,Astellas,Capsule,H
+Palbace,Palbociclib,125mg,Cipla,Capsule,H
+Ibrance,Palbociclib,125mg,Pfizer,Capsule,H
+Tagrisso,Osimertinib,80mg,AstraZeneca,Tablet,H
+Osicent,Osimertinib,80mg,Incepta,Tablet,H
+Hertraz,Trastuzumab,440mg,Mylan,Injection,H
+Maball,Rituximab,500mg,Hetero,Injection,H
+Ristova,Rituximab,500mg,Roche,Injection,H
+Bevatas,Bevacizumab,400mg,Intas,Injection,H
+Cisplat,Cisplatin,50mg,Biochem,Injection,H
+Kemocarb,Carboplatin,450mg,Fresenius Kabi,Injection,H
+Mitotax,Paclitaxel,260mg,Fresenius Kabi,Injection,H
+Taxotere,Docetaxel,80mg,Sanofi,Injection,H
+Doceaква,Docetaxel,120mg,Cipla,Injection,H
+Gemcite,Gemcitabine,1000mg,Sun Pharma,Injection,H
+Cytogem,Gemcitabine,200mg,Cipla,Injection,H
+Fivoflu,5-Fluorouracil,500mg,Biochem,Injection,H
+Zoldria,Zoledronic Acid,4mg,Cipla,Injection,H
+Zometa,Zoledronic Acid,4mg,Novartis,Injection,H
+Thalidomide,Thalidomide,100mg,Natco Pharma,Capsule,H
+Pomalidomide,Pomalidomide,4mg,Natco Pharma,Capsule,H
+Evertor,Everolimus,10mg,Torrent,Tablet,H
+Sutent,Sunitinib,50mg,Pfizer,Capsule,H
+Nexavar,Sorafenib,200mg,Bayer,Tablet,H
+Imbruvica,Ibrutinib,140mg,Johnson & Johnson,Capsule,H
+Canagliflozin,Canagliflozin,100mg,Generic,Tablet,H
+Sulisent,Canagliflozin,100mg,Sun Pharma,Tablet,H
+Invokana,Canagliflozin,100mg,Johnson & Johnson,Tablet,H
+Remogliflozin,Remogliflozin Etabonate,100mg,Generic,Tablet,H
+Remo,Remogliflozin Etabonate,100mg,Glenmark,Tablet,H
+Linagliptin,Linagliptin,5mg,Generic,Tablet,H
+Trajenta,Linagliptin,5mg,Boehringer Ingelheim,Tablet,H
+Saxagliptin,Saxagliptin,5mg,Generic,Tablet,H
+Onglyza,Saxagliptin,5mg,AstraZeneca,Tablet,H
+Liraglutide,Liraglutide,6mg/ml,Generic,Injection,H
+Victoza,Liraglutide,6mg/ml,Novo Nordisk,Injection,H
+Semaglutide,Semaglutide,1.34mg/ml,Generic,Injection,H
+Ozempic,Semaglutide,1mg,Novo Nordisk,Injection,H
+Dulaglutide,Dulaglutide,1.5mg/0.5ml,Generic,Injection,H
+Trulicity,Dulaglutide,1.5mg/0.5ml,Eli Lilly,Injection,H
+Insulin Degludec,Insulin Degludec,100IU/ml,Generic,Injection,H
+Tresiba,Insulin Degludec,100IU/ml,Novo Nordisk,Injection,H
+Insulin Aspart,Insulin Aspart,100IU/ml,Generic,Injection,H
+NovoRapid,Insulin Aspart,100IU/ml,Novo Nordisk,Injection,H
+Insulin Lispro,Insulin Lispro,100IU/ml,Generic,Injection,H
+Humalog,Insulin Lispro,100IU/ml,Eli Lilly,Injection,H
+Gliclazide,Gliclazide,80mg,Generic,Tablet,H
+Glizid,Gliclazide,80mg,USV,Tablet,H
+Diamicron MR,Gliclazide MR,60mg,Serdia,Tablet,H
+Glynase MF,Glipizide + Metformin,5mg/500mg,USV,Tablet,H
+Dapagliflozin + Metformin,Dapagliflozin + Metformin,10mg/500mg,Generic,Tablet,H
+Xigduo,Dapagliflozin + Metformin,10mg/500mg,AstraZeneca,Tablet,H
+Empagliflozin + Metformin,Empagliflozin + Metformin,12.5mg/500mg,Generic,Tablet,H
+Jardiance Met,Empagliflozin + Metformin,12.5mg/1000mg,Boehringer Ingelheim,Tablet,H
+Jardiance,Empagliflozin,10mg,Boehringer Ingelheim,Tablet,H
+Linagliptin + Metformin,Linagliptin + Metformin,2.5mg/500mg,Generic,Tablet,H
+Trajenta Duo,Linagliptin + Metformin,2.5mg/500mg,Boehringer Ingelheim,Tablet,H
+Rybelsus,Semaglutide,7mg,Novo Nordisk,Tablet,H
+Glyxambi,Empagliflozin + Linagliptin,10mg/5mg,Boehringer Ingelheim,Tablet,H
+Vymada,Sacubitril + Valsartan,50mg,Novartis,Tablet,H
+Entresto,Sacubitril + Valsartan,97mg/103mg,Novartis,Tablet,H
+Rivaroxaban,Rivaroxaban,20mg,Generic,Tablet,H
+Xarelto,Rivaroxaban,20mg,Bayer,Tablet,H
+Xeralto,Rivaroxaban,10mg,Zydus,Tablet,H
+Apixaban,Apixaban,5mg,Generic,Tablet,H
+Eliquis,Apixaban,5mg,Pfizer,Tablet,H
+Dabigatran,Dabigatran Etexilate,150mg,Generic,Capsule,H
+Pradaxa,Dabigatran Etexilate,150mg,Boehringer Ingelheim,Capsule,H
+Ticagrelor,Ticagrelor,90mg,Generic,Tablet,H
+Brilinta,Ticagrelor,90mg,AstraZeneca,Tablet,H
+Prasugrel,Prasugrel,10mg,Generic,Tablet,H
+Prasita,Prasugrel,10mg,USV,Tablet,H
+Effient,Prasugrel,10mg,Daiichi Sankyo,Tablet,H
+Trimetazidine,Trimetazidine,35mg,Generic,Tablet,H
+Trivedon MR,Trimetazidine MR,35mg,Lupin,Tablet,H
+Flavedon MR,Trimetazidine MR,35mg,Servier,Tablet,H
+Nicorandil,Nicorandil,5mg,Generic,Tablet,H
+Korandil,Nicorandil,5mg,Torrent,Tablet,H
+Nikoran,Nicorandil,5mg,Sun Pharma,Tablet,H
+Nitrocontin,Nitroglycerin,2.6mg,Sun Pharma,Tablet,H
+Angispan TR,Nitroglycerin,2.6mg,USV,Capsule,H
+Sorbitrate,Isosorbide Dinitrate,10mg,Sun Pharma,Tablet,H
+Monotrate OD,Isosorbide Mononitrate,30mg,Sun Pharma,Tablet,H
+Ismo,Isosorbide Mononitrate,20mg,USV,Tablet,H
+Diltiazem,Diltiazem,30mg,Generic,Tablet,H
+Dilzem,Diltiazem,30mg,Torrent,Tablet,H
+Verapamil,Verapamil,40mg,Generic,Tablet,H
+Calaptin,Verapamil,40mg,Abbott,Tablet,H
+Nifedipine,Nifedipine,20mg,Generic,Tablet,H
+Depin,Nifedipine,20mg,Zydus,Tablet,H
+Calcigard,Nifedipine Retard,20mg,Torrent,Tablet,H
+Prazosin,Prazosin,5mg,Generic,Tablet,H
+Minipress XL,Prazosin XL,5mg,Pfizer,Tablet,H
+Doxacard,Doxazosin,4mg,Cipla,Tablet,H
+Fenofibrate,Fenofibrate,160mg,Generic,Tablet,H
+Lipicard,Fenofibrate,160mg,USV,Tablet,H
+Lipikind,Fenofibrate,145mg,Mankind,Tablet,H
+Atorvastatin + Fenofibrate,Atorvastatin + Fenofibrate,10mg/160mg,Generic,Capsule,H
+Atorlip-F,Atorvastatin + Fenofibrate,10mg/160mg,Cipla,Capsule,H
+Telmisartan + Amlodipine,Telmisartan + Amlodipine,40mg/5mg,Generic,Tablet,H
+Telma AM,Telmisartan + Amlodipine,40mg/5mg,Glenmark,Tablet,H
+Telmisartan + Chlorthalidone,Telmisartan + Chlorthalidone,40mg/12.5mg,Generic,Tablet,H
+Cresar Plus,Telmisartan + Chlorthalidone,40mg/12.5mg,Cipla,Tablet,H
+Olmesartan + Amlodipine,Olmesartan + Amlodipine,20mg/5mg,Generic,Tablet,H
+Olmat AM,Olmesartan + Amlodipine,20mg/5mg,Micro Labs,Tablet,H
+Olmesartan + Amlodipine + HCTZ,Olmesartan + Amlodipine + Hydrochlorothiazide,20mg/5mg/12.5mg,Generic,Tablet,H
+Olmat-AH,Olmesartan + Amlodipine + HCTZ,20mg/5mg/12.5mg,Micro Labs,Tablet,H
+Amlodipine + Telmisartan + Chlorthalidone,Amlodipine + Telmisartan + Chlorthalidone,5mg/40mg/12.5mg,Generic,Tablet,H
+Azoran,Azathioprine,50mg,RPG Life Sciences,Tablet,H
+Imuran,Azathioprine,50mg,GlaxoSmithKline,Tablet,H
+Mycept,Mycophenolate Mofetil,500mg,Panacea Biotec,Tablet,H
+Cellcept,Mycophenolate Mofetil,500mg,Roche,Capsule,H
+Panimun Bioral,Cyclosporine,100mg,Panacea Biotec,Capsule,H
+Sandimmun Neoral,Cyclosporine,100mg,Novartis,Capsule,H
+Pangraf,Tacrolimus,1mg,Panacea Biotec,Capsule,H
+Prograf,Tacrolimus,1mg,Astellas,Capsule,H
+Tacromus,Tacrolimus,0.5mg,Intas,Capsule,H
+Rapacan,Sirolimus,1mg,Biocon,Tablet,H
+HCQS 200,Hydroxychloroquine,200mg,IPCA Labs,Tablet,H
+HCQS 400,Hydroxychloroquine,400mg,IPCA Labs,Tablet,H
+Lefno,Leflunomide,20mg,Cipla,Tablet,H
+Arava,Leflunomide,20mg,Sanofi,Tablet,H
+Saaz,Sulfasalazine,500mg,Wallace,Tablet,H
+Salazopyrin,Sulfasalazine,500mg,Pfizer,Tablet,H
+Tofacinix,Tofacitinib,5mg,Cipla,Tablet,H
+Xeljanz,Tofacitinib,5mg,Pfizer,Tablet,H
+Colchicine,Colchicine,0.5mg,Generic,Tablet,H
+Zycolchin,Colchicine,0.5mg,Zydus,Tablet,H
+Isoniazid,Isoniazid,300mg,Generic,Tablet,H
+R-Cinex,Rifampicin + Isoniazid,450mg/300mg,Lupin,Capsule,H
+Rifampicin,Rifampicin,450mg,Generic,Capsule,H
+Pyrazinamide,Pyrazinamide,500mg,Generic,Tablet,H
+Pyzina,Pyrazinamide,500mg,Lupin,Tablet,H
+Ethambutol,Ethambutol,800mg,Generic,Tablet,H
+Combutol,Ethambutol,800mg,Lupin,Tablet,H
+Myambutol,Ethambutol,400mg,Lupin,Tablet,H
+AKT-4,Rifampicin + Isoniazid + Pyrazinamide + Ethambutol,150mg/75mg/400mg/275mg,Lupin,Tablet,H
+AKT-3,Rifampicin + Isoniazid + Pyrazinamide,150mg/75mg/400mg,Lupin,Tablet,H
+Streptomycin,Streptomycin,750mg,Generic,Injection,H
+Bedaquiline,Bedaquiline,100mg,Generic,Tablet,H
+Sirturo,Bedaquiline,100mg,Johnson & Johnson,Tablet,H
+Delamanid,Delamanid,50mg,Generic,Tablet,H
+Linospan,Linezolid,600mg,Cipla,Tablet,H
+Lizolid,Linezolid,600mg,Glenmark,Tablet,H
+Cycloserine,Cycloserine,250mg,Generic,Capsule,H
+Ethionamide,Ethionamide,250mg,Generic,Tablet,H
+Mycobutol,Ethambutol,600mg,Macleods,Tablet,H
+Moxifloxacin Tablet,Moxifloxacin,400mg,Generic,Tablet,H
+Moxicip,Moxifloxacin,400mg,Cipla,Tablet,H
+Clofazimine,Clofazimine,100mg,Generic,Capsule,H
+Para-Aminosalicylic Acid,Para-Aminosalicylic Acid,500mg,Generic,Tablet,H
+Lariago,Chloroquine Phosphate,250mg,IPCA Labs,Tablet,H
+Resochin,Chloroquine Phosphate,250mg,Bayer,Tablet,H
+Lumerax,Artemether + Lumefantrine,80mg/480mg,Cipla,Tablet,H
+Coartem,Artemether + Lumefantrine,20mg/120mg,Novartis,Tablet,H
+Falcigo,Artesunate,60mg,Cipla,Injection,H
+Artesunate,Artesunate,50mg,Generic,Tablet,H
+Mefliam,Mefloquine,250mg,Cipla,Tablet,H
+Lariam,Mefloquine,250mg,Roche,Tablet,H
+Primaquine,Primaquine,15mg,Generic,Tablet,H
+Quinine Sulphate,Quinine Sulphate,300mg,Generic,Tablet,H
+Malarone,Atovaquone + Proguanil,250mg/100mg,GlaxoSmithKline,Tablet,H
+Artemether Injection,Artemether,80mg/ml,Generic,Injection,H
+Alpha-Beta Arteether,Alpha-Beta Arteether,150mg/2ml,Generic,Injection,H
+E-Mal,Alpha-Beta Arteether,150mg/2ml,Themis Medicare,Injection,H
+Tenvir-EM,Tenofovir + Emtricitabine,300mg/200mg,Cipla,Tablet,H
+Telura,Tenofovir + Lamivudine + Efavirenz,300mg/300mg/600mg,Cipla,Tablet,H
+Duovir,Zidovudine + Lamivudine,300mg/150mg,Cipla,Tablet,H
+Duovir-N,Zidovudine + Lamivudine + Nevirapine,300mg/150mg/200mg,Cipla,Tablet,H
+Nevimune,Nevirapine,200mg,Cipla,Tablet,H
+Efavir,Efavirenz,600mg,Cipla,Tablet,H
+Tenvir,Tenofovir Disoproxil Fumarate,300mg,Cipla,Tablet,H
+Lopimune,Lopinavir + Ritonavir,200mg/50mg,Cipla,Tablet,H
+Atazor,Atazanavir,300mg,Emcure,Capsule,H
+Atazor-R,Atazanavir + Ritonavir,300mg/100mg,Emcure,Tablet,H
+Dolutegravir,Dolutegravir,50mg,Generic,Tablet,H
+Tivicay,Dolutegravir,50mg,ViiV Healthcare,Tablet,H
+Virolans,Dolutegravir,50mg,Cipla,Tablet,H
+TLD,Tenofovir + Lamivudine + Dolutegravir,300mg/300mg/50mg,Hetero,Tablet,H
+Abacavir,Abacavir,300mg,Generic,Tablet,H
+Lamivudine,Lamivudine,150mg,Generic,Tablet,H
+Lamivir,Lamivudine,150mg,Cipla,Tablet,H
+Darunavir,Darunavir,600mg,Generic,Tablet,H
+Raltegravir,Raltegravir,400mg,Generic,Tablet,H
+Mala-N,Levonorgestrel + Norethisterone,0.15mg/1mg,Hindustan Latex,Tablet,OTC
+Mala-D,Levonorgestrel + Ethinyl Estradiol,0.15mg/0.03mg,Hindustan Latex,Tablet,OTC
+i-Pill,Levonorgestrel,1.5mg,Piramal Healthcare,Tablet,OTC
+Unwanted 72,Levonorgestrel,1.5mg,Mankind,Tablet,OTC
+Femilon,Desogestrel + Ethinyl Estradiol,0.15mg/0.02mg,Organon,Tablet,H
+Novelon,Desogestrel + Ethinyl Estradiol,0.15mg/0.03mg,Organon,Tablet,H
+Ovral-L,Levonorgestrel + Ethinyl Estradiol,0.15mg/0.03mg,Pfizer,Tablet,H
+Yasmin,Drospirenone + Ethinyl Estradiol,3mg/0.03mg,Bayer,Tablet,H
+Duphaston,Dydrogesterone,10mg,Abbott,Tablet,H
+Susten,Progesterone (Micronized),200mg,Sun Pharma,Capsule,H
+Deviry,Medroxyprogesterone Acetate,10mg,Torrent,Tablet,H
+Progynova,Estradiol Valerate,2mg,Bayer,Tablet,H
+Premarin,Conjugated Estrogens,0.625mg,Pfizer,Tablet,H
+Primolut-N,Norethisterone,5mg,Bayer,Tablet,H
+Cernos,Testosterone Undecanoate,40mg,Sun Pharma,Capsule,H
+Sustanon 250,Testosterone Blend,250mg/ml,Organon,Injection,H
+Siphene,Clomifene Citrate,100mg,Serum Institute,Tablet,H
+Fertomid,Clomifene Citrate,50mg,Cipla,Tablet,H
+Danazol,Danazol,200mg,Generic,Capsule,H
+Danogen,Danazol,200mg,Cipla,Capsule,H
+Zoladex,Goserelin,3.6mg,AstraZeneca,Injection,H
+Lupride Depot,Leuprolide,3.75mg,Sun Pharma,Injection,H
+Cabergoline,Cabergoline,0.5mg,Generic,Tablet,H
+Cabgolin,Cabergoline,0.5mg,Sun Pharma,Tablet,H
+Bromocriptine,Bromocriptine,2.5mg,Generic,Tablet,H
+Prothiaden,Prothiaden Capsule,75mg,Abbott,Tablet,H
+Desmopressin,Desmopressin,0.1mg,Generic,Tablet,H
+Minirin,Desmopressin,0.1mg,Ferring,Tablet,H
+Timolol Eye Drops,Timolol,0.5%,Generic,Eye Drop,H
+Timolast,Timolol,0.5%,Sun Pharma,Eye Drop,H
+Iotim,Timolol,0.5%,FDC Ltd,Eye Drop,H
+Latanoprost Eye Drops,Latanoprost,0.005%,Generic,Eye Drop,H
+Latoprost,Latanoprost,0.005%,Sun Pharma,Eye Drop,H
+Xalatan,Latanoprost,0.005%,Pfizer,Eye Drop,H
+Brimonidine Eye Drops,Brimonidine,0.2%,Generic,Eye Drop,H
+Alphagan,Brimonidine,0.2%,Allergan,Eye Drop,H
+Brimopress,Brimonidine,0.15%,Sun Pharma,Eye Drop,H
+Dorzolamide Eye Drops,Dorzolamide,2%,Generic,Eye Drop,H
+Dorzox,Dorzolamide,2%,Cipla,Eye Drop,H
+Travoprost Eye Drops,Travoprost,0.004%,Generic,Eye Drop,H
+Travatan,Travoprost,0.004%,Alcon,Eye Drop,H
+Bimatoprost Eye Drops,Bimatoprost,0.03%,Generic,Eye Drop,H
+Careprost,Bimatoprost,0.03%,Sun Pharma,Eye Drop,H
+Lumigan,Bimatoprost,0.03%,Allergan,Eye Drop,H
+Nepafenac Eye Drops,Nepafenac,0.1%,Generic,Eye Drop,H
+Nevanac,Nepafenac,0.1%,Alcon,Eye Drop,H
+Natamycin Eye Drops,Natamycin,5%,Generic,Eye Drop,H
+Natamet,Natamycin,5%,Sun Pharma,Eye Drop,H
+Tropicamide Eye Drops,Tropicamide,1%,Generic,Eye Drop,H
+Tropicacyl,Tropicamide,1%,Sun Pharma,Eye Drop,H
+Cyclopentolate Eye Drops,Cyclopentolate,1%,Generic,Eye Drop,H
+Cyclomid,Cyclopentolate,1%,Sun Pharma,Eye Drop,H
+Pred Forte,Prednisolone Acetate,1%,Allergan,Eye Drop,H
+Dexamethasone Eye Drops,Dexamethasone,0.1%,Generic,Eye Drop,H
+Pilocarpine Eye Drops,Pilocarpine,2%,Generic,Eye Drop,H
+Dorzolamide + Timolol Eye Drops,Dorzolamide + Timolol,2%/0.5%,Generic,Eye Drop,H
+Dorzox-T,Dorzolamide + Timolol,2%/0.5%,Cipla,Eye Drop,H
+Combigan,Brimonidine + Timolol,0.2%/0.5%,Allergan,Eye Drop,H
+Homatropine Eye Drops,Homatropine,2%,Generic,Eye Drop,H
+Calpol Syrup,Paracetamol,120mg/5ml,GlaxoSmithKline,Syrup,OTC
+Crocin DS Syrup,Paracetamol,250mg/5ml,GlaxoSmithKline,Syrup,OTC
+Meftal-P,Mefenamic Acid,50mg/5ml,Blue Cross,Syrup,H
+Ibugesic Plus Syrup,Ibuprofen + Paracetamol,100mg/162.5mg per 5ml,Cipla,Syrup,OTC
+Augmentin Duo Syrup,Amoxicillin + Clavulanic Acid,228.5mg/5ml,GlaxoSmithKline,Syrup,H
+Taxim-O Drops,Cefixime,50mg/5ml,Alkem,Drops,H
+Zifi Syrup,Cefixime,50mg/5ml,FDC Ltd,Syrup,H
+Azee Syrup,Azithromycin,200mg/5ml,Cipla,Syrup,H
+Zentel,Albendazole,400mg,GlaxoSmithKline,Tablet,H
+Albendazole Syrup,Albendazole,200mg/5ml,Generic,Syrup,H
+Bandy,Albendazole,400mg,Mankind,Tablet,H
+Mebex,Mebendazole,100mg,Cipla,Tablet,OTC
+Tonoferon Drops,Ferrous Ascorbate + Folic Acid,30mg/0.5mg per ml,Alkem,Drops,H
+Orofer XT,Ferrous Ascorbate + Folic Acid,100mg/1.5mg,Emcure,Tablet,H
+Dexorange Syrup,Ferric Ammonium Citrate + Folic Acid + B12,-,Franco-Indian,Syrup,OTC
+Duphalac,Lactulose,10gm/15ml,Abbott,Syrup,H
+Cremaffin,Liquid Paraffin + Milk of Magnesia,-,Abbott,Syrup,OTC
+Aristozyme,Digestive Enzyme + Fungal Diastase,-,Aristo,Syrup,OTC
+Bonnisan,Gripe Water,-,Himalaya,Syrup,OTC
+Colicaid,Simethicone + Dill Oil,40mg/5ml,Meyer Organics,Drops,OTC
+Neopeptine,Fungal Diastase + Pepsin,-,Raptakos Brett,Drops,OTC
+Vitcofol Syrup,Multivitamin + Iron + Zinc,-,GlaxoSmithKline,Syrup,OTC
+Maxtra Syrup,Phenylephrine + Chlorpheniramine + Paracetamol,-,Unichem,Syrup,OTC
+Sinarest Drops,Paracetamol + Phenylephrine + Chlorpheniramine,-,Centaur,Drops,OTC
+Tixylix,Chlorpheniramine + Ammonium Chloride + Sodium Citrate,-,Cipla,Syrup,OTC
+Phenergan Syrup,Promethazine,5mg/5ml,Sanofi,Syrup,H
+Monocef,Ceftriaxone,1000mg,Aristo Pharma,Injection,H
+Monocef-SB,Ceftriaxone + Sulbactam,1500mg,Aristo Pharma,Injection,H
+Ceftriaxone,Ceftriaxone,1000mg,Generic,Injection,H
+Amikacin,Amikacin,500mg,Generic,Injection,H
+Mikacin,Amikacin,500mg,Aristo,Injection,H
+Gentamicin Injection,Gentamicin,80mg/2ml,Generic,Injection,H
+Tazact,Piperacillin + Tazobactam,4.5gm,Alkem,Injection,H
+Zosyn,Piperacillin + Tazobactam,4.5gm,Pfizer,Injection,H
+Meronem,Meropenem,1gm,AstraZeneca,Injection,H
+Merotrol,Meropenem,1gm,Lupin,Injection,H
+Vancomycin,Vancomycin,500mg,Generic,Injection,H
+Vancocin,Vancomycin,500mg,Cipla,Injection,H
+Imipenem + Cilastatin,Imipenem + Cilastatin,500mg/500mg,Generic,Injection,H
+Cilanem,Imipenem + Cilastatin,500mg/500mg,Cipla,Injection,H
+Colistin,Colistimethate Sodium,1MIU,Generic,Injection,H
+Xylocaine Injection,Lignocaine,2%,AstraZeneca,Injection,H
+Metoclopramide Injection,Metoclopramide,10mg/2ml,Generic,Injection,H
+Perinorm Injection,Metoclopramide,10mg/2ml,IPCA Labs,Injection,H
+Diclofenac Injection,Diclofenac Sodium,75mg/3ml,Generic,Injection,H
+Voveran Injection,Diclofenac Sodium,75mg/3ml,Novartis,Injection,H
+Hydrocortisone Injection,Hydrocortisone,100mg,Generic,Injection,H
+Efcorlin Injection,Hydrocortisone,100mg,GlaxoSmithKline,Injection,H
+Dexamethasone Injection,Dexamethasone,4mg/ml,Generic,Injection,H
+Methylprednisolone Injection,Methylprednisolone,1000mg,Generic,Injection,H
+Solu-Medrol,Methylprednisolone,1000mg,Pfizer,Injection,H
+Ranitidine Injection,Ranitidine,50mg/2ml,Generic,Injection,H
+Pantoprazole Injection,Pantoprazole,40mg,Generic,Injection,H
+Ondansetron Injection,Ondansetron,4mg/2ml,Generic,Injection,H
+Iron Sucrose Injection,Iron Sucrose,100mg/5ml,Generic,Injection,H
+Orofer-S,Iron Sucrose,100mg/5ml,Emcure,Injection,H
+Adrenaline Injection,Adrenaline (Epinephrine),1mg/ml,Generic,Injection,H
+Atropine Injection,Atropine Sulphate,0.6mg/ml,Generic,Injection,H
+Dopamine Injection,Dopamine,200mg/5ml,Generic,Injection,H
+Dobutamine Injection,Dobutamine,250mg/20ml,Generic,Injection,H
+Noradrenaline Injection,Noradrenaline,2mg/ml,Generic,Injection,H
+Nitroglycerin Injection,Nitroglycerin,5mg/ml,Generic,Injection,H
+Magnesium Sulphate Injection,Magnesium Sulphate,50%,Generic,Injection,H
+Calcium Gluconate Injection,Calcium Gluconate,10%,Generic,Injection,H
+Mannitol,Mannitol,20%,Generic,Injection,H
+Dextrose Injection,Dextrose,25%,Generic,Injection,H
+Normal Saline,Sodium Chloride,0.9%,Generic,Injection,OTC
+Ringer Lactate,Ringer Lactate,-,Generic,Injection,H
+Diazepam Injection,Diazepam,10mg/2ml,Generic,Injection,H
+Calmpose Injection,Diazepam,10mg/2ml,Ranbaxy,Injection,H
+Midazolam Injection,Midazolam,5mg/ml,Generic,Injection,H
+Fosphenytoin Injection,Fosphenytoin,75mg/ml,Generic,Injection,H
+Aminophylline Injection,Aminophylline,250mg/10ml,Generic,Injection,H
+Naloxone Injection,Naloxone,0.4mg/ml,Generic,Injection,H
+Flumazenil Injection,Flumazenil,0.5mg/5ml,Generic,Injection,H
+Activated Charcoal,Activated Charcoal,50gm,Generic,Powder,OTC
+Tranexamic Acid Injection,Tranexamic Acid,500mg/5ml,Generic,Injection,H
+Tranexa,Tranexamic Acid,500mg,Cipla,Tablet,H
+Propofol,Propofol,200mg/20ml,Generic,Injection,H
+Thiopentone,Thiopentone Sodium,500mg,Generic,Injection,H
+Ketamine Injection,Ketamine,500mg/10ml,Generic,Injection,H
+Aneket,Ketamine,500mg/10ml,Neon Labs,Injection,H
+Succinylcholine Injection,Succinylcholine Chloride,100mg/2ml,Generic,Injection,H
+Vecuronium,Vecuronium Bromide,4mg,Generic,Injection,H
+Atracurium,Atracurium Besylate,25mg/2.5ml,Generic,Injection,H
+Bupivacaine Injection,Bupivacaine,0.5%,Generic,Injection,H
+Anawin,Bupivacaine,0.5%,Neon Labs,Injection,H
+Sensorcaine,Bupivacaine,0.5%,AstraZeneca,Injection,H
+Lignocaine Injection,Lignocaine,2%,Generic,Injection,H
+LOX 2%,Lignocaine,2%,Neon Labs,Injection,H
+Sevoflurane,Sevoflurane,250ml,Generic,Liquid,H
+Sevorane,Sevoflurane,250ml,Abbott,Liquid,H
+Neostigmine Injection,Neostigmine,0.5mg/ml,Generic,Injection,H
+Glycopyrrolate Injection,Glycopyrrolate,0.2mg/ml,Generic,Injection,H
+Fentanyl Injection,Fentanyl,100mcg/2ml,Generic,Injection,H
+Fentanyl Patch,Fentanyl,25mcg/hr,Generic,Patch,H
+Morphine Injection,Morphine Sulphate,15mg/ml,Generic,Injection,H
+Morphine Tablet,Morphine Sulphate,10mg,Generic,Tablet,H
+Codeine Phosphate,Codeine Phosphate,30mg,Generic,Tablet,H
+Terbicip,Terbinafine,250mg,Cipla,Tablet,H
+Terbinafine,Terbinafine,250mg,Generic,Tablet,H
+Voriconazole,Voriconazole,200mg,Generic,Tablet,H
+Vorier,Voriconazole,200mg,Cipla,Tablet,H
+Vfend,Voriconazole,200mg,Pfizer,Tablet,H
+Amphotericin B,Amphotericin B,50mg,Generic,Injection,H
+Fungizone,Amphotericin B,50mg,Bristol-Myers Squibb,Injection,H
+AmBisome,Liposomal Amphotericin B,50mg,Gilead,Injection,H
+Posaconazole,Posaconazole,100mg,Generic,Tablet,H
+Noxafil,Posaconazole,100mg,MSD,Tablet,H
+Caspofungin,Caspofungin,50mg,Generic,Injection,H
+Micafungin,Micafungin,50mg,Generic,Injection,H
+Griseofulvin,Griseofulvin,500mg,Generic,Tablet,H
+Grisovin FP,Griseofulvin,500mg,GlaxoSmithKline,Tablet,H
+Nystatin,Nystatin,500000IU,Generic,Tablet,H
+Sertaconazole Cream,Sertaconazole,2%,Generic,Cream,H
+Onabet Cream,Sertaconazole,2%,Glenmark,Cream,H
+Aripiprazole,Aripiprazole,10mg,Generic,Tablet,H
+Arpizol,Aripiprazole,10mg,Sun Pharma,Tablet,H
+Aripipe,Aripiprazole,10mg,Torrent,Tablet,H
+Lithium Carbonate,Lithium Carbonate,300mg,Generic,Tablet,H
+Licab,Lithium Carbonate,300mg,Torrent,Tablet,H
+Intalith CR,Lithium Carbonate,400mg,Sun Pharma,Tablet,H
+Sodium Valproate,Sodium Valproate,200mg,Generic,Tablet,H
+Valparin,Sodium Valproate,200mg,Sanofi,Tablet,H
+Valparin Chrono,Sodium Valproate + Valproic Acid,200mg/87mg,Sanofi,Tablet,H
+Lamotrigine,Lamotrigine,50mg,Generic,Tablet,H
+Lamitor,Lamotrigine,50mg,Torrent,Tablet,H
+Lamictal,Lamotrigine,25mg,GlaxoSmithKline,Tablet,H
+Topiramate,Topiramate,25mg,Generic,Tablet,H
+Topamac,Topiramate,25mg,Johnson & Johnson,Tablet,H
+Topirol,Topiramate,25mg,Sun Pharma,Tablet,H
+Lurasidone,Lurasidone,40mg,Generic,Tablet,H
+Latuda,Lurasidone,40mg,Sunovion,Tablet,H
+Clozapine,Clozapine,100mg,Generic,Tablet,H
+Sizopin,Clozapine,100mg,Sun Pharma,Tablet,H
+Haloperidol,Haloperidol,5mg,Generic,Tablet,H
+Serenace,Haloperidol,5mg,RPG Life Sciences,Tablet,H
+Chlorpromazine,Chlorpromazine,100mg,Generic,Tablet,H
+Largactil,Chlorpromazine,100mg,Sanofi,Tablet,H
+Bupropion,Bupropion,150mg,Generic,Tablet,H
+Bupron SR,Bupropion SR,150mg,Sun Pharma,Tablet,H
+Atomoxetine,Atomoxetine,25mg,Generic,Capsule,H
+Axepta,Atomoxetine,25mg,Intas,Capsule,H
+Methylphenidate,Methylphenidate,10mg,Generic,Tablet,H
+Addwize,Methylphenidate,10mg,Sun Pharma,Tablet,H
+Inspiral,Methylphenidate,10mg,Intas,Tablet,H
+Modafinil,Modafinil,200mg,Generic,Tablet,H
+Modalert,Modafinil,200mg,Sun Pharma,Tablet,H
+Zolpidem,Zolpidem,10mg,Generic,Tablet,H
+Zolfresh,Zolpidem,10mg,Sun Pharma,Tablet,H
+Stilnoct,Zolpidem,10mg,Sanofi,Tablet,H
+Trazodone,Trazodone,50mg,Generic,Tablet,H
+Trazonil,Trazodone,50mg,Intas,Tablet,H
+Buspirone,Buspirone,10mg,Generic,Tablet,H
+Buspin,Buspirone,10mg,Sun Pharma,Tablet,H
+Amisulpride,Amisulpride,200mg,Generic,Tablet,H
+Sulpitac,Amisulpride,200mg,Sun Pharma,Tablet,H
+Flupentixol + Melitracen,Flupentixol + Melitracen,0.5mg/10mg,Generic,Tablet,H
+Deanxit,Flupentixol + Melitracen,0.5mg/10mg,Lundbeck,Tablet,H
+Epofit,Erythropoietin,4000IU,Intas,Injection,H
+Eprex,Erythropoietin,4000IU,Johnson & Johnson,Injection,H
+Wepox,Erythropoietin,4000IU,Wockhardt,Injection,H
+Sodium Bicarbonate,Sodium Bicarbonate,500mg,Generic,Tablet,H
+Potklor,Potassium Chloride,1.5gm/10ml,GlaxoSmithKline,Syrup,H
+Sevelamer,Sevelamer Hydrochloride,800mg,Generic,Tablet,H
+Revlamer,Sevelamer Carbonate,800mg,Glenmark,Tablet,H
+Cinacalcet,Cinacalcet,30mg,Generic,Tablet,H
+Mimpara,Cinacalcet,30mg,Amgen,Tablet,H
+Alfacalcidol,Alfacalcidol,0.25mcg,Generic,Capsule,H
+Alfacip,Alfacalcidol,0.25mcg,Cipla,Capsule,H
+Calcitriol,Calcitriol,0.25mcg,Generic,Capsule,H
+Rocaltrol,Calcitriol,0.25mcg,Roche,Capsule,H
+Febuxostat,Febuxostat,40mg,Generic,Tablet,H
+Febuget,Febuxostat,40mg,Sun Pharma,Tablet,H
+Fabulas,Febuxostat,40mg,Mankind,Tablet,H
+Allopurinol,Allopurinol,100mg,Generic,Tablet,H
+Zyloric,Allopurinol,100mg,GlaxoSmithKline,Tablet,H
+Sodium Polystyrene Sulfonate,Sodium Polystyrene Sulfonate,15gm,Generic,Powder,H
+Kayexalate,Sodium Polystyrene Sulfonate,15gm,Sanofi,Powder,H
+Darbepoetin Alfa,Darbepoetin Alfa,40mcg,Generic,Injection,H
+Cresp,Darbepoetin Alfa,40mcg,Dr Reddys,Injection,H
+Sofosbuvir,Sofosbuvir,400mg,Generic,Tablet,H
+Hepcinat,Sofosbuvir,400mg,Natco Pharma,Tablet,H
+MyHep,Sofosbuvir,400mg,Mylan,Tablet,H
+Daclatasvir,Daclatasvir,60mg,Generic,Tablet,H
+Natdac,Daclatasvir,60mg,Natco Pharma,Tablet,H
+DaciHep,Daclatasvir,60mg,Zydus,Tablet,H
+Sofosbuvir + Velpatasvir,Sofosbuvir + Velpatasvir,400mg/100mg,Generic,Tablet,H
+Velpanat,Sofosbuvir + Velpatasvir,400mg/100mg,Natco Pharma,Tablet,H
+Epclusa,Sofosbuvir + Velpatasvir,400mg/100mg,Gilead,Tablet,H
+Sofosbuvir + Ledipasvir,Sofosbuvir + Ledipasvir,400mg/90mg,Generic,Tablet,H
+Hepcinat LP,Sofosbuvir + Ledipasvir,400mg/90mg,Natco Pharma,Tablet,H
+Entecavir,Entecavir,0.5mg,Generic,Tablet,H
+Entavir,Entecavir,0.5mg,Cipla,Tablet,H
+Baraclude,Entecavir,0.5mg,Bristol-Myers Squibb,Tablet,H
+Ursodeoxycholic Acid,Ursodeoxycholic Acid,300mg,Generic,Tablet,H
+Udiliv,Ursodeoxycholic Acid,300mg,Abbott,Tablet,H
+Ursocol,Ursodeoxycholic Acid,300mg,Sun Pharma,Tablet,H
+Silymarin,Silymarin,140mg,Generic,Capsule,OTC
+Silybon,Silymarin,140mg,Micro Labs,Capsule,OTC
+Rifaximin,Rifaximin,550mg,Generic,Tablet,H
+Rcifax,Rifaximin,550mg,Lupin,Tablet,H
+Gutpro,Rifaximin,400mg,Sun Pharma,Tablet,H
+Lactulose,Lactulose,10gm/15ml,Generic,Syrup,H
+Volini Spray,Diclofenac Diethylamine,4%,Ranbaxy,Spray,OTC
+Volini Gel,Diclofenac Diethylamine,1.16%,Ranbaxy,Gel,OTC
+Moov Cream,Diclofenac + Methyl Salicylate + Capsaicin,-,Reckitt,Cream,OTC
+Iodex Pain Relief,Diclofenac Diethylamine + Methyl Salicylate,1%/5%,GlaxoSmithKline,Gel,OTC
+Zandu Balm,Camphor + Menthol + Methyl Salicylate,-,Emami,Cream,OTC
+Amrutanjan,Camphor + Menthol + Methyl Salicylate,-,Amrutanjan Healthcare,Cream,OTC
+Tiger Balm,Camphor + Menthol + Cajuput Oil,-,Haw Par,Cream,OTC
+Vicks VapoRub,Camphor + Menthol + Eucalyptus Oil,-,P&G,Ointment,OTC
+Burnol,Aminacrine + Cetrimide,-,Dr Morepen,Cream,OTC
+Betadine Solution,Povidone Iodine,5%,Win-Medicare,Solution,OTC
+Betadine Ointment,Povidone Iodine,5%,Win-Medicare,Ointment,OTC
+Savlon Antiseptic,Cetrimide + Chlorhexidine Gluconate,3%/1.5%,ITC,Solution,OTC
+Strepsils,Amylmetacresol + Dichlorobenzyl Alcohol,0.6mg/1.2mg,Reckitt,Lozenge,OTC
+Vicks Cough Drops,Menthol,-,P&G,Lozenge,OTC
+Hajmola,Digestive Enzymes,-,Dabur,Tablet,OTC
+Pudinhara,Peppermint Oil,-,Dabur,Capsule,OTC
+Dabur Chyawanprash,Amla + Herbs,-,Dabur,Paste,OTC
+Baidyanath Chyawanprash,Amla + Herbs,-,Baidyanath,Paste,OTC
+Cefpodoxime + Clavulanic Acid,Cefpodoxime + Clavulanic Acid,200mg/125mg,Generic,Tablet,H
+Cepodox CV,Cefpodoxime + Clavulanic Acid,200mg/125mg,Cipla,Tablet,H
+Cefpodoxime,Cefpodoxime Proxetil,200mg,Generic,Tablet,H
+Cepodem,Cefpodoxime Proxetil,200mg,Sun Pharma,Tablet,H
+Mahacef,Cefpodoxime Proxetil,200mg,Mankind,Tablet,H
+Pantoprazole + Levosulpiride,Pantoprazole + Levosulpiride,40mg/75mg,Generic,Capsule,H
+Pantop-L,Pantoprazole + Levosulpiride,40mg/75mg,Aristo,Capsule,H
+Aceclofenac + Thiocolchicoside,Aceclofenac + Thiocolchicoside,100mg/4mg,Generic,Tablet,H
+Hifenac-TH,Aceclofenac + Thiocolchicoside,100mg/4mg,Intas,Tablet,H
+Thiocolchicoside,Thiocolchicoside,4mg,Generic,Capsule,H
+Myoril,Thiocolchicoside,4mg,Sanofi,Capsule,H
+Rabeprazole + Domperidone,Rabeprazole + Domperidone,20mg/30mg,Generic,Capsule,H
+Rabesec-D,Rabeprazole + Domperidone,20mg/30mg,Cipla,Capsule,H
+Glimepiride + Metformin + Voglibose,Glimepiride + Metformin + Voglibose,1mg/500mg/0.2mg,Generic,Tablet,H
+Trivoglimac,Glimepiride + Metformin + Voglibose,1mg/500mg/0.2mg,Lupin,Tablet,H
+Telmisartan + Amlodipine + HCTZ,Telmisartan + Amlodipine + HCTZ,40mg/5mg/12.5mg,Generic,Tablet,H
+Telma AMH,Telmisartan + Amlodipine + HCTZ,40mg/5mg/12.5mg,Glenmark,Tablet,H
+Rosuvastatin + Aspirin + Clopidogrel,Rosuvastatin + Aspirin + Clopidogrel,10mg/75mg/75mg,Generic,Capsule,H
+Rosuvas Gold,Rosuvastatin + Aspirin + Clopidogrel,10mg/75mg/75mg,Sun Pharma,Capsule,H
+Atorvastatin + Aspirin + Clopidogrel,Atorvastatin + Aspirin + Clopidogrel,10mg/75mg/75mg,Generic,Capsule,H
+Ecosprin Gold,Atorvastatin + Aspirin + Clopidogrel,10mg/75mg/75mg,USV,Capsule,H
+Calcium + Vitamin D3 + Methylcobalamin,Calcium + Vitamin D3 + Methylcobalamin,500mg/250IU/1500mcg,Generic,Tablet,OTC
+Cefoperazone + Sulbactam,Cefoperazone + Sulbactam,1gm/1gm,Generic,Injection,H
+Magnex,Cefoperazone + Sulbactam,1gm/1gm,Alkem,Injection,H
+Amoxicillin + Clavulanic Acid Injection,Amoxicillin + Clavulanic Acid,1000mg/200mg,Generic,Injection,H
+Ampicillin + Sulbactam,Ampicillin + Sulbactam,1500mg,Generic,Injection,H
+Clindamycin,Clindamycin,300mg,Generic,Capsule,H
+Dalacin C,Clindamycin,300mg,Pfizer,Capsule,H
+Clindasol,Clindamycin,300mg,Sun Pharma,Capsule,H
+Linezolid Injection,Linezolid,600mg/300ml,Generic,Injection,H
+Tigecycline,Tigecycline,50mg,Generic,Injection,H
+Teicoplanin,Teicoplanin,400mg,Generic,Injection,H
+Nitrofurantoin,Nitrofurantoin,100mg,Generic,Capsule,H
+Furadantin,Nitrofurantoin,100mg,Sun Pharma,Capsule,H
+Phenazopyridine,Phenazopyridine,200mg,Generic,Tablet,H
+Tamsulosin,Tamsulosin,0.4mg,Generic,Capsule,H
+Urimax,Tamsulosin,0.4mg,Cipla,Capsule,H
+Contiflo,Tamsulosin,0.4mg,Sun Pharma,Capsule,H
+Silodosin,Silodosin,8mg,Generic,Capsule,H
+Silofast,Silodosin,8mg,Cipla,Capsule,H
+Alfuzosin,Alfuzosin,10mg,Generic,Tablet,H
+Alfoo,Alfuzosin,10mg,Dr Reddys,Tablet,H
+Dutasteride,Dutasteride,0.5mg,Generic,Capsule,H
+Duprost,Dutasteride,0.5mg,Cipla,Capsule,H
+Finasteride,Finasteride,5mg,Generic,Tablet,H
+Finast,Finasteride,5mg,Dr Reddys,Tablet,H
+Dutasteride + Tamsulosin,Dutasteride + Tamsulosin,0.5mg/0.4mg,Generic,Capsule,H
+Dutas-T,Dutasteride + Tamsulosin,0.5mg/0.4mg,Dr Reddys,Capsule,H
+Oxytocin Injection,Oxytocin,5IU/ml,Generic,Injection,H
+Misoprostol,Misoprostol,200mcg,Generic,Tablet,H
+Cytolog,Misoprostol,200mcg,Cipla,Tablet,H
+Methylergometrine,Methylergometrine,0.125mg,Generic,Tablet,H
+Methergine,Methylergometrine,0.125mg,Novartis,Tablet,H
+Lobate GM,Clobetasol + Gentamicin + Miconazole,-,Ajanta,Cream,H
+Luliconazole Cream,Luliconazole,1%,Generic,Cream,H
+Lulibet,Luliconazole,1%,Sun Pharma,Cream,H
+Lulifin,Luliconazole,1%,Glenmark,Cream,H
+Tacrolimus Ointment,Tacrolimus,0.1%,Generic,Ointment,H
+Tacroz Forte,Tacrolimus,0.1%,Glenmark,Ointment,H
+Calamine Lotion,Calamine,-,Generic,Lotion,OTC
+Lacto Calamine,Calamine + Zinc + Aloe Vera,-,Piramal,Lotion,OTC
+Permethrin Cream,Permethrin,5%,Generic,Cream,H
+Lyclear,Permethrin,5%,Omega,Cream,H
+Scabper,Permethrin,5%,Glenmark,Cream,H
+Tretinoin Cream,Tretinoin,0.025%,Generic,Cream,H
+Retino-A,Tretinoin,0.025%,Johnson & Johnson,Cream,H
+Adapalene Gel,Adapalene,0.1%,Generic,Gel,H
+Adaferin,Adapalene,0.1%,Galderma,Gel,H
+Benzoyl Peroxide,Benzoyl Peroxide,2.5%,Generic,Gel,H
+Benzac AC,Benzoyl Peroxide,2.5%,Galderma,Gel,H
+Clobetasol Propionate Cream,Clobetasol Propionate,0.05%,Generic,Cream,H
+Clobet Cream,Clobetasol Propionate,0.05%,GlaxoSmithKline,Cream,H
+Halobetasol Cream,Halobetasol Propionate,0.05%,Generic,Cream,H
+Halox,Halobetasol Propionate,0.05%,Sun Pharma,Cream,H
+Mometasone Cream,Mometasone Furoate,0.1%,Generic,Cream,H
+Elocon,Mometasone Furoate,0.1%,MSD,Cream,H
+Mometasone Nasal Spray,Mometasone Furoate,50mcg/spray,Generic,Spray,H
+Nasonex,Mometasone Furoate,50mcg/spray,MSD,Spray,H
+Fluticasone Nasal Spray,Fluticasone Propionate,50mcg/spray,Generic,Spray,H
+Flonase,Fluticasone Propionate,50mcg/spray,GlaxoSmithKline,Spray,OTC
+Xylometazoline Nasal Drops,Xylometazoline,0.1%,Generic,Drops,OTC
+Otrivin,Xylometazoline,0.1%,Novartis,Drops,OTC
+Nasivion,Oxymetazoline,0.05%,P&G,Drops,OTC
+Fluticasone + Salmeterol DPI,Fluticasone + Salmeterol,250mcg/50mcg,Generic,Inhaler,H
+Seretide,Fluticasone + Salmeterol,250mcg/50mcg,GlaxoSmithKline,Inhaler,H
+Budesonide + Formoterol DPI,Budesonide + Formoterol,200mcg/6mcg,Generic,Inhaler,H
+Symbicort,Budesonide + Formoterol,200mcg/6mcg,AstraZeneca,Inhaler,H
+Tiotropium,Tiotropium Bromide,18mcg,Generic,Inhaler,H
+Spiriva,Tiotropium Bromide,18mcg,Boehringer Ingelheim,Inhaler,H
+Tiova,Tiotropium Bromide,18mcg,Cipla,Inhaler,H
+Ipratropium Bromide,Ipratropium Bromide,20mcg,Generic,Inhaler,H
+Ipravent,Ipratropium Bromide,20mcg,Cipla,Inhaler,H
+Duolin,Ipratropium + Levosalbutamol,20mcg/50mcg,Cipla,Inhaler,H
+Fluticasone Inhaler,Fluticasone Propionate,125mcg,Generic,Inhaler,H
+Flohale,Fluticasone Propionate,125mcg,Cipla,Inhaler,H
+Budesonide Nebulization,Budesonide,0.5mg/2ml,Generic,Nebulization,H
+Budecort Respules,Budesonide,0.5mg/2ml,Cipla,Nebulization,H
+Levosalbutamol Nebulization,Levosalbutamol,1.25mg/2.5ml,Generic,Nebulization,H
+Levolin Inhaler,Levosalbutamol,50mcg,Cipla,Inhaler,H
+Azelastine Nasal Spray,Azelastine,137mcg/spray,Generic,Spray,H
+Azep,Azelastine,137mcg/spray,Sun Pharma,Spray,H
+Montelukast Sachet,Montelukast,4mg,Generic,Sachet,H
+Montair Kid,Montelukast,4mg,Cipla,Tablet,H
+Ebastine,Ebastine,10mg,Generic,Tablet,H
+Ebastel,Ebastine,10mg,Cipla,Tablet,H
+Desloratadine,Desloratadine,5mg,Generic,Tablet,H
+Deslor,Desloratadine,5mg,Glenmark,Tablet,H
+Rupatadine,Rupatadine,10mg,Generic,Tablet,H
+Rupahist,Rupatadine,10mg,Sun Pharma,Tablet,H
+Clobetasol + Salicylic Acid Ointment,Clobetasol + Salicylic Acid,0.05%/3%,Generic,Ointment,H
+Topisal,Clobetasol + Salicylic Acid,0.05%/3%,Sun Pharma,Ointment,H
+Minoxidil Solution,Minoxidil,5%,Generic,Solution,H
+Mintop,Minoxidil,5%,Dr Reddys,Solution,H
+Tugain,Minoxidil,5%,Cipla,Solution,H
+Ketoconazole Shampoo,Ketoconazole,2%,Generic,Shampoo,OTC
+Nizral Shampoo,Ketoconazole,2%,Johnson & Johnson,Shampoo,OTC
+Salicylic Acid Ointment,Salicylic Acid,6%,Generic,Ointment,OTC
+Coal Tar Ointment,Coal Tar,5%,Generic,Ointment,OTC
+Pimecrolimus Cream,Pimecrolimus,1%,Generic,Cream,H
+Elidel,Pimecrolimus,1%,Novartis,Cream,H
+Clotrimazole + Beclomethasone Cream,Clotrimazole + Beclomethasone + Neomycin,-,Generic,Cream,H
+Candid-B,Clotrimazole + Beclomethasone,1%/0.025%,Glenmark,Cream,H
+Terbinafine Cream,Terbinafine,1%,Generic,Cream,H
+Terbicip Cream,Terbinafine,1%,Cipla,Cream,H
+Miconazole Cream,Miconazole,2%,Generic,Cream,OTC
+Daktarin,Miconazole,2%,Johnson & Johnson,Cream,OTC
+Diclofenac Gel,Diclofenac Diethylamine,1.16%,Generic,Gel,OTC
+Dynapar QPS,Diclofenac Diethylamine,1.16%,Troikaa,Gel,OTC
+Piroxicam Gel,Piroxicam,0.5%,Generic,Gel,H
+Dolonex DT,Piroxicam,0.5%,Pfizer,Gel,H
+Acyclovir,Acyclovir,200mg,Generic,Tablet,H
+Zovirax,Acyclovir,200mg,GlaxoSmithKline,Tablet,H
+Acivir,Acyclovir,400mg,Cipla,Tablet,H
+Valacyclovir,Valacyclovir,500mg,Generic,Tablet,H
+Valcivir,Valacyclovir,500mg,Cipla,Tablet,H
+Acyclovir Cream,Acyclovir,5%,Generic,Cream,H
+Acivir Cream,Acyclovir,5%,Cipla,Cream,H
+Famciclovir,Famciclovir,500mg,Generic,Tablet,H
+Ivermectin,Ivermectin,12mg,Generic,Tablet,H
+Ivecop,Ivermectin,12mg,Natco Pharma,Tablet,H
+Ivermectol,Ivermectin,6mg,Cipla,Tablet,H
+Dapsone,Dapsone,100mg,Generic,Tablet,H
+Hydroxyzine Syrup,Hydroxyzine,10mg/5ml,Generic,Syrup,H
+Domperidone Syrup,Domperidone,5mg/5ml,Generic,Syrup,H
+Promethazine,Promethazine,25mg,Generic,Tablet,H
+Phenergan,Promethazine,25mg,Sanofi,Tablet,H
+Vitamin K Injection,Phytonadione,1mg/ml,Generic,Injection,H
+Tranexamic Acid,Tranexamic Acid,500mg,Generic,Tablet,H
+Pause MF,Tranexamic Acid + Mefenamic Acid,500mg/250mg,Cipla,Tablet,H
+Ethamsylate,Ethamsylate,500mg,Generic,Tablet,H
+Dextromethorphan Syrup,Dextromethorphan,10mg/5ml,Generic,Syrup,OTC
+Ambroxol Syrup,Ambroxol,30mg/5ml,Generic,Syrup,OTC
+Ambrodil Syrup,Ambroxol,30mg/5ml,Aristo,Syrup,OTC
+Levocetrizine + Ambroxol,Levocetirizine + Ambroxol + Guaiphenesin,-,Generic,Syrup,H
+Kofarest LS,Levosalbutamol + Ambroxol + Guaiphenesin,-,Mankind,Syrup,H
+Ascoril LS,Levosalbutamol + Ambroxol + Guaiphenesin,-,Glenmark,Syrup,H
+Ascoril Expectorant,Dextromethorphan + Phenylephrine + Chlorpheniramine,-,Glenmark,Syrup,OTC
+Grilinctus-BM,Bromhexine + Guaiphenesin + Menthol,-,Franco-Indian,Syrup,OTC
+Chymoral Forte,Trypsin + Chymotrypsin,50000AU,Torrent,Tablet,H
+Serratiopeptidase,Serratiopeptidase,10mg,Generic,Tablet,H
+Dihydroergotamine + Paracetamol + Caffeine,Dihydroergotamine + Paracetamol + Caffeine,-,Generic,Tablet,H
+Migranil,Dihydroergotamine + Paracetamol + Caffeine,-,Cipla,Tablet,H
+Sumatriptan,Sumatriptan,50mg,Generic,Tablet,H
+Suminat,Sumatriptan,50mg,Sun Pharma,Tablet,H
+Rizatriptan,Rizatriptan,10mg,Generic,Tablet,H
+Rizatan,Rizatriptan,10mg,Cipla,Tablet,H
+Naratriptan,Naratriptan,2.5mg,Generic,Tablet,H
+Flunarizine,Flunarizine,10mg,Generic,Capsule,H
+Sibelium,Flunarizine,10mg,Johnson & Johnson,Capsule,H
+Cinnarizine,Cinnarizine,25mg,Generic,Tablet,H
+Stugeron,Cinnarizine,25mg,Johnson & Johnson,Tablet,H
+Betahistine,Betahistine,16mg,Generic,Tablet,H
+Vertin,Betahistine,16mg,Abbott,Tablet,H
+Piracetam,Piracetam,800mg,Generic,Tablet,H
+Nootropil,Piracetam,800mg,UCB,Tablet,H
+Citicoline,Citicoline,500mg,Generic,Tablet,H
+Somazina,Citicoline,500mg,Ferrer,Tablet,H
+Mesalamine,Mesalamine,400mg,Generic,Tablet,H
+Mesacol,Mesalamine,400mg,Sun Pharma,Tablet,H
+Asacol,Mesalamine,800mg,Zydus,Tablet,H
+Budesonide Capsule,Budesonide,3mg,Generic,Capsule,H
+Pancreatin,Pancreatic Enzyme Supplement,-,Generic,Capsule,H
+Creon,Pancreatic Enzyme Supplement,25000IU,Abbott,Capsule,H
+Bismuth Subsalicylate,Bismuth Subsalicylate,262mg,Generic,Tablet,OTC
+Pepto-Bismol,Bismuth Subsalicylate,262mg,P&G,Tablet,OTC
+Prucalopride,Prucalopride,2mg,Generic,Tablet,H
+Resolor,Prucalopride,2mg,Johnson & Johnson,Tablet,H
+Linaclotide,Linaclotide,145mcg,Generic,Capsule,H
+Saccharomyces Boulardii,Saccharomyces Boulardii,250mg,Generic,Capsule,OTC
+Econorm,Saccharomyces Boulardii,250mg,Dr Reddys,Capsule,OTC
+Metformin + Teneligliptin,Metformin + Teneligliptin,500mg/20mg,Generic,Tablet,H
+Zita Met,Metformin + Teneligliptin,500mg/20mg,Glenmark,Tablet,H
+Metformin + Dapagliflozin + Sitagliptin,Metformin + Dapagliflozin,500mg/5mg,Generic,Tablet,H
+Sitagliptin,Sitagliptin,100mg,Generic,Tablet,H
+Januvia,Sitagliptin,100mg,MSD,Tablet,H
+Istavel,Sitagliptin,100mg,Sun Pharma,Tablet,H
+Glipizide,Glipizide,5mg,Generic,Tablet,H
+Glucotrol,Glipizide,5mg,Pfizer,Tablet,H
+Acarbose,Acarbose,50mg,Generic,Tablet,H
+Glucobay,Acarbose,50mg,Bayer,Tablet,H
+Carvedilol,Carvedilol,6.25mg,Generic,Tablet,H
+Cardivas,Carvedilol,6.25mg,Sun Pharma,Tablet,H
+Digoxin,Digoxin,0.25mg,Generic,Tablet,H
+Lanoxin,Digoxin,0.25mg,GlaxoSmithKline,Tablet,H
+Amiodarone,Amiodarone,200mg,Generic,Tablet,H
+Cordarone,Amiodarone,200mg,Sanofi,Tablet,H
+Propafenone,Propafenone,150mg,Generic,Tablet,H
+Sildenafil,Sildenafil,50mg,Generic,Tablet,H
+Penegra,Sildenafil,50mg,Zydus,Tablet,H
+Manforce,Sildenafil,50mg,Mankind,Tablet,H
+Tadalafil,Tadalafil,10mg,Generic,Tablet,H
+Megalis,Tadalafil,10mg,Macleods,Tablet,H
+Calcipotriol Ointment,Calcipotriol,50mcg/gm,Generic,Ointment,H
+Daivonex,Calcipotriol,50mcg/gm,LEO Pharma,Ointment,H
+Isotretinoin,Isotretinoin,20mg,Generic,Capsule,H
+Tretiva,Isotretinoin,20mg,Intas,Capsule,H
+Sotret,Isotretinoin,20mg,Ranbaxy,Capsule,H
+Doxycycline for Acne,Doxycycline,100mg,Generic,Capsule,H
+Azelaic Acid Cream,Azelaic Acid,20%,Generic,Cream,H
+Aziderm,Azelaic Acid,20%,Micro Labs,Cream,H
+Fluocinolone Cream,Fluocinolone Acetonide,0.025%,Generic,Cream,H
+Metformin + Voglibose,Metformin + Voglibose,500mg/0.2mg,Generic,Tablet,H
+Vogli-M,Metformin + Voglibose,500mg/0.2mg,USV,Tablet,H

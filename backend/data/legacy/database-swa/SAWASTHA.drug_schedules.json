@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "69e21e768956c88f21ba955d"
+  },
+  "code": "H",
+  "description": "Prescription Required",
+  "requires_prescription": true,
+  "requires_double_verification": false
+},
+{
+  "_id": {
+    "$oid": "69e21e768956c88f21ba955e"
+  },
+  "code": "OTC",
+  "description": "Over the counter",
+  "requires_prescription": false,
+  "requires_double_verification": false
+}]

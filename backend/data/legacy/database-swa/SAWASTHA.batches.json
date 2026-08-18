@@ -1,0 +1,950 @@
+[{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbb5"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9569"
+  },
+  "batch_number": "BATCH-1920",
+  "expiry_date": {
+    "$date": "2027-01-29T12:10:53.183Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb1"
+  },
+  "cost_price": 327.138,
+  "mrp": 467.34,
+  "current_stock": 387,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbb6"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba956a"
+  },
+  "batch_number": "BATCH-8994",
+  "expiry_date": {
+    "$date": "2028-02-19T12:10:53.183Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb1"
+  },
+  "cost_price": 280.84,
+  "mrp": 401.2,
+  "current_stock": 296,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbb7"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba956b"
+  },
+  "batch_number": "BATCH-9261",
+  "expiry_date": {
+    "$date": "2026-10-30T12:10:53.183Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb0"
+  },
+  "cost_price": 117.642,
+  "mrp": 168.06,
+  "current_stock": 205,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbb8"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba956c"
+  },
+  "batch_number": "BATCH-4195",
+  "expiry_date": {
+    "$date": "2026-07-28T12:10:53.183Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb4"
+  },
+  "cost_price": 107.05799999999999,
+  "mrp": 152.94,
+  "current_stock": 268,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbb9"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba956d"
+  },
+  "batch_number": "BATCH-6583",
+  "expiry_date": {
+    "$date": "2028-04-14T12:10:53.183Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb1"
+  },
+  "cost_price": 29.308999999999997,
+  "mrp": 41.87,
+  "current_stock": 202,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbba"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba956e"
+  },
+  "batch_number": "BATCH-8032",
+  "expiry_date": {
+    "$date": "2026-08-10T12:10:53.183Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb1"
+  },
+  "cost_price": 46.87199999999999,
+  "mrp": 66.96,
+  "current_stock": 330,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbbb"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba956f"
+  },
+  "batch_number": "BATCH-7455",
+  "expiry_date": {
+    "$date": "2027-03-01T12:10:53.183Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb1"
+  },
+  "cost_price": 94.15699999999998,
+  "mrp": 134.51,
+  "current_stock": 371,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbbc"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9570"
+  },
+  "batch_number": "BATCH-6106",
+  "expiry_date": {
+    "$date": "2027-09-22T12:10:53.183Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb2"
+  },
+  "cost_price": 143.94099999999997,
+  "mrp": 205.63,
+  "current_stock": 458,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbbd"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9571"
+  },
+  "batch_number": "BATCH-4001",
+  "expiry_date": {
+    "$date": "2026-07-27T12:10:53.184Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb3"
+  },
+  "cost_price": 292.397,
+  "mrp": 417.71,
+  "current_stock": 269,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbbe"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9572"
+  },
+  "batch_number": "BATCH-2379",
+  "expiry_date": {
+    "$date": "2027-01-02T12:10:53.184Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb1"
+  },
+  "cost_price": 303.02299999999997,
+  "mrp": 432.89,
+  "current_stock": 462,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbbf"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9573"
+  },
+  "batch_number": "BATCH-3881",
+  "expiry_date": {
+    "$date": "2028-03-07T12:10:53.184Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb4"
+  },
+  "cost_price": 227.77299999999997,
+  "mrp": 325.39,
+  "current_stock": 311,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbc0"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9574"
+  },
+  "batch_number": "BATCH-7164",
+  "expiry_date": {
+    "$date": "2028-02-14T12:10:53.184Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb0"
+  },
+  "cost_price": 220.77299999999997,
+  "mrp": 315.39,
+  "current_stock": 395,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbc1"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9575"
+  },
+  "batch_number": "BATCH-8257",
+  "expiry_date": {
+    "$date": "2027-10-07T12:10:53.184Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb2"
+  },
+  "cost_price": 76.559,
+  "mrp": 109.37,
+  "current_stock": 193,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbc2"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9576"
+  },
+  "batch_number": "BATCH-6451",
+  "expiry_date": {
+    "$date": "2026-10-19T12:10:53.184Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb3"
+  },
+  "cost_price": 173.46,
+  "mrp": 247.8,
+  "current_stock": 355,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbc3"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9577"
+  },
+  "batch_number": "BATCH-4404",
+  "expiry_date": {
+    "$date": "2027-11-01T12:10:53.184Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb4"
+  },
+  "cost_price": 130.963,
+  "mrp": 187.09,
+  "current_stock": 249,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbc4"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9578"
+  },
+  "batch_number": "BATCH-8371",
+  "expiry_date": {
+    "$date": "2027-05-14T12:10:53.184Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb2"
+  },
+  "cost_price": 251.853,
+  "mrp": 359.79,
+  "current_stock": 43,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbc5"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9579"
+  },
+  "batch_number": "BATCH-5925",
+  "expiry_date": {
+    "$date": "2027-04-21T12:10:53.184Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb2"
+  },
+  "cost_price": 297.92699999999996,
+  "mrp": 425.61,
+  "current_stock": 421,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbc6"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba957a"
+  },
+  "batch_number": "BATCH-8863",
+  "expiry_date": {
+    "$date": "2026-07-22T12:10:53.184Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb2"
+  },
+  "cost_price": 322.819,
+  "mrp": 461.17,
+  "current_stock": 394,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbc7"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba957b"
+  },
+  "batch_number": "BATCH-5176",
+  "expiry_date": {
+    "$date": "2027-09-17T12:10:53.184Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb3"
+  },
+  "cost_price": 111.23,
+  "mrp": 158.9,
+  "current_stock": 371,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbc8"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba957c"
+  },
+  "batch_number": "BATCH-2416",
+  "expiry_date": {
+    "$date": "2026-09-09T12:10:53.184Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb0"
+  },
+  "cost_price": 18.032,
+  "mrp": 25.76,
+  "current_stock": 378,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbc9"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba957d"
+  },
+  "batch_number": "BATCH-9598",
+  "expiry_date": {
+    "$date": "2026-11-06T12:10:53.184Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb2"
+  },
+  "cost_price": 134.659,
+  "mrp": 192.37,
+  "current_stock": 377,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbca"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba957e"
+  },
+  "batch_number": "BATCH-2706",
+  "expiry_date": {
+    "$date": "2026-12-17T12:10:53.184Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb4"
+  },
+  "cost_price": 337.46999999999997,
+  "mrp": 482.1,
+  "current_stock": 94,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbcb"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba957f"
+  },
+  "batch_number": "BATCH-1054",
+  "expiry_date": {
+    "$date": "2027-11-01T12:10:53.184Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb4"
+  },
+  "cost_price": 277.501,
+  "mrp": 396.43,
+  "current_stock": 44,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbcc"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9580"
+  },
+  "batch_number": "BATCH-7633",
+  "expiry_date": {
+    "$date": "2027-05-24T12:10:53.184Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb4"
+  },
+  "cost_price": 144.879,
+  "mrp": 206.97,
+  "current_stock": 322,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbcd"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9581"
+  },
+  "batch_number": "BATCH-8106",
+  "expiry_date": {
+    "$date": "2026-12-16T12:10:53.184Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb4"
+  },
+  "cost_price": 132.93699999999998,
+  "mrp": 189.91,
+  "current_stock": 92,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbce"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9582"
+  },
+  "batch_number": "BATCH-3574",
+  "expiry_date": {
+    "$date": "2027-07-21T12:10:53.184Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb1"
+  },
+  "cost_price": 157.542,
+  "mrp": 225.06,
+  "current_stock": 46,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbcf"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9583"
+  },
+  "batch_number": "BATCH-8274",
+  "expiry_date": {
+    "$date": "2027-05-04T12:10:53.184Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb4"
+  },
+  "cost_price": 106.806,
+  "mrp": 152.58,
+  "current_stock": 37,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbd0"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9584"
+  },
+  "batch_number": "BATCH-1048",
+  "expiry_date": {
+    "$date": "2027-08-08T12:10:53.184Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb4"
+  },
+  "cost_price": 28.266,
+  "mrp": 40.38,
+  "current_stock": 354,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbd1"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9585"
+  },
+  "batch_number": "BATCH-5999",
+  "expiry_date": {
+    "$date": "2027-03-21T12:10:53.184Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb4"
+  },
+  "cost_price": 126.50399999999999,
+  "mrp": 180.72,
+  "current_stock": 424,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbd2"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9586"
+  },
+  "batch_number": "BATCH-1892",
+  "expiry_date": {
+    "$date": "2027-03-24T12:10:53.184Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb4"
+  },
+  "cost_price": 56.861,
+  "mrp": 81.23,
+  "current_stock": 229,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbd3"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9587"
+  },
+  "batch_number": "BATCH-9872",
+  "expiry_date": {
+    "$date": "2027-06-09T12:10:53.184Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb4"
+  },
+  "cost_price": 59.135999999999996,
+  "mrp": 84.48,
+  "current_stock": 436,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbd4"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9588"
+  },
+  "batch_number": "BATCH-2379",
+  "expiry_date": {
+    "$date": "2026-11-04T12:10:53.185Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb2"
+  },
+  "cost_price": 308.23799999999994,
+  "mrp": 440.34,
+  "current_stock": 86,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbd5"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9589"
+  },
+  "batch_number": "BATCH-5643",
+  "expiry_date": {
+    "$date": "2027-05-22T12:10:53.185Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb0"
+  },
+  "cost_price": 346.955,
+  "mrp": 495.65,
+  "current_stock": 297,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbd6"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba958a"
+  },
+  "batch_number": "BATCH-1283",
+  "expiry_date": {
+    "$date": "2027-12-25T12:10:53.185Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb1"
+  },
+  "cost_price": 298.998,
+  "mrp": 427.14,
+  "current_stock": 397,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbd7"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba958b"
+  },
+  "batch_number": "BATCH-3277",
+  "expiry_date": {
+    "$date": "2027-08-10T12:10:53.185Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb1"
+  },
+  "cost_price": 215.061,
+  "mrp": 307.23,
+  "current_stock": 312,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbd8"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba958c"
+  },
+  "batch_number": "BATCH-9586",
+  "expiry_date": {
+    "$date": "2027-05-13T12:10:53.185Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb3"
+  },
+  "cost_price": 186.102,
+  "mrp": 265.86,
+  "current_stock": 251,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbd9"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba958d"
+  },
+  "batch_number": "BATCH-3348",
+  "expiry_date": {
+    "$date": "2027-08-01T12:10:53.185Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb1"
+  },
+  "cost_price": 68.187,
+  "mrp": 97.41,
+  "current_stock": 235,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbda"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba958e"
+  },
+  "batch_number": "BATCH-1324",
+  "expiry_date": {
+    "$date": "2027-01-10T12:10:53.185Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb2"
+  },
+  "cost_price": 258.377,
+  "mrp": 369.11,
+  "current_stock": 393,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbdb"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba958f"
+  },
+  "batch_number": "BATCH-8168",
+  "expiry_date": {
+    "$date": "2028-03-06T12:10:53.185Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb4"
+  },
+  "cost_price": 88.41,
+  "mrp": 126.3,
+  "current_stock": 139,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbdc"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9590"
+  },
+  "batch_number": "BATCH-4001",
+  "expiry_date": {
+    "$date": "2027-01-31T12:10:53.185Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb3"
+  },
+  "cost_price": 300.86,
+  "mrp": 429.8,
+  "current_stock": 291,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbdd"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9591"
+  },
+  "batch_number": "BATCH-6651",
+  "expiry_date": {
+    "$date": "2027-09-19T12:10:53.185Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb2"
+  },
+  "cost_price": 249.228,
+  "mrp": 356.04,
+  "current_stock": 220,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbde"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9592"
+  },
+  "batch_number": "BATCH-7512",
+  "expiry_date": {
+    "$date": "2027-06-21T12:10:53.185Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb2"
+  },
+  "cost_price": 347.053,
+  "mrp": 495.79,
+  "current_stock": 231,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbdf"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9593"
+  },
+  "batch_number": "BATCH-2126",
+  "expiry_date": {
+    "$date": "2027-10-09T12:10:53.185Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb3"
+  },
+  "cost_price": 246.89699999999996,
+  "mrp": 352.71,
+  "current_stock": 62,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbe0"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9594"
+  },
+  "batch_number": "BATCH-6665",
+  "expiry_date": {
+    "$date": "2028-03-30T12:10:53.185Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb2"
+  },
+  "cost_price": 73.20599999999999,
+  "mrp": 104.58,
+  "current_stock": 175,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbe1"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9595"
+  },
+  "batch_number": "BATCH-2003",
+  "expiry_date": {
+    "$date": "2027-08-17T12:10:53.185Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb2"
+  },
+  "cost_price": 256.78799999999995,
+  "mrp": 366.84,
+  "current_stock": 468,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbe2"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9596"
+  },
+  "batch_number": "BATCH-1373",
+  "expiry_date": {
+    "$date": "2027-10-01T12:10:53.185Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb3"
+  },
+  "cost_price": 164.57,
+  "mrp": 235.1,
+  "current_stock": 289,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbe3"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9597"
+  },
+  "batch_number": "BATCH-7767",
+  "expiry_date": {
+    "$date": "2028-03-09T12:10:53.185Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb1"
+  },
+  "cost_price": 252.88199999999998,
+  "mrp": 361.26,
+  "current_stock": 475,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbe4"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9598"
+  },
+  "batch_number": "BATCH-4750",
+  "expiry_date": {
+    "$date": "2027-09-10T12:10:53.185Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb3"
+  },
+  "cost_price": 186.38199999999998,
+  "mrp": 266.26,
+  "current_stock": 448,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbe5"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba9599"
+  },
+  "batch_number": "BATCH-7219",
+  "expiry_date": {
+    "$date": "2028-02-06T12:10:53.185Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb3"
+  },
+  "cost_price": 100.14899999999999,
+  "mrp": 143.07,
+  "current_stock": 96,
+  "is_recalled": false
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbe6"
+  },
+  "medicine": {
+    "$oid": "69e21e768956c88f21ba959a"
+  },
+  "batch_number": "BATCH-2885",
+  "expiry_date": {
+    "$date": "2026-09-17T12:10:53.185Z"
+  },
+  "supplier": {
+    "$oid": "69e2234d17c6adc70593dbb4"
+  },
+  "cost_price": 138.78199999999998,
+  "mrp": 198.26,
+  "current_stock": 153,
+  "is_recalled": false
+}]

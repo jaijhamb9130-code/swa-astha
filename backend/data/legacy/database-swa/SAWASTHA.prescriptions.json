@@ -1,0 +1,290 @@
+[{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbea"
+  },
+  "patient_id": "SWA-100000",
+  "doctor_id": "DOC-000001",
+  "issue_date": {
+    "$date": "2026-04-17T12:10:53.350Z"
+  },
+  "status": "ACTIVE",
+  "items": [
+    {
+      "medicine": {
+        "$oid": "69e21e768956c88f21ba956c"
+      },
+      "dosage_instruction": "1-0-1 after meals",
+      "quantity_prescribed": 10,
+      "quantity_dispensed": 0
+    },
+    {
+      "medicine": {
+        "$oid": "69e21e768956c88f21ba9580"
+      },
+      "dosage_instruction": "0-0-1 before sleep",
+      "quantity_prescribed": 5,
+      "quantity_dispensed": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbee"
+  },
+  "patient_id": "SWA-100001",
+  "doctor_id": "DOC-000010",
+  "issue_date": {
+    "$date": "2026-04-17T12:10:53.399Z"
+  },
+  "status": "ACTIVE",
+  "items": [
+    {
+      "medicine": {
+        "$oid": "69e21e768956c88f21ba9587"
+      },
+      "dosage_instruction": "1-0-1 after meals",
+      "quantity_prescribed": 10,
+      "quantity_dispensed": 0
+    },
+    {
+      "medicine": {
+        "$oid": "69e21e768956c88f21ba9578"
+      },
+      "dosage_instruction": "0-0-1 before sleep",
+      "quantity_prescribed": 5,
+      "quantity_dispensed": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbf2"
+  },
+  "patient_id": "SWA-100002",
+  "doctor_id": "DOC-000002",
+  "issue_date": {
+    "$date": "2026-04-17T12:10:53.415Z"
+  },
+  "status": "ACTIVE",
+  "items": [
+    {
+      "medicine": {
+        "$oid": "69e21e768956c88f21ba958f"
+      },
+      "dosage_instruction": "1-0-1 after meals",
+      "quantity_prescribed": 10,
+      "quantity_dispensed": 0
+    },
+    {
+      "medicine": {
+        "$oid": "69e21e768956c88f21ba956b"
+      },
+      "dosage_instruction": "0-0-1 before sleep",
+      "quantity_prescribed": 5,
+      "quantity_dispensed": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbf6"
+  },
+  "patient_id": "SWA-100003",
+  "doctor_id": "DOC-000002",
+  "issue_date": {
+    "$date": "2026-04-17T12:10:53.429Z"
+  },
+  "status": "ACTIVE",
+  "items": [
+    {
+      "medicine": {
+        "$oid": "69e21e768956c88f21ba958a"
+      },
+      "dosage_instruction": "1-0-1 after meals",
+      "quantity_prescribed": 10,
+      "quantity_dispensed": 0
+    },
+    {
+      "medicine": {
+        "$oid": "69e21e768956c88f21ba9578"
+      },
+      "dosage_instruction": "0-0-1 before sleep",
+      "quantity_prescribed": 5,
+      "quantity_dispensed": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbfa"
+  },
+  "patient_id": "SWA-100004",
+  "doctor_id": "DOC-000004",
+  "issue_date": {
+    "$date": "2026-04-17T12:10:53.443Z"
+  },
+  "status": "ACTIVE",
+  "items": [
+    {
+      "medicine": {
+        "$oid": "69e21e768956c88f21ba9583"
+      },
+      "dosage_instruction": "1-0-1 after meals",
+      "quantity_prescribed": 10,
+      "quantity_dispensed": 0
+    },
+    {
+      "medicine": {
+        "$oid": "69e21e768956c88f21ba9597"
+      },
+      "dosage_instruction": "0-0-1 before sleep",
+      "quantity_prescribed": 5,
+      "quantity_dispensed": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbfe"
+  },
+  "patient_id": "SWA-100005",
+  "doctor_id": "DOC-000002",
+  "issue_date": {
+    "$date": "2026-04-17T12:10:53.456Z"
+  },
+  "status": "ACTIVE",
+  "items": [
+    {
+      "medicine": {
+        "$oid": "69e21e768956c88f21ba9599"
+      },
+      "dosage_instruction": "1-0-1 after meals",
+      "quantity_prescribed": 10,
+      "quantity_dispensed": 0
+    },
+    {
+      "medicine": {
+        "$oid": "69e21e768956c88f21ba9578"
+      },
+      "dosage_instruction": "0-0-1 before sleep",
+      "quantity_prescribed": 5,
+      "quantity_dispensed": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dc02"
+  },
+  "patient_id": "SWA-100006",
+  "doctor_id": "DOC-000007",
+  "issue_date": {
+    "$date": "2026-04-17T12:10:53.472Z"
+  },
+  "status": "ACTIVE",
+  "items": [
+    {
+      "medicine": {
+        "$oid": "69e21e768956c88f21ba958a"
+      },
+      "dosage_instruction": "1-0-1 after meals",
+      "quantity_prescribed": 10,
+      "quantity_dispensed": 0
+    },
+    {
+      "medicine": {
+        "$oid": "69e21e768956c88f21ba9594"
+      },
+      "dosage_instruction": "0-0-1 before sleep",
+      "quantity_prescribed": 5,
+      "quantity_dispensed": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dc06"
+  },
+  "patient_id": "SWA-100007",
+  "doctor_id": "DOC-000006",
+  "issue_date": {
+    "$date": "2026-04-17T12:10:53.486Z"
+  },
+  "status": "ACTIVE",
+  "items": [
+    {
+      "medicine": {
+        "$oid": "69e21e768956c88f21ba9573"
+      },
+      "dosage_instruction": "1-0-1 after meals",
+      "quantity_prescribed": 10,
+      "quantity_dispensed": 0
+    },
+    {
+      "medicine": {
+        "$oid": "69e21e768956c88f21ba958e"
+      },
+      "dosage_instruction": "0-0-1 before sleep",
+      "quantity_prescribed": 5,
+      "quantity_dispensed": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dc0a"
+  },
+  "patient_id": "SWA-100008",
+  "doctor_id": "DOC-000008",
+  "issue_date": {
+    "$date": "2026-04-17T12:10:53.500Z"
+  },
+  "status": "ACTIVE",
+  "items": [
+    {
+      "medicine": {
+        "$oid": "69e21e768956c88f21ba9596"
+      },
+      "dosage_instruction": "1-0-1 after meals",
+      "quantity_prescribed": 10,
+      "quantity_dispensed": 0
+    },
+    {
+      "medicine": {
+        "$oid": "69e21e768956c88f21ba9574"
+      },
+      "dosage_instruction": "0-0-1 before sleep",
+      "quantity_prescribed": 5,
+      "quantity_dispensed": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dc0e"
+  },
+  "patient_id": "SWA-100009",
+  "doctor_id": "DOC-000004",
+  "issue_date": {
+    "$date": "2026-04-17T12:10:53.513Z"
+  },
+  "status": "ACTIVE",
+  "items": [
+    {
+      "medicine": {
+        "$oid": "69e21e768956c88f21ba9583"
+      },
+      "dosage_instruction": "1-0-1 after meals",
+      "quantity_prescribed": 10,
+      "quantity_dispensed": 0
+    },
+    {
+      "medicine": {
+        "$oid": "69e21e768956c88f21ba957d"
+      },
+      "dosage_instruction": "0-0-1 before sleep",
+      "quantity_prescribed": 5,
+      "quantity_dispensed": 0
+    }
+  ]
+}]

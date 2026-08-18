@@ -1,0 +1,58 @@
+[
+    {
+        "_id": "69b10fdd64f73909ff9818f2",
+        "doctorEmail": "tanishasodani28@gmail.com",
+        "preferences": {
+            "emailNotifications": true,
+            "smsNotifications": false,
+            "twoFactorAuth": true,
+            "profileVisibility": "Public",
+            "consultationFee": 800,
+            "availableDays": [
+                "Monday",
+                "Wednesday",
+                "Friday"
+            ],
+            "theme": "Light"
+        },
+        "doctor_id": "8237bc19-8fce-459d-88cf-ab56671bc1b1"
+    },
+    {
+        "_id": "69b10fdd64f73909ff9818f3",
+        "doctorEmail": "priya.derma@skinglow.in",
+        "preferences": {
+            "emailNotifications": true,
+            "smsNotifications": true,
+            "twoFactorAuth": false,
+            "profileVisibility": "Private",
+            "consultationFee": 1200,
+            "availableDays": [
+                "Tuesday",
+                "Thursday",
+                "Saturday"
+            ],
+            "theme": "Dark"
+        },
+        "doctor_id": "4da18082-262e-4cae-a408-5b360ec33c07"
+    },
+    {
+        "_id": "69b10fdd64f73909ff9818f4",
+        "doctorEmail": "dr.ravi@littlesmiles.com",
+        "preferences": {
+            "emailNotifications": false,
+            "smsNotifications": true,
+            "twoFactorAuth": true,
+            "profileVisibility": "Public",
+            "consultationFee": 600,
+            "availableDays": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+            ],
+            "theme": "System Default"
+        },
+        "doctor_id": "a57e9520-7fbd-4da0-ba94-6f9e10b4d0e1"
+    }
+]

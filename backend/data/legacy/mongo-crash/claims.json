@@ -1,0 +1,104 @@
+[
+    {
+        "_id": "69b1136beef71ffb312ae207",
+        "claim_id": "8d82aace-7ad6-4c02-bdcb-149a2a62a145",
+        "patient_id": "SWA-100000",
+        "policy_id": "c7c98c15-4eba-4b71-8ca5-600ff649bb25",
+        "insurance_id": "69ac895d-05ad-4c47-97e1-9167684e1944",
+        "claim_amount": 15000,
+        "claim_reason": "Hospitalization",
+        "status": "Approved",
+        "documents": [
+            {
+                "file_name": "hospital_discharge_summary.pdf",
+                "file_type": "pdf",
+                "file_size": "1.2MB",
+                "uploaded_at": "2026-03-11T07:02:02.270Z"
+            },
+            {
+                "file_name": "medical_bills_receipt.pdf",
+                "file_type": "pdf",
+                "file_size": "850KB",
+                "uploaded_at": "2026-03-11T07:02:02.270Z"
+            },
+            {
+                "file_name": "prescription_copy.jpg",
+                "file_type": "image",
+                "file_size": "2.1MB",
+                "uploaded_at": "2026-03-11T07:02:02.270Z"
+            }
+        ],
+        "claim_date": "2026-03-11T07:02:02.270Z",
+        "submitted_date": "2026-03-11T07:02:02.270Z",
+        "created_at": "2026-03-11T07:02:02.270Z",
+        "updated_at": "2026-03-11T07:02:02.270Z"
+    },
+    {
+        "_id": "69b1136beef71ffb312ae208",
+        "claim_id": "78d8afb7-ad7b-4c20-af48-663361dbba9e",
+        "patient_id": "SWA-100001",
+        "policy_id": "8a584354-0033-49cc-b242-faa66779d73e",
+        "insurance_id": "6441ea51-7db2-4689-a9b3-7a6a956e0442",
+        "claim_amount": 5000,
+        "claim_reason": "Surgery",
+        "status": "Pending",
+        "documents": [
+            {
+                "file_name": "surgery_report.pdf",
+                "file_type": "pdf",
+                "file_size": "3.5MB",
+                "uploaded_at": "2026-03-11T07:02:02.270Z"
+            },
+            {
+                "file_name": "pre_op_blood_test.pdf",
+                "file_type": "pdf",
+                "file_size": "900KB",
+                "uploaded_at": "2026-03-11T07:02:02.270Z"
+            }
+        ],
+        "claim_date": "2026-03-11T07:02:02.270Z",
+        "submitted_date": "2026-03-11T07:02:02.270Z",
+        "created_at": "2026-03-11T07:02:02.270Z",
+        "updated_at": "2026-03-11T07:02:02.270Z"
+    },
+    {
+        "_id": "69b1136beef71ffb312ae209",
+        "claim_id": "fc5caa72-0cf7-4c1d-abcc-9229cd7daa9d",
+        "patient_id": "SWA-100002",
+        "policy_id": "0da7a19a-d762-457f-b443-c6cbb4d84e05",
+        "insurance_id": "68beb41a-cf46-48b3-90d6-0db53ccefcb6",
+        "claim_amount": 28000,
+        "claim_reason": "Diagnostic Tests",
+        "status": "Under Review",
+        "documents": [
+            {
+                "file_name": "lab_report_cbc.pdf",
+                "file_type": "pdf",
+                "file_size": "1.8MB",
+                "uploaded_at": "2026-03-11T07:02:02.270Z"
+            },
+            {
+                "file_name": "xray_chest.jpg",
+                "file_type": "image",
+                "file_size": "4.2MB",
+                "uploaded_at": "2026-03-11T07:02:02.270Z"
+            },
+            {
+                "file_name": "doctor_referral_letter.pdf",
+                "file_type": "pdf",
+                "file_size": "620KB",
+                "uploaded_at": "2026-03-11T07:02:02.270Z"
+            },
+            {
+                "file_name": "insurance_id_card.jpg",
+                "file_type": "image",
+                "file_size": "1.1MB",
+                "uploaded_at": "2026-03-11T07:02:02.270Z"
+            }
+        ],
+        "claim_date": "2026-03-11T07:02:02.270Z",
+        "submitted_date": "2026-03-11T07:02:02.270Z",
+        "created_at": "2026-03-11T07:02:02.270Z",
+        "updated_at": "2026-03-11T07:02:02.270Z"
+    }
+]

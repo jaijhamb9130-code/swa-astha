@@ -1,0 +1,182 @@
+[
+    {
+        "_id": "69b1136aeef71ffb312ae1ef",
+        "prescription_id": "f4988bfc-9847-495b-a734-581b8aff9026",
+        "doctor_id": "0875787d-4ff5-477e-bc92-24d346820dee",
+        "patient_id": "SWA-100000",
+        "diagnosis": "Seasonal Allergy",
+        "medications": [
+            {
+                "name": "Ranitidine 250mg - 1",
+                "dosage": "1 tablet",
+                "frequency": "Twice daily",
+                "duration": "7 days"
+            },
+            {
+                "name": "Pantoprazole 250mg - 2",
+                "dosage": "1 tablet",
+                "frequency": "Once daily",
+                "duration": "14 days"
+            }
+        ],
+        "vitals": {
+            "blood_pressure": "111/80",
+            "heart_rate": 81,
+            "temperature": 97.2
+        },
+        "notes": "Drink plenty of fluids and rest.",
+        "status": "ACTIVE",
+        "createdAt": "2026-03-11T07:02:02.270Z",
+        "updatedAt": "2026-03-11T07:02:02.270Z"
+    },
+    {
+        "_id": "69b1136aeef71ffb312ae1f0",
+        "prescription_id": "59d1aec2-b2c6-4046-b816-9d670e600c05",
+        "doctor_id": "8c06f760-834a-4f89-9c1d-dd49bb2fcc3a",
+        "patient_id": "SWA-100001",
+        "diagnosis": "Hypertension Control",
+        "medications": [
+            {
+                "name": "Azithromycin 500mg - 3",
+                "dosage": "1 tablet",
+                "frequency": "Twice daily",
+                "duration": "7 days"
+            },
+            {
+                "name": "Hydroxychloroquine 500mg - 4",
+                "dosage": "1 tablet",
+                "frequency": "Once daily",
+                "duration": "14 days"
+            }
+        ],
+        "vitals": {
+            "blood_pressure": "111/73",
+            "heart_rate": 77,
+            "temperature": 99.7
+        },
+        "notes": "Drink plenty of fluids and rest.",
+        "status": "ACTIVE",
+        "createdAt": "2026-03-11T07:02:02.270Z",
+        "updatedAt": "2026-03-11T07:02:02.270Z"
+    },
+    {
+        "_id": "69b1136aeef71ffb312ae1f1",
+        "prescription_id": "8efaade4-b97a-4361-b24c-cbd2af5d3e51",
+        "doctor_id": "3f5473fa-c7e4-4b88-b482-7779fbb62ed1",
+        "patient_id": "SWA-100002",
+        "diagnosis": "Type 2 Diabetes",
+        "medications": [
+            {
+                "name": "Hydroxychloroquine 20mg - 5",
+                "dosage": "1 tablet",
+                "frequency": "Twice daily",
+                "duration": "7 days"
+            },
+            {
+                "name": "Metformin 200mg - 6",
+                "dosage": "1 tablet",
+                "frequency": "Once daily",
+                "duration": "14 days"
+            }
+        ],
+        "vitals": {
+            "blood_pressure": "128/71",
+            "heart_rate": 88,
+            "temperature": 99.3
+        },
+        "notes": "Drink plenty of fluids and rest.",
+        "status": "ACTIVE",
+        "createdAt": "2026-03-11T07:02:02.270Z",
+        "updatedAt": "2026-03-11T07:02:02.270Z"
+    },
+    {
+        "_id": "69b1136aeef71ffb312ae1f2",
+        "prescription_id": "9e74b1bf-6aca-455c-926b-1a4455405a03",
+        "doctor_id": "ad58f94e-c5c8-4347-b5f1-6e203f3ae320",
+        "patient_id": "SWA-100003",
+        "diagnosis": "Migraine",
+        "medications": [
+            {
+                "name": "Montelukast 10mg - 7",
+                "dosage": "1 tablet",
+                "frequency": "Twice daily",
+                "duration": "7 days"
+            },
+            {
+                "name": "Ranitidine 100mg - 8",
+                "dosage": "1 tablet",
+                "frequency": "Once daily",
+                "duration": "14 days"
+            }
+        ],
+        "vitals": {
+            "blood_pressure": "139/82",
+            "heart_rate": 75,
+            "temperature": 99.6
+        },
+        "notes": "Drink plenty of fluids and rest.",
+        "status": "ACTIVE",
+        "createdAt": "2026-03-11T07:02:02.270Z",
+        "updatedAt": "2026-03-11T07:02:02.270Z"
+    },
+    {
+        "_id": "69b1136aeef71ffb312ae1f3",
+        "prescription_id": "1904fd41-7084-4dd7-9503-f139c1b3b7d6",
+        "doctor_id": "0875787d-4ff5-477e-bc92-24d346820dee",
+        "patient_id": "SWA-100004",
+        "diagnosis": "Viral Fever",
+        "medications": [
+            {
+                "name": "Paracetamol 20mg - 9",
+                "dosage": "1 tablet",
+                "frequency": "Twice daily",
+                "duration": "7 days"
+            },
+            {
+                "name": "Amitriptyline 200mg - 10",
+                "dosage": "1 tablet",
+                "frequency": "Once daily",
+                "duration": "14 days"
+            }
+        ],
+        "vitals": {
+            "blood_pressure": "121/80",
+            "heart_rate": 89,
+            "temperature": 97.4
+        },
+        "notes": "Drink plenty of fluids and rest.",
+        "status": "ACTIVE",
+        "createdAt": "2026-03-11T07:02:02.270Z",
+        "updatedAt": "2026-03-11T07:02:02.270Z"
+    },
+    {
+        "_id": "69b1136aeef71ffb312ae1f4",
+        "prescription_id": "09e907d0-4e99-4ca0-8c5d-60d53ce0e9df",
+        "doctor_id": "8c06f760-834a-4f89-9c1d-dd49bb2fcc3a",
+        "patient_id": "SWA-100005",
+        "diagnosis": "Skin Rash",
+        "medications": [
+            {
+                "name": "Azithromycin 25mg - 11",
+                "dosage": "1 tablet",
+                "frequency": "Twice daily",
+                "duration": "7 days"
+            },
+            {
+                "name": "Amitriptyline 50mg - 12",
+                "dosage": "1 tablet",
+                "frequency": "Once daily",
+                "duration": "14 days"
+            }
+        ],
+        "vitals": {
+            "blood_pressure": "125/82",
+            "heart_rate": 73,
+            "temperature": 99.7
+        },
+        "notes": "Drink plenty of fluids and rest.",
+        "status": "ACTIVE",
+        "createdAt": "2026-03-11T07:02:02.270Z",
+        "updatedAt": "2026-03-11T07:02:02.270Z"
+    }
+]

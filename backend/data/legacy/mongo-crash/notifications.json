@@ -1,0 +1,23 @@
+[
+    {
+        "title": "New Order Received",
+        "message": "Order #ORD001 from Rajesh Kumar - 2 items",
+        "type": "order",
+        "time": "2026-02-22T09:30:00Z",
+        "read": false
+    },
+    {
+        "title": "Low Stock Alert",
+        "message": "Omeprazole 20mg (Omez) - Only 15 units remaining",
+        "type": "alert",
+        "time": "2026-02-22T08:00:00Z",
+        "read": false
+    },
+    {
+        "title": "Medicine Expired",
+        "message": "Ibuprofen 400mg batch B2024-112 is expiring soon",
+        "type": "alert",
+        "time": "2026-02-21T10:00:00Z",
+        "read": true
+    }
+]

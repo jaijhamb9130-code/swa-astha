@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbb0"
+  },
+  "name": "SwaAstha Distribution Partner 1",
+  "contact_info": "contact1@swaasthadist.com | 1800-SUPP-1",
+  "license_details": "DL-WHL-10001",
+  "rating": 3.9
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbb1"
+  },
+  "name": "SwaAstha Distribution Partner 2",
+  "contact_info": "contact2@swaasthadist.com | 1800-SUPP-2",
+  "license_details": "DL-WHL-10002",
+  "rating": 3.7
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbb2"
+  },
+  "name": "SwaAstha Distribution Partner 3",
+  "contact_info": "contact3@swaasthadist.com | 1800-SUPP-3",
+  "license_details": "DL-WHL-10003",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbb3"
+  },
+  "name": "SwaAstha Distribution Partner 4",
+  "contact_info": "contact4@swaasthadist.com | 1800-SUPP-4",
+  "license_details": "DL-WHL-10004",
+  "rating": 4.1
+},
+{
+  "_id": {
+    "$oid": "69e2234d17c6adc70593dbb4"
+  },
+  "name": "SwaAstha Distribution Partner 5",
+  "contact_info": "contact5@swaasthadist.com | 1800-SUPP-5",
+  "license_details": "DL-WHL-10005",
+  "rating": 3.5
+}]

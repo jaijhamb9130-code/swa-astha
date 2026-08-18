@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "69e21e768956c88f21ba9548"
+  },
+  "pharmacy_id": "PHARM-100000",
+  "pharmacy_name": "SwaAstha Central Pharmacy",
+  "license_number": "SWA-DL-ADV-2024",
+  "address": "Delhi, India",
+  "phone": "1800-ADV-PHARM"
+}]

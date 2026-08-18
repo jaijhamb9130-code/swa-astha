@@ -1,0 +1,77 @@
+[
+    {
+        "_id": "69b1136f9d1fe37b7dfef753",
+        "name": "MedSupply India Pvt Ltd",
+        "categories": [
+            "Antibiotic",
+            "Analgesic",
+            "Antacid"
+        ],
+        "phone": "+91 98888 77766",
+        "email": "orders@medsupply.in",
+        "address": "45, Pharma Hub, MG Road, Mumbai",
+        "ordersPlaced": 156,
+        "lastOrderDate": "2026-02-20T00:00:00.000Z",
+        "wholesaler_id": "a806b4d3-1af7-4aa9-80d1-c5c103b78575"
+    },
+    {
+        "_id": "69b1136f9d1fe37b7dfef754",
+        "name": "HealthCare Distributors",
+        "categories": [
+            "Antihypertensive",
+            "Statin",
+            "Antidiabetic"
+        ],
+        "phone": "+91 87777 66655",
+        "email": "supply@healthcare-dist.com",
+        "address": "12, Industrial Area, Sector 5, Pune",
+        "ordersPlaced": 89,
+        "lastOrderDate": "2026-02-18T00:00:00.000Z",
+        "wholesaler_id": "f1597ecc-6a99-4bfc-bb47-71f042ea70be"
+    },
+    {
+        "_id": "69b1136f9d1fe37b7dfef755",
+        "name": "PharmaCorp Wholesale",
+        "categories": [
+            "Supplement",
+            "Respiratory",
+            "Thyroid"
+        ],
+        "phone": "+91 76666 55544",
+        "email": "bulk@pharmacorp.in",
+        "address": "78, Medicine Lane, Hyderabad",
+        "ordersPlaced": 64,
+        "lastOrderDate": "2026-02-15T00:00:00.000Z",
+        "wholesaler_id": "49634c5f-243c-4950-a36a-fb5319703ebf"
+    },
+    {
+        "_id": "69b1136f9d1fe37b7dfef756",
+        "name": "GenericMeds Trading Co",
+        "categories": [
+            "Antibiotic",
+            "Antihistamine",
+            "Analgesic"
+        ],
+        "phone": "+91 99999 88888",
+        "email": "contact@genericmeds.com",
+        "address": "22, Generic Plaza, Delhi",
+        "ordersPlaced": 45,
+        "lastOrderDate": "2026-02-10T00:00:00.000Z",
+        "wholesaler_id": "18dee16c-262c-42fd-b264-89b08bdc4f9c"
+    },
+    {
+        "_id": "69b1136f9d1fe37b7dfef757",
+        "name": "BioPharm Supplies",
+        "categories": [
+            "Antiplatelet",
+            "Antihypertensive",
+            "Supplement"
+        ],
+        "phone": "+91 88888 99999",
+        "email": "info@biopharm.in",
+        "address": "10, Bio Park, Bangalore",
+        "ordersPlaced": 120,
+        "lastOrderDate": "2026-02-21T00:00:00.000Z",
+        "wholesaler_id": "afa4da04-3095-4b87-8c58-f7c64644b6e7"
+    }
+]

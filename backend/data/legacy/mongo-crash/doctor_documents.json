@@ -1,0 +1,192 @@
+[
+    {
+        "_id": "69b10fdd64f73909ff9818e5",
+        "document_id": "26aa491e-10a4-45ea-a8dc-a1c226ef2a09",
+        "doctor_id": "c5204f87-c3fb-4869-85a9-6dcb421dcaa9",
+        "documents": {
+            "medicalDegree": {
+                "status": "Uploaded",
+                "fileName": "arun_mbbs_degree.pdf",
+                "fileSize": "2.4MB",
+                "uploadDate": "2026-02-26T10:05:00.000Z",
+                "document_id": "82e307be-c0d6-4929-b356-3213f52aad70"
+            },
+            "medicalCouncilRegistration": {
+                "status": "Uploaded",
+                "fileName": "arun_mci_registration.pdf",
+                "fileSize": "1.8MB",
+                "uploadDate": "2026-02-26T10:06:00.000Z",
+                "document_id": "1114b587-af1a-48c6-a817-07535e2d8798"
+            },
+            "governmentId": {
+                "status": "Uploaded",
+                "fileName": "arun_aadhaar.jpg",
+                "fileSize": "3.1MB",
+                "uploadDate": "2026-02-26T10:07:00.000Z",
+                "document_id": "fa145fc1-1555-4e9c-942d-6b80338a7ec4"
+            },
+            "clinicRegistration": {
+                "status": "Uploaded",
+                "fileName": "heartcare_clinic_registration.pdf",
+                "fileSize": "1.2MB",
+                "uploadDate": "2026-02-26T10:08:00.000Z",
+                "document_id": "02f22eaf-2881-4ca9-8f0c-643ae8fcb8a6"
+            },
+            "passportPhoto": {
+                "status": "Uploaded",
+                "fileName": "arun_passport_photo.png",
+                "fileSize": "800KB",
+                "uploadDate": "2026-02-26T10:09:00.000Z",
+                "document_id": "84915f68-a22f-432a-a4a7-cc6c2ca0011c"
+            }
+        }
+    },
+    {
+        "_id": "69b10fdd64f73909ff9818e6",
+        "document_id": "dd7e43cc-aefb-4b07-8d6c-9e35af682344",
+        "doctor_id": "4da18082-262e-4cae-a408-5b360ec33c07",
+        "documents": {
+            "medicalDegree": {
+                "status": "Verified",
+                "fileName": "priya_md_degree.pdf",
+                "uploadDate": "2026-02-20T14:35:00.000Z",
+                "document_id": "bfc5cbd3-7597-4754-a223-ca2cecdc4d75"
+            },
+            "medicalCouncilRegistration": {
+                "status": "Verified",
+                "fileName": "priya_state_council.pdf",
+                "uploadDate": "2026-02-20T14:36:00.000Z",
+                "document_id": "d800c7ff-dd48-4e5a-92f2-22caf1ccd50b"
+            },
+            "governmentId": {
+                "status": "Verified",
+                "fileName": "priya_pan.png",
+                "uploadDate": "2026-02-20T14:37:00.000Z",
+                "document_id": "44b54843-258f-41f2-806e-6f7f0026abda"
+            },
+            "clinicRegistration": {
+                "status": "Verified",
+                "fileName": "skinglow_reg.pdf",
+                "uploadDate": "2026-02-20T14:38:00.000Z",
+                "document_id": "4822c6d6-5d84-40a2-8a2a-8a0fa984520c"
+            },
+            "passportPhoto": {
+                "status": "Verified",
+                "fileName": "priya_photo.jpg",
+                "uploadDate": "2026-02-20T14:39:00.000Z",
+                "document_id": "f7195e27-de60-435f-a20c-60658ac092b6"
+            }
+        }
+    },
+    {
+        "_id": "69b10fdd64f73909ff9818e7",
+        "document_id": "813f2ddd-7d10-451d-a139-b0682ee8ca5e",
+        "doctor_id": "a57e9520-7fbd-4da0-ba94-6f9e10b4d0e1",
+        "documents": {
+            "medicalDegree": {
+                "status": "Verified",
+                "fileName": "ravi_mbbs_md.pdf",
+                "uploadDate": "2026-02-15T09:20:00.000Z",
+                "document_id": "55a95280-7fc0-496c-a395-adf9db616b51"
+            },
+            "medicalCouncilRegistration": {
+                "status": "Verified",
+                "fileName": "ravi_mci.pdf",
+                "uploadDate": "2026-02-15T09:21:00.000Z",
+                "document_id": "8a52a291-76b8-4e46-8123-97612c38a702"
+            },
+            "governmentId": {
+                "status": "Verified",
+                "fileName": "ravi_aadhaar.pdf",
+                "uploadDate": "2026-02-15T09:22:00.000Z",
+                "document_id": "ce720a89-b40a-4a18-94df-963c90f242b2"
+            },
+            "clinicRegistration": {
+                "status": "Verified",
+                "fileName": "littlesmiles_reg.pdf",
+                "uploadDate": "2026-02-15T09:23:00.000Z",
+                "document_id": "cbf7077b-8196-41b8-b5ca-cd9ad939636c"
+            },
+            "passportPhoto": {
+                "status": "Verified",
+                "fileName": "ravi_profile.jpg",
+                "uploadDate": "2026-02-15T09:24:00.000Z",
+                "document_id": "18cf1592-52a4-4c07-a68b-44edbad870e6"
+            }
+        }
+    },
+    {
+        "_id": "69b10fdd64f73909ff9818e8",
+        "document_id": "5dba9fac-bee9-4c56-afb3-3191af3a1c1a",
+        "doctor_id": "2fd77786-419a-4b46-8ae4-b7333a957380",
+        "documents": {
+            "medicalDegree": {
+                "status": "Pending",
+                "fileName": null,
+                "uploadDate": null,
+                "document_id": "cabee716-c445-4c91-9dd9-1763c0422699"
+            },
+            "medicalCouncilRegistration": {
+                "status": "Uploaded",
+                "fileName": "sunita_state_reg.pdf",
+                "uploadDate": "2026-02-25T11:50:00.000Z",
+                "document_id": "d3e273e0-9aed-4b00-a0fb-58243f4a119b"
+            },
+            "governmentId": {
+                "status": "Uploaded",
+                "fileName": "sunita_pan.jpg",
+                "uploadDate": "2026-02-25T11:52:00.000Z",
+                "document_id": "d69e306c-94d6-4e0a-bb97-7949a5a08a17"
+            },
+            "clinicRegistration": {
+                "status": "Pending",
+                "fileName": null,
+                "uploadDate": null,
+                "document_id": "5ed52a3f-881f-4c89-b8a3-308394fb689b"
+            },
+            "passportPhoto": {
+                "status": "Uploaded",
+                "fileName": "sunita_photo.png",
+                "uploadDate": "2026-02-25T11:55:00.000Z",
+                "document_id": "b176f338-5aa7-4f45-8541-d5787e029bce"
+            }
+        }
+    },
+    {
+        "_id": "69b10fdd64f73909ff9818e9",
+        "document_id": "e155780a-6c99-4ced-9a42-57418fb1ece9",
+        "doctor_id": "8237bc19-8fce-459d-88cf-ab56671bc1b1",
+        "documents": {
+            "medicalDegree": {
+                "status": "Uploaded",
+                "fileName": "aadhaar_card.pdf",
+                "uploadDate": "2026-02-26T11:20:00.000Z",
+                "document_id": "0f040d9c-5f80-43bc-9c7d-6af60176de2a"
+            },
+            "medicalCouncilRegistration": {
+                "status": "Uploaded",
+                "fileName": "clinic_cert.pdf",
+                "uploadDate": "2026-02-26T11:20:00.000Z",
+                "document_id": "3b51484c-fe61-4953-9897-1d52b0ea9086"
+            },
+            "governmentId": {
+                "status": "Uploaded",
+                "fileName": "registration_cert.pdf",
+                "uploadDate": "2026-02-26T11:20:00.000Z",
+                "document_id": "b616a5fc-639c-48f5-8fe1-ed771b123c9c"
+            },
+            "clinicRegistration": {
+                "status": "Uploaded",
+                "fileName": "aadhaar_card.pdf",
+                "uploadDate": "2026-02-26T11:20:00.000Z",
+                "document_id": "2605a74c-ad5f-49b6-aefc-a751dc1acd25"
+            },
+            "passportPhoto": {
+                "status": "Uploaded",
+                "fileName": "registration_cert.pdf",
+                "uploadDate": "2026-02-26T11:20:00.000Z",
+                "document_id": "ba54c818-f8ac-4a80-8d45-518fb9080fb5"
+            }
+        }
+    }
+]

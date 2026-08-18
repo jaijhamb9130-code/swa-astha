@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Swa-Astha Admin — Approvals</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f1f5f9; color: #1e293b; min-height: 100vh; }
+
+  .admin-header { background: linear-gradient(135deg, #0f766e, #2FA4A9); padding: 20px 32px; color: #fff; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
+  .admin-header h1 { font-size: 22px; font-weight: 700; display: flex; align-items: center; gap: 10px; }
+  .admin-header h1 span { font-size: 28px; }
+  .admin-header p { font-size: 13px; opacity: 0.85; }
+  .admin-stats { display: flex; gap: 12px; }
+  .admin-stat { background: rgba(255,255,255,0.15); border-radius: 8px; padding: 8px 16px; text-align: center; }
+  .admin-stat .num { font-size: 20px; font-weight: 700; }
+  .admin-stat .lbl { font-size: 11px; opacity: 0.8; }
+
+  .admin-tabs { display: flex; gap: 0; background: #fff; border-bottom: 2px solid #e2e8f0; padding: 0 32px; }
+  .admin-tab { padding: 14px 24px; cursor: pointer; font-weight: 500; font-size: 14px; border-bottom: 3px solid transparent; color: #64748b; transition: all 0.2s; }
+  .admin-tab:hover { color: #0f766e; }
+  .admin-tab.active { color: #0f766e; border-bottom-color: #0f766e; font-weight: 600; }
+
+  .admin-body { max-width: 1100px; margin: 24px auto; padding: 0 24px; }
+
+  .admin-empty { text-align: center; padding: 60px 20px; color: #94a3b8; }
+  .admin-empty .icon { font-size: 48px; margin-bottom: 12px; }
+
+  .doctor-card { background: #fff; border-radius: 12px; border: 1px solid #e2e8f0; margin-bottom: 16px; overflow: hidden; transition: box-shadow 0.2s; }
+  .doctor-card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.06); }
+  .doctor-card-header { padding: 20px 24px; display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; flex-wrap: wrap; }
+  .doctor-card-info { flex: 1; min-width: 240px; }
+  .doctor-name { font-size: 18px; font-weight: 600; display: flex; align-items: center; gap: 8px; }
+  .doctor-id { font-size: 12px; color: #2FA4A9; font-weight: 500; background: #f0fdfa; padding: 2px 8px; border-radius: 4px; }
+  .doctor-meta { display: flex; flex-wrap: wrap; gap: 16px; margin-top: 8px; font-size: 13px; color: #64748b; }
+  .doctor-meta span { display: flex; align-items: center; gap: 4px; }
+
+  .doctor-details { padding: 0 24px 20px; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; }
+  .detail-item { background: #f8fafc; border-radius: 8px; padding: 10px 14px; }
+  .detail-label { font-size: 11px; color: #94a3b8; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; }
+  .detail-value { font-size: 14px; font-weight: 500; margin-top: 2px; }
+
+  .doctor-actions { display: flex; gap: 10px; flex-shrink: 0; }
+  .btn { padding: 10px 20px; border-radius: 8px; border: none; font-size: 14px; font-weight: 600; cursor: pointer; transition: all 0.2s; display: flex; align-items: center; gap: 6px; }
+  .btn:disabled { opacity: 0.5; cursor: not-allowed; }
+  .btn-approve { background: #10b981; color: #fff; }
+  .btn-approve:hover:not(:disabled) { background: #059669; }
+  .btn-reject { background: #fee2e2; color: #dc2626; }
+  .btn-reject:hover:not(:disabled) { background: #fecaca; }
+  .btn-expand { background: #f1f5f9; color: #64748b; font-size: 13px; padding: 8px 14px; }
+  .btn-expand:hover { background: #e2e8f0; }
+
+  .status-badge { font-size: 12px; font-weight: 600; padding: 4px 10px; border-radius: 6px; display: inline-flex; align-items: center; gap: 4px; }
+  .status-pending { background: #fef3c7; color: #92400e; }
+  .status-approved { background: #d1fae5; color: #065f46; }
+  .status-rejected { background: #fee2e2; color: #991b1b; }
+  .status-unverified { background: #f1f5f9; color: #64748b; }
+
+  .toast { position: fixed; bottom: 24px; right: 24px; background: #1e293b; color: #fff; padding: 14px 24px; border-radius: 10px; font-size: 14px; z-index: 1000; display: none; animation: slideUp 0.3s ease; box-shadow: 0 8px 24px rgba(0,0,0,0.15); }
+  .toast.show { display: block; }
+  @keyframes slideUp { from { transform: translateY(20px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+
+  .loading { text-align: center; padding: 40px; color: #94a3b8; }
+  .loading::after { content: ''; display: inline-block; width: 20px; height: 20px; border: 2px solid #94a3b8; border-top-color: transparent; border-radius: 50%; animation: spin 0.6s linear infinite; margin-left: 8px; vertical-align: middle; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  @media (max-width: 600px) {
+    .admin-header { padding: 16px; }
+    .admin-tabs { padding: 0 16px; }
+    .admin-body { padding: 0 12px; }
+    .doctor-card-header { padding: 16px; }
+    .doctor-details { padding: 0 16px 16px; }
+    .doctor-actions { width: 100%; }
+    .btn { flex: 1; justify-content: center; }
+  }
+</style>
+</head>
+<body>
+
+<div class="admin-header">
+  <div>
+    <h1><span>🛡️</span> Swa-Astha Admin Panel</h1>
+    <p>Doctor & Pharmacy Verification — Approval Management</p>
+  </div>
+  <div class="admin-stats" id="statsBar">
+    <div class="admin-stat"><div class="num" id="statPending">-</div><div class="lbl">Pending</div></div>
+    <div class="admin-stat"><div class="num" id="statApproved">-</div><div class="lbl">Approved</div></div>
+    <div class="admin-stat"><div class="num" id="statTotal">-</div><div class="lbl">Total</div></div>
+  </div>
+</div>
+
+<div class="admin-tabs">
+  <div class="admin-tab active" data-tab="pending" onclick="switchTab('pending')">⏳ Pending Doctors</div>
+  <div class="admin-tab" data-tab="all" onclick="switchTab('all')">📋 All Doctors</div>
+  <div class="admin-tab" data-tab="ph-pending" onclick="switchTab('ph-pending')">⏳ Pending Pharmacies</div>
+  <div class="admin-tab" data-tab="ph-all" onclick="switchTab('ph-all')">💊 All Pharmacies</div>
+</div>
+
+<div class="admin-body" id="content">
+  <div class="loading">Loading doctors...</div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+// Secret is held only in sessionStorage so it never leaks via URL, browser
+// history, referrer headers, or server access logs. If the page loads with
+// ?secret=... we migrate it once into sessionStorage and strip the URL.
+let SECRET = sessionStorage.getItem('adminSecret') || '';
+const urlSecret = new URLSearchParams(window.location.search).get('secret');
+if (urlSecret) {
+  SECRET = urlSecret;
+  sessionStorage.setItem('adminSecret', SECRET);
+  history.replaceState({}, '', window.location.pathname);
+}
+if (!SECRET) {
+  SECRET = prompt('Enter admin secret to continue:') || '';
+  if (SECRET) sessionStorage.setItem('adminSecret', SECRET);
+}
+
+function adminHeaders(extra) {
+  return Object.assign({ 'X-Admin-Secret': SECRET }, extra || {});
+}
+let currentTab = 'pending';
+let pendingDoctors = [];
+let allDoctors = [];
+let pendingPharmacies = [];
+let allPharmacies = [];
+
+function switchTab(tab) {
+  currentTab = tab;
+  document.querySelectorAll('.admin-tab').forEach(t => t.classList.toggle('active', t.dataset.tab === tab));
+  render();
+}
+
+function showToast(msg) {
+  const el = document.getElementById('toast');
+  el.textContent = msg;
+  el.classList.add('show');
+  setTimeout(() => el.classList.remove('show'), 3000);
+}
+
+async function fetchData() {
+  try {
+    const [pRes, aRes, phpRes, phaRes] = await Promise.all([
+      fetch('/api/admin/doctors/pending', { headers: adminHeaders() }),
+      fetch('/api/admin/doctors/all', { headers: adminHeaders() }),
+      fetch('/api/admin/pharmacies/pending', { headers: adminHeaders() }),
+      fetch('/api/admin/pharmacies/all', { headers: adminHeaders() })
+    ]);
+    if (!pRes.ok || !aRes.ok || !phpRes.ok || !phaRes.ok) throw new Error('Unauthorized');
+    const pData = await pRes.json();
+    const aData = await aRes.json();
+    const phpData = await phpRes.json();
+    const phaData = await phaRes.json();
+    pendingDoctors = pData.doctors || [];
+    allDoctors = aData.doctors || [];
+    pendingPharmacies = phpData.pharmacies || [];
+    allPharmacies = phaData.pharmacies || [];
+
+    const totalPending = pendingDoctors.length + pendingPharmacies.length;
+    const totalApproved = allDoctors.filter(d => d.verificationStatus === 'approved').length
+                        + allPharmacies.filter(p => p.verificationStatus === 'approved').length;
+    const totalAll = allDoctors.length + allPharmacies.length;
+
+    document.getElementById('statPending').textContent = totalPending;
+    document.getElementById('statApproved').textContent = totalApproved;
+    document.getElementById('statTotal').textContent = totalAll;
+
+    render();
+  } catch (e) {
+    document.getElementById('content').innerHTML = '<div class="admin-empty"><div class="icon">🔒</div><p>Access denied or server error.</p></div>';
+  }
+}
+
+function render() {
+  const el = document.getElementById('content');
+  if (currentTab === 'pending') {
+    if (pendingDoctors.length === 0) {
+      el.innerHTML = '<div class="admin-empty"><div class="icon">✅</div><h3>No Pending Doctors</h3><p>All doctor verification requests have been processed.</p></div>';
+      return;
+    }
+    el.innerHTML = pendingDoctors.map(d => doctorCard(d, true)).join('');
+  } else if (currentTab === 'all') {
+    if (allDoctors.length === 0) {
+      el.innerHTML = '<div class="admin-empty"><div class="icon">📋</div><h3>No Doctors Registered</h3></div>';
+      return;
+    }
+    el.innerHTML = allDoctors.map(d => doctorCard(d, false)).join('');
+  } else if (currentTab === 'ph-pending') {
+    if (pendingPharmacies.length === 0) {
+      el.innerHTML = '<div class="admin-empty"><div class="icon">✅</div><h3>No Pending Pharmacies</h3><p>All pharmacy KYC requests have been processed.</p></div>';
+      return;
+    }
+    el.innerHTML = pendingPharmacies.map(p => pharmacyCard(p, true)).join('');
+  } else if (currentTab === 'ph-all') {
+    if (allPharmacies.length === 0) {
+      el.innerHTML = '<div class="admin-empty"><div class="icon">💊</div><h3>No Pharmacies Registered</h3></div>';
+      return;
+    }
+    el.innerHTML = allPharmacies.map(p => pharmacyCard(p, false)).join('');
+  }
+}
+
+function doctorCard(d, showActions) {
+  const statusClass = { pending: 'status-pending', approved: 'status-approved', rejected: 'status-rejected', unverified: 'status-unverified' };
+  const statusLabel = { pending: '⏳ Pending', approved: '✅ Approved', rejected: '❌ Rejected', unverified: '○ Unverified' };
+  const s = d.status || 'pending';
+
+  return '<div class="doctor-card" id="doc-' + (d.phone || '') + '">' +
+    '<div class="doctor-card-header">' +
+      '<div class="doctor-card-info">' +
+        '<div class="doctor-name">' + esc(d.name) + ' <span class="doctor-id">' + esc(d.doctorId) + '</span></div>' +
+        '<div class="doctor-meta">' +
+          '<span>📱 ' + esc(d.phone) + '</span>' +
+          (d.email ? '<span>✉️ ' + esc(d.email) + '</span>' : '') +
+          (d.specialization ? '<span>🩺 ' + esc(d.specialization) + '</span>' : '') +
+          '<span class="status-badge ' + (statusClass[s] || '') + '">' + (statusLabel[s] || s) + '</span>' +
+        '</div>' +
+      '</div>' +
+      (showActions ? '<div class="doctor-actions">' +
+        '<button class="btn btn-approve" onclick="approveDoctor(\'' + esc(d.phone) + '\')">✓ Approve</button>' +
+        '<button class="btn btn-reject" onclick="rejectDoctor(\'' + esc(d.phone) + '\')">✕ Reject</button>' +
+      '</div>' : '') +
+    '</div>' +
+    '<div class="doctor-details">' +
+      detailItem('Specialization', d.specialization) +
+      detailItem('Experience', d.experience ? d.experience + ' years' : '---') +
+      detailItem('Clinic / Hospital', d.clinicName) +
+      detailItem('City', d.city) +
+      detailItem('Degree', d.degree) +
+      detailItem('Registration No.', d.registrationNumber) +
+      detailItem('Gender', d.gender ? d.gender.charAt(0).toUpperCase() + d.gender.slice(1) : '---') +
+      detailItem('Submitted', d.submittedAt || d.created_at || '---') +
+    '</div>' +
+  '</div>';
+}
+
+function detailItem(label, value) {
+  return '<div class="detail-item"><div class="detail-label">' + esc(label) + '</div><div class="detail-value">' + esc(value || '---') + '</div></div>';
+}
+
+function esc(s) { const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML; }
+
+async function approveDoctor(phone) {
+  if (!confirm('Approve this doctor? They will get full verified access.')) return;
+  try {
+    const res = await fetch('/api/admin/doctor/' + encodeURIComponent(phone) + '/approve', {
+      method: 'POST', headers: { 'X-Admin-Secret': SECRET }
+    });
+    const data = await res.json();
+    showToast('✅ ' + data.message);
+    fetchData();
+  } catch (e) { showToast('Error: ' + e.message); }
+}
+
+async function rejectDoctor(phone) {
+  const reason = prompt('Rejection reason (optional):') || '';
+  try {
+    const res = await fetch('/api/admin/doctor/' + encodeURIComponent(phone) + '/reject', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'X-Admin-Secret': SECRET },
+      body: JSON.stringify({ reason: reason })
+    });
+    const data = await res.json();
+    showToast('❌ ' + data.message);
+    fetchData();
+  } catch (e) { showToast('Error: ' + e.message); }
+}
+
+// ── PHARMACY CARD + ACTIONS ──
+function pharmacyCard(p, showActions) {
+  const statusClass = { pending: 'status-pending', under_review: 'status-pending', approved: 'status-approved', rejected: 'status-rejected' };
+  const statusLabel = { pending: '⏳ Pending', under_review: '🔍 Under Review', approved: '✅ Approved', rejected: '❌ Rejected' };
+  const s = p.verificationStatus || 'pending';
+  const addr = p.address || {};
+  const addrStr = [addr.street, addr.city, addr.state, addr.pincode].filter(Boolean).join(', ');
+  const coords = p.location && p.location.coordinates ? p.location.coordinates : null;
+  const mapsHref = coords && coords[0] && coords[1]
+    ? 'https://maps.google.com/?q=' + coords[1] + ',' + coords[0]
+    : null;
+
+  return '<div class="doctor-card" id="phar-' + (p.ownerPhone || '') + '">' +
+    '<div class="doctor-card-header">' +
+      '<div class="doctor-card-info">' +
+        '<div class="doctor-name">' + esc(p.name) + ' <span class="doctor-id">' + esc(p.pharmacyId || '') + '</span></div>' +
+        '<div class="doctor-meta">' +
+          '<span>👤 ' + esc(p.ownerName) + '</span>' +
+          '<span>📱 ' + esc(p.ownerPhone) + '</span>' +
+          (p.email ? '<span>✉️ ' + esc(p.email) + '</span>' : '') +
+          (p.licenseNumber ? '<span>🪪 ' + esc(p.licenseNumber) + '</span>' : '') +
+          '<span class="status-badge ' + (statusClass[s] || '') + '">' + (statusLabel[s] || s) + '</span>' +
+        '</div>' +
+      '</div>' +
+      (showActions ? '<div class="doctor-actions">' +
+        '<button class="btn btn-approve" onclick="approvePharmacy(\'' + esc(p.ownerPhone) + '\')">✓ Approve</button>' +
+        '<button class="btn btn-reject" onclick="rejectPharmacy(\'' + esc(p.ownerPhone) + '\')">✕ Reject</button>' +
+      '</div>' : '') +
+    '</div>' +
+    '<div class="doctor-details">' +
+      detailItem('Owner', p.ownerName) +
+      detailItem('License', p.licenseNumber) +
+      detailItem('Address', addrStr || '---') +
+      detailItem('Pincode', addr.pincode || '---') +
+      detailItem('Location', mapsHref ? '<a href="' + mapsHref + '" target="_blank" style="color:#0f766e;">View on map</a>' : '—') +
+      detailItem('Submitted', p.createdAt ? new Date(p.createdAt).toLocaleString() : '---') +
+      (p.verificationNotes ? detailItem('Admin Note', p.verificationNotes) : '') +
+    '</div>' +
+  '</div>';
+}
+
+async function approvePharmacy(phone) {
+  if (!confirm('Approve this pharmacy? They will get full verified access.')) return;
+  try {
+    const res = await fetch('/api/admin/pharmacy/' + encodeURIComponent(phone) + '/approve', {
+      method: 'POST', headers: adminHeaders()
+    });
+    const data = await res.json();
+    showToast('✅ ' + data.message);
+    fetchData();
+  } catch (e) { showToast('Error: ' + e.message); }
+}
+
+async function rejectPharmacy(phone) {
+  const reason = prompt('Rejection reason (optional):') || '';
+  try {
+    const res = await fetch('/api/admin/pharmacy/' + encodeURIComponent(phone) + '/reject', {
+      method: 'POST',
+      headers: adminHeaders({ 'Content-Type': 'application/json' }),
+      body: JSON.stringify({ notes: reason })
+    });
+    const data = await res.json();
+    showToast('❌ ' + data.message);
+    fetchData();
+  } catch (e) { showToast('Error: ' + e.message); }
+}
+
+// Override detailItem to allow HTML in value (used for the map link above).
+function detailItem(label, value) {
+  // If the value already contains HTML (begins with '<'), trust it; otherwise escape.
+  const v = (value || '---').toString();
+  const inner = v.startsWith('<') ? v : esc(v);
+  return '<div class="detail-item"><div class="detail-label">' + esc(label) + '</div><div class="detail-value">' + inner + '</div></div>';
+}
+
+// Initial load
+fetchData();
+// Auto-refresh every 30 seconds
+setInterval(fetchData, 30000);
+</script>
+
+</body>
+</html>

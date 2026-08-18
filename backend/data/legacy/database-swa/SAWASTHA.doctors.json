@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "69e21e768956c88f21ba9553"
+  },
+  "phone": "8880001001",
+  "name": "Dr. Advanced Demo 1",
+  "email": "doctor1@swaastha.com",
+  "specialization": "Dermatologist",
+  "gender": "Female",
+  "clinic_name": "",
+  "city": "",
+  "degree": "",
+  "experience": "",
+  "registration_number": "",
+  "doctor_id": "DOC-000001",
+  "is_verified": 2,
+  "created_at": {
+    "$date": "2026-04-17T11:50:14.693Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e21e768956c88f21ba9554"
+  },
+  "phone": "8880001002",
+  "name": "Dr. Advanced Demo 2",
+  "email": "doctor2@swaastha.com",
+  "specialization": "General Physician",
+  "gender": "Male",
+  "clinic_name": "",
+  "city": "",
+  "degree": "",
+  "experience": "",
+  "registration_number": "",
+  "doctor_id": "DOC-000002",
+  "is_verified": 2,
+  "created_at": {
+    "$date": "2026-04-17T11:50:14.742Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e21e768956c88f21ba9555"
+  },
+  "phone": "8880001003",
+  "name": "Dr. Advanced Demo 3",
+  "email": "doctor3@swaastha.com",
+  "specialization": "Dermatologist",
+  "gender": "Male",
+  "clinic_name": "",
+  "city": "",
+  "degree": "",
+  "experience": "",
+  "registration_number": "",
+  "doctor_id": "DOC-000003",
+  "is_verified": 2,
+  "created_at": {
+    "$date": "2026-04-17T11:50:14.743Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e21e768956c88f21ba9556"
+  },
+  "phone": "8880001004",
+  "name": "Dr. Advanced Demo 4",
+  "email": "doctor4@swaastha.com",
+  "specialization": "Pediatrician",
+  "gender": "Female",
+  "clinic_name": "",
+  "city": "",
+  "degree": "",
+  "experience": "",
+  "registration_number": "",
+  "doctor_id": "DOC-000004",
+  "is_verified": 2,
+  "created_at": {
+    "$date": "2026-04-17T11:50:14.744Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e21e768956c88f21ba9557"
+  },
+  "phone": "8880001005",
+  "name": "Dr. Advanced Demo 5",
+  "email": "doctor5@swaastha.com",
+  "specialization": "Pediatrician",
+  "gender": "Female",
+  "clinic_name": "",
+  "city": "",
+  "degree": "",
+  "experience": "",
+  "registration_number": "",
+  "doctor_id": "DOC-000005",
+  "is_verified": 2,
+  "created_at": {
+    "$date": "2026-04-17T11:50:14.747Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e21e768956c88f21ba9558"
+  },
+  "phone": "8880001006",
+  "name": "Dr. Advanced Demo 6",
+  "email": "doctor6@swaastha.com",
+  "specialization": "Pediatrician",
+  "gender": "Male",
+  "clinic_name": "",
+  "city": "",
+  "degree": "",
+  "experience": "",
+  "registration_number": "",
+  "doctor_id": "DOC-000006",
+  "is_verified": 2,
+  "created_at": {
+    "$date": "2026-04-17T11:50:14.750Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e21e768956c88f21ba9559"
+  },
+  "phone": "8880001007",
+  "name": "Dr. Advanced Demo 7",
+  "email": "doctor7@swaastha.com",
+  "specialization": "Pediatrician",
+  "gender": "Female",
+  "clinic_name": "",
+  "city": "",
+  "degree": "",
+  "experience": "",
+  "registration_number": "",
+  "doctor_id": "DOC-000007",
+  "is_verified": 2,
+  "created_at": {
+    "$date": "2026-04-17T11:50:14.751Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e21e768956c88f21ba955a"
+  },
+  "phone": "8880001008",
+  "name": "Dr. Advanced Demo 8",
+  "email": "doctor8@swaastha.com",
+  "specialization": "Dermatologist",
+  "gender": "Female",
+  "clinic_name": "",
+  "city": "",
+  "degree": "",
+  "experience": "",
+  "registration_number": "",
+  "doctor_id": "DOC-000008",
+  "is_verified": 2,
+  "created_at": {
+    "$date": "2026-04-17T11:50:14.753Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e21e768956c88f21ba955b"
+  },
+  "phone": "8880001009",
+  "name": "Dr. Advanced Demo 9",
+  "email": "doctor9@swaastha.com",
+  "specialization": "Dermatologist",
+  "gender": "Male",
+  "clinic_name": "",
+  "city": "",
+  "degree": "",
+  "experience": "",
+  "registration_number": "",
+  "doctor_id": "DOC-000009",
+  "is_verified": 2,
+  "created_at": {
+    "$date": "2026-04-17T11:50:14.755Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e21e768956c88f21ba955c"
+  },
+  "phone": "8880001010",
+  "name": "Dr. Advanced Demo 10",
+  "email": "doctor10@swaastha.com",
+  "specialization": "Dermatologist",
+  "gender": "Female",
+  "clinic_name": "",
+  "city": "",
+  "degree": "",
+  "experience": "",
+  "registration_number": "",
+  "doctor_id": "DOC-000010",
+  "is_verified": 2,
+  "created_at": {
+    "$date": "2026-04-17T11:50:14.756Z"
+  }
+}]

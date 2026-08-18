@@ -1,0 +1,47 @@
+[
+    {
+        "_id": "69b10fdd64f73909ff9818ed",
+        "doctorEmail": "tanishasodani28@gmail.com",
+        "patient_id": "SWA-100002",
+        "patientName": "Rajesh Kumar",
+        "action": "Viewed blood test report",
+        "timestamp": "2026-02-26T09:30:00.000Z",
+        "doctor_id": "8237bc19-8fce-459d-88cf-ab56671bc1b1"
+    },
+    {
+        "_id": "69b10fdd64f73909ff9818ee",
+        "doctorEmail": "tanishasodani28@gmail.com",
+        "patient_id": "SWA-100003",
+        "patientName": "Anita Desai",
+        "action": "Accessed thyroid function test",
+        "timestamp": "2026-02-26T06:30:00.000Z",
+        "doctor_id": "8237bc19-8fce-459d-88cf-ab56671bc1b1"
+    },
+    {
+        "_id": "69b10fdd64f73909ff9818ef",
+        "doctorEmail": "tanishasodani28@gmail.com",
+        "patient_id": "SWA-100004",
+        "patientName": "Mohammad Irfan",
+        "action": "Reviewed CT scan report",
+        "timestamp": "2026-02-25T14:15:00.000Z",
+        "doctor_id": "8237bc19-8fce-459d-88cf-ab56671bc1b1"
+    },
+    {
+        "_id": "69b10fdd64f73909ff9818f0",
+        "doctorEmail": "tanishasodani28@gmail.com",
+        "patient_id": "SWA-100002",
+        "patientName": "Rajesh Kumar",
+        "action": "Downloaded lipid profile",
+        "timestamp": "2026-02-25T10:00:00.000Z",
+        "doctor_id": "8237bc19-8fce-459d-88cf-ab56671bc1b1"
+    },
+    {
+        "_id": "69b10fdd64f73909ff9818f1",
+        "doctorEmail": "tanishasodani28@gmail.com",
+        "patient_id": "SWA-100003",
+        "patientName": "Anita Desai",
+        "action": "Viewed prescription history",
+        "timestamp": "2026-02-24T11:45:00.000Z",
+        "doctor_id": "8237bc19-8fce-459d-88cf-ab56671bc1b1"
+    }
+]

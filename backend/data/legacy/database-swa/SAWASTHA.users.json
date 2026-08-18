@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "69e21e768956c88f21ba9549"
+  },
+  "phone": "9990001000",
+  "name": "Patient Demo 1",
+  "age": "50",
+  "gender": "Female",
+  "patient_id": "SWA-100000",
+  "created_at": {
+    "$date": "2026-04-17T11:50:14.629Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e21e768956c88f21ba954a"
+  },
+  "phone": "9990001001",
+  "name": "Patient Demo 2",
+  "age": "34",
+  "gender": "Female",
+  "patient_id": "SWA-100001",
+  "created_at": {
+    "$date": "2026-04-17T11:50:14.681Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e21e768956c88f21ba954b"
+  },
+  "phone": "9990001002",
+  "name": "Patient Demo 3",
+  "age": "39",
+  "gender": "Female",
+  "patient_id": "SWA-100002",
+  "created_at": {
+    "$date": "2026-04-17T11:50:14.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e21e768956c88f21ba954c"
+  },
+  "phone": "9990001003",
+  "name": "Patient Demo 4",
+  "age": "41",
+  "gender": "Female",
+  "patient_id": "SWA-100003",
+  "created_at": {
+    "$date": "2026-04-17T11:50:14.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e21e768956c88f21ba954d"
+  },
+  "phone": "9990001004",
+  "name": "Patient Demo 5",
+  "age": "55",
+  "gender": "Male",
+  "patient_id": "SWA-100004",
+  "created_at": {
+    "$date": "2026-04-17T11:50:14.687Z"
+  }
+}]

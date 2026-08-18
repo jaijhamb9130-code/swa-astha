@@ -1,0 +1,158 @@
+[
+    {
+        "_id": "69b1136beef71ffb312ae20a",
+        "bill_id": "1468476f-4425-4ba2-9762-4f50f5928c28",
+        "patient_id": "SWA-100000",
+        "doctor_id": "0875787d-4ff5-477e-bc92-24d346820dee",
+        "hospital_name": "City Hospital",
+        "bill_date": "2026-03-11T07:02:02.270Z",
+        "items": [
+            {
+                "description": "Consultation Fee",
+                "amount": 654
+            },
+            {
+                "description": "Medicine Charges",
+                "amount": 558
+            },
+            {
+                "description": "Lab Tests",
+                "amount": 1020
+            }
+        ],
+        "total_amount": 1442,
+        "payment_status": "Paid",
+        "createdAt": "2026-03-11T07:02:02.270Z",
+        "updatedAt": "2026-03-11T07:02:02.270Z"
+    },
+    {
+        "_id": "69b1136beef71ffb312ae20b",
+        "bill_id": "3b190cf9-8a95-4c8c-bf11-33ac5c256d31",
+        "patient_id": "SWA-100001",
+        "doctor_id": "8c06f760-834a-4f89-9c1d-dd49bb2fcc3a",
+        "hospital_name": "nims",
+        "bill_date": "2026-03-11T07:02:02.270Z",
+        "items": [
+            {
+                "description": "Consultation Fee",
+                "amount": 860
+            },
+            {
+                "description": "Medicine Charges",
+                "amount": 921
+            },
+            {
+                "description": "Lab Tests",
+                "amount": 314
+            }
+        ],
+        "total_amount": 2266,
+        "payment_status": "Pending",
+        "createdAt": "2026-03-11T07:02:02.270Z",
+        "updatedAt": "2026-03-11T07:02:02.270Z"
+    },
+    {
+        "_id": "69b1136beef71ffb312ae20c",
+        "bill_id": "55a24187-3e87-4f34-b208-ee820394f37d",
+        "patient_id": "SWA-100002",
+        "doctor_id": "3f5473fa-c7e4-4b88-b482-7779fbb62ed1",
+        "hospital_name": "Skin Glow Center",
+        "bill_date": "2026-03-11T07:02:02.270Z",
+        "items": [
+            {
+                "description": "Consultation Fee",
+                "amount": 610
+            },
+            {
+                "description": "Medicine Charges",
+                "amount": 583
+            },
+            {
+                "description": "Lab Tests",
+                "amount": 1116
+            }
+        ],
+        "total_amount": 1823,
+        "payment_status": "Partially Paid",
+        "createdAt": "2026-03-11T07:02:02.270Z",
+        "updatedAt": "2026-03-11T07:02:02.270Z"
+    },
+    {
+        "_id": "69b1136beef71ffb312ae20d",
+        "bill_id": "32961048-9503-4221-b126-d72794019c6d",
+        "patient_id": "SWA-100003",
+        "doctor_id": "ad58f94e-c5c8-4347-b5f1-6e203f3ae320",
+        "hospital_name": "Little Smiles Hospital",
+        "bill_date": "2026-03-11T07:02:02.270Z",
+        "items": [
+            {
+                "description": "Consultation Fee",
+                "amount": 939
+            },
+            {
+                "description": "Medicine Charges",
+                "amount": 338
+            },
+            {
+                "description": "Lab Tests",
+                "amount": 833
+            }
+        ],
+        "total_amount": 2204,
+        "payment_status": "Paid",
+        "createdAt": "2026-03-11T07:02:02.270Z",
+        "updatedAt": "2026-03-11T07:02:02.270Z"
+    },
+    {
+        "_id": "69b1136beef71ffb312ae20e",
+        "bill_id": "15b76e23-520a-40c6-8879-934c94f28e57",
+        "patient_id": "SWA-100004",
+        "doctor_id": "0875787d-4ff5-477e-bc92-24d346820dee",
+        "hospital_name": "City Hospital",
+        "bill_date": "2026-03-11T07:02:02.270Z",
+        "items": [
+            {
+                "description": "Consultation Fee",
+                "amount": 853
+            },
+            {
+                "description": "Medicine Charges",
+                "amount": 889
+            },
+            {
+                "description": "Lab Tests",
+                "amount": 602
+            }
+        ],
+        "total_amount": 1344,
+        "payment_status": "Pending",
+        "createdAt": "2026-03-11T07:02:02.270Z",
+        "updatedAt": "2026-03-11T07:02:02.270Z"
+    },
+    {
+        "_id": "69b1136beef71ffb312ae20f",
+        "bill_id": "304e31ff-46ac-412e-aa10-727a06f028d0",
+        "patient_id": "SWA-100005",
+        "doctor_id": "8c06f760-834a-4f89-9c1d-dd49bb2fcc3a",
+        "hospital_name": "nims",
+        "bill_date": "2026-03-11T07:02:02.270Z",
+        "items": [
+            {
+                "description": "Consultation Fee",
+                "amount": 592
+            },
+            {
+                "description": "Medicine Charges",
+                "amount": 262
+            },
+            {
+                "description": "Lab Tests",
+                "amount": 1139
+            }
+        ],
+        "total_amount": 1828,
+        "payment_status": "Partially Paid",
+        "createdAt": "2026-03-11T07:02:02.270Z",
+        "updatedAt": "2026-03-11T07:02:02.270Z"
+    }
+]

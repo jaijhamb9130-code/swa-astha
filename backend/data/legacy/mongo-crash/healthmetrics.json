@@ -1,0 +1,72 @@
+[
+    {
+        "_id": "69b1136beef71ffb312ae1fd",
+        "patient_id": "SWA-100000",
+        "height": 166,
+        "weight": 74,
+        "bmi": 27,
+        "protein_intake": 47,
+        "daily_calories": 1988,
+        "vitamin_suggestions": "Vitamin D, B12",
+        "ideal_weight": 61,
+        "bp_reading": "136/71",
+        "created_at": "2026-03-11T07:02:02.270Z",
+        "updated_at": "2026-03-11T07:02:02.270Z"
+    },
+    {
+        "_id": "69b1136beef71ffb312ae1fe",
+        "patient_id": "SWA-100001",
+        "height": 164,
+        "weight": 51,
+        "bmi": 19,
+        "protein_intake": 42,
+        "daily_calories": 2245,
+        "vitamin_suggestions": "Iron, Calcium",
+        "ideal_weight": 59,
+        "bp_reading": "113/76",
+        "created_at": "2026-03-11T07:02:02.270Z",
+        "updated_at": "2026-03-11T07:02:02.270Z"
+    },
+    {
+        "_id": "69b1136beef71ffb312ae1ff",
+        "patient_id": "SWA-100002",
+        "height": 154,
+        "weight": 78,
+        "bmi": 33,
+        "protein_intake": 40,
+        "daily_calories": 1870,
+        "vitamin_suggestions": "Vitamin C, Zinc",
+        "ideal_weight": 52,
+        "bp_reading": "134/81",
+        "created_at": "2026-03-11T07:02:02.270Z",
+        "updated_at": "2026-03-11T07:02:02.270Z"
+    },
+    {
+        "_id": "69b1136beef71ffb312ae200",
+        "patient_id": "SWA-100003",
+        "height": 158,
+        "weight": 76,
+        "bmi": 30,
+        "protein_intake": 33,
+        "daily_calories": 2256,
+        "vitamin_suggestions": "Omega-3, B6",
+        "ideal_weight": 55,
+        "bp_reading": "135/71",
+        "created_at": "2026-03-11T07:02:02.270Z",
+        "updated_at": "2026-03-11T07:02:02.270Z"
+    },
+    {
+        "_id": "69b1136beef71ffb312ae201",
+        "patient_id": "SWA-100004",
+        "height": 159,
+        "weight": 64,
+        "bmi": 25,
+        "protein_intake": 39,
+        "daily_calories": 1830,
+        "vitamin_suggestions": "Folic Acid, D3",
+        "ideal_weight": 56,
+        "bp_reading": "132/81",
+        "created_at": "2026-03-11T07:02:02.270Z",
+        "updated_at": "2026-03-11T07:02:02.270Z"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "_id": "69b1136beef71ffb312ae210",
+        "consent_id": "ed62817c-6188-417d-a20f-631fa8f4955c",
+        "patient_id": "SWA-100000",
+        "doctor_id": "0875787d-4ff5-477e-bc92-24d346820dee",
+        "consent_type": "View Medical Records",
+        "status": "Granted",
+        "granted_at": "2026-03-11T07:02:02.270Z",
+        "expires_at": "2027-03-11T07:02:03.218Z",
+        "createdAt": "2026-03-11T07:02:02.270Z",
+        "updatedAt": "2026-03-11T07:02:02.270Z"
+    },
+    {
+        "_id": "69b1136beef71ffb312ae211",
+        "consent_id": "77004d93-e063-484a-bbf4-cec46b82db00",
+        "patient_id": "SWA-100001",
+        "doctor_id": "8c06f760-834a-4f89-9c1d-dd49bb2fcc3a",
+        "consent_type": "Share Reports",
+        "status": "Granted",
+        "granted_at": "2026-03-11T07:02:02.270Z",
+        "expires_at": "2027-03-11T07:02:03.261Z",
+        "createdAt": "2026-03-11T07:02:02.270Z",
+        "updatedAt": "2026-03-11T07:02:02.270Z"
+    },
+    {
+        "_id": "69b1136beef71ffb312ae212",
+        "consent_id": "a76a2659-e3f0-4a68-b5aa-cf76ccba0216",
+        "patient_id": "SWA-100002",
+        "doctor_id": "3f5473fa-c7e4-4b88-b482-7779fbb62ed1",
+        "consent_type": "Treatment Approval",
+        "status": "Revoked",
+        "granted_at": "2026-03-11T07:02:02.270Z",
+        "expires_at": "2027-03-11T07:02:03.261Z",
+        "createdAt": "2026-03-11T07:02:02.270Z",
+        "updatedAt": "2026-03-11T07:02:02.270Z"
+    },
+    {
+        "_id": "69b1136beef71ffb312ae213",
+        "consent_id": "1c906289-51d9-450b-8bac-a5efc4560044",
+        "patient_id": "SWA-100003",
+        "doctor_id": "ad58f94e-c5c8-4347-b5f1-6e203f3ae320",
+        "consent_type": "Data Sharing",
+        "status": "Granted",
+        "granted_at": "2026-03-11T07:02:02.270Z",
+        "expires_at": "2027-03-11T07:02:03.261Z",
+        "createdAt": "2026-03-11T07:02:02.270Z",
+        "updatedAt": "2026-03-11T07:02:02.270Z"
+    }
+]

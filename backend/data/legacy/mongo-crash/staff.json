@@ -1,0 +1,52 @@
+[
+    {
+        "_id": "69b1136f9d1fe37b7dfef743",
+        "initials": "RG",
+        "name": "Dr. Ramesh Gupta",
+        "role": "Owner",
+        "email": "ramesh@swa-astha.com",
+        "phone": "+91 99999 88888",
+        "lastActive": "2026-02-22T11:30:00.000Z",
+        "staff_id": "233242aa-22ab-4705-9ee5-501d4df657e0"
+    },
+    {
+        "_id": "69b1136f9d1fe37b7dfef744",
+        "initials": "AS",
+        "name": "Anita Sharma",
+        "role": "Manager",
+        "email": "anita@swa-astha.com",
+        "phone": "+91 88888 77777",
+        "lastActive": "2026-02-22T11:25:00.000Z",
+        "staff_id": "daa50eae-034f-48cc-9cf8-5469ab3a237b"
+    },
+    {
+        "_id": "69b1136f9d1fe37b7dfef745",
+        "initials": "PJ",
+        "name": "Prakash Joshi",
+        "role": "Billing Staff",
+        "email": "prakash@swa-astha.com",
+        "phone": "+91 77777 66666",
+        "lastActive": "2026-02-22T11:20:00.000Z",
+        "staff_id": "77755b8d-daec-4058-beeb-523bfb0e5cea"
+    },
+    {
+        "_id": "69b1136f9d1fe37b7dfef746",
+        "initials": "MK",
+        "name": "Meena Kumari",
+        "role": "Inventory Staff",
+        "email": "meena@swa-astha.com",
+        "phone": "+91 66666 55555",
+        "lastActive": "2026-02-22T10:45:00.000Z",
+        "staff_id": "e958405b-bb21-4a8e-926c-83a19e43fbcb"
+    },
+    {
+        "_id": "69b1136f9d1fe37b7dfef747",
+        "initials": "SP",
+        "name": "Sanjay Patel",
+        "role": "Billing Staff",
+        "email": "sanjay@swa-astha.com",
+        "phone": "+91 55555 44444",
+        "lastActive": "2026-02-22T09:30:00.000Z",
+        "staff_id": "9eae89fd-06e6-49e8-89f5-498ced8d78e7"
+    }
+]

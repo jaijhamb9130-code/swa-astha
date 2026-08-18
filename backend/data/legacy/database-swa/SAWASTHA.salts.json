@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "69e21e768956c88f21ba955f"
+  },
+  "name": "Paracetamol",
+  "description": "Fever and pain relief"
+},
+{
+  "_id": {
+    "$oid": "69e21e768956c88f21ba9560"
+  },
+  "name": "Amoxicillin",
+  "description": "Antibiotic used to treat bacterial infections"
+},
+{
+  "_id": {
+    "$oid": "69e21e768956c88f21ba9561"
+  },
+  "name": "Pantoprazole",
+  "description": "Reduces stomach acid, used for GERD"
+},
+{
+  "_id": {
+    "$oid": "69e21e768956c88f21ba9562"
+  },
+  "name": "Amlodipine",
+  "description": "Treats high blood pressure"
+},
+{
+  "_id": {
+    "$oid": "69e21e768956c88f21ba9563"
+  },
+  "name": "Metformin",
+  "description": "Controls blood sugar in type 2 diabetes"
+},
+{
+  "_id": {
+    "$oid": "69e21e768956c88f21ba9564"
+  },
+  "name": "Cetirizine",
+  "description": "Antihistamine for allergy symptoms"
+},
+{
+  "_id": {
+    "$oid": "69e21e768956c88f21ba9565"
+  },
+  "name": "Diclofenac",
+  "description": "NSAID for pain and inflammation"
+},
+{
+  "_id": {
+    "$oid": "69e21e768956c88f21ba9566"
+  },
+  "name": "Azithromycin",
+  "description": "Macrolide antibiotic"
+},
+{
+  "_id": {
+    "$oid": "69e21e768956c88f21ba9567"
+  },
+  "name": "Atorvastatin",
+  "description": "Lowers cholesterol"
+},
+{
+  "_id": {
+    "$oid": "69e21e768956c88f21ba9568"
+  },
+  "name": "Levothyroxine",
+  "description": "Treats hypothyroidism"
+}]

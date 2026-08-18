@@ -1,0 +1,169 @@
+[
+    {
+        "_id": "69b113709d1fe37b7dff0326",
+        "orderId": "ORD001",
+        "patient_id": "SWA-100002",
+        "patientName": "Rajesh Kumar",
+        "items": [
+            {
+                "medicineName": "Paracetamol 500mg",
+                "quantity": 2,
+                "price": 50,
+                "medicine_id": "636bc6bc-6186-43a1-b681-c6e6af3a7d8c"
+            },
+            {
+                "medicineName": "Cetirizine 10mg",
+                "quantity": 1,
+                "price": 18,
+                "medicine_id": "58557133-5ee8-4f7d-a4b3-42f5aab11b9f"
+            }
+        ],
+        "totalAmount": 68,
+        "status": "Pending",
+        "tags": [
+            "Delivery"
+        ],
+        "orderDate": "2026-02-22T09:30:00.000Z",
+        "order_id": "2da9c428-5feb-42bd-93a9-f7f11fcdaf4e",
+        "delivery_agent_id": "c076ba64-1780-469e-8110-7c36ef51b8ac"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0327",
+        "orderId": "ORD002",
+        "patient_id": "SWA-100009",
+        "patientName": "Priya Sharma",
+        "items": [
+            {
+                "medicineName": "Amoxicillin 250mg",
+                "quantity": 2,
+                "price": 130,
+                "medicine_id": "ab539b60-673f-409d-bbab-682261a03975"
+            },
+            {
+                "medicineName": "Omeprazole 20mg",
+                "quantity": 1,
+                "price": 48,
+                "medicine_id": "f84ab182-1eae-4715-b035-909b0853c63f"
+            },
+            {
+                "medicineName": "Syrup",
+                "quantity": 1,
+                "price": 65,
+                "medicine_id": "e0b43acf-6131-4b61-9016-56a90c7a44b9"
+            }
+        ],
+        "totalAmount": 243,
+        "status": "Accepted",
+        "tags": [
+            "Pickup",
+            "Rx Required"
+        ],
+        "orderDate": "2026-02-22T10:15:00.000Z",
+        "order_id": "9a66d597-43ab-42c4-825f-a760bc8ca172",
+        "delivery_agent_id": "aab7cfc8-d143-4d3d-b84c-6ef0e185eb3f"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0328",
+        "orderId": "ORD003",
+        "patient_id": "SWA-100008",
+        "patientName": "Amit Patel",
+        "items": [
+            {
+                "medicineName": "Metformin 500mg",
+                "quantity": 2,
+                "price": 70,
+                "medicine_id": "84faf9af-084d-4ff1-9c1a-1540bde7dfca"
+            },
+            {
+                "medicineName": "Atorvastatin 10mg",
+                "quantity": 1,
+                "price": 80,
+                "medicine_id": "88142772-d2e1-4dab-8772-9e849ae734a3"
+            }
+        ],
+        "totalAmount": 150,
+        "status": "Out For Delivery",
+        "tags": [
+            "Delivery",
+            "Rx Required"
+        ],
+        "orderDate": "2026-02-22T08:45:00.000Z",
+        "employee_id": "DEL-001",
+        "order_id": "ed094d35-61df-4322-bd47-a400a72f6271",
+        "delivery_agent_id": "83a8766d-c424-4471-960e-6cdc2cc74750"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0329",
+        "orderId": "ORD004",
+        "patient_id": "SWA-100005",
+        "patientName": "Sunita Devi",
+        "items": [
+            {
+                "medicineName": "Ibuprofen 400mg",
+                "quantity": 1,
+                "price": 22,
+                "medicine_id": "f7ceca46-8f0a-4566-aa69-2cbb18e1821b"
+            }
+        ],
+        "totalAmount": 22,
+        "status": "Delivered",
+        "tags": [
+            "Pickup"
+        ],
+        "orderDate": "2026-02-22T07:20:00.000Z",
+        "order_id": "478c3a5e-77f6-485a-ab74-2146e94b6b10",
+        "delivery_agent_id": "4a143f43-9ddd-4700-9713-c345d089082f"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff032a",
+        "orderId": "ORD005",
+        "patient_id": "SWA-100007",
+        "patientName": "Mohammed Ali",
+        "items": [
+            {
+                "medicineName": "Azithromycin 500mg",
+                "quantity": 1,
+                "price": 150,
+                "medicine_id": "c5041311-57b8-460b-9b09-1973df344359"
+            }
+        ],
+        "totalAmount": 150,
+        "status": "Delivered",
+        "tags": [
+            "Delivery"
+        ],
+        "orderDate": "2026-02-21T16:30:00.000Z",
+        "employee_id": "DEL-002",
+        "order_id": "05318777-616f-400d-b9d5-22aeb92fb2b1",
+        "delivery_agent_id": "039ab441-d020-4668-bc2d-55eb83e7ebe2"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff032b",
+        "orderId": "ORD006",
+        "patient_id": "SWA-100010",
+        "patientName": "Kavita Reddy",
+        "items": [
+            {
+                "medicineName": "Amlodipine 5mg",
+                "quantity": 1,
+                "price": 80,
+                "medicine_id": "3c6788de-2f42-4562-8b43-771ad78850ad"
+            },
+            {
+                "medicineName": "Losartan 50mg",
+                "quantity": 1,
+                "price": 100,
+                "medicine_id": "3b9df7b6-1545-437f-b392-b6c37dfedff1"
+            }
+        ],
+        "totalAmount": 180,
+        "status": "Pending",
+        "tags": [
+            "Delivery",
+            "Rx Required"
+        ],
+        "orderDate": "2026-02-22T11:00:00.000Z",
+        "order_id": "3eaeef39-1fbf-441e-947e-a02f3ca30561",
+        "delivery_agent_id": "b5d543c4-cfac-4317-b8eb-9a55568181a6"
+    }
+]

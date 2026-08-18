@@ -1,0 +1,57 @@
+[
+    {
+        "_id": "69b113709d1fe37b7dff032c",
+        "invoiceId": "INV-2026-0142",
+        "patient_id": "SWA-100005",
+        "patientName": "Sunita Devi",
+        "date": "2026-02-22T00:00:00.000Z",
+        "amount": 25.96,
+        "paymentMethod": "Cash",
+        "bill_id": "3bd25b14-8b81-4467-8138-02cbc5e8039c",
+        "generated_by_staff_id": "9eae89fd-06e6-49e8-89f5-498ced8d78e7"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff032d",
+        "invoiceId": "INV-2026-0141",
+        "patient_id": "SWA-100006",
+        "patientName": "Deepa Nair",
+        "date": "2026-02-22T00:00:00.000Z",
+        "amount": 129.8,
+        "paymentMethod": "UPI",
+        "bill_id": "14a5337c-d467-4d26-8155-e5f11be5900f",
+        "generated_by_staff_id": "9eae89fd-06e6-49e8-89f5-498ced8d78e7"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff032e",
+        "invoiceId": "INV-2026-0140",
+        "patient_id": "SWA-100007",
+        "patientName": "Mohammed Ali",
+        "date": "2026-02-21T00:00:00.000Z",
+        "amount": 177,
+        "paymentMethod": "Card",
+        "bill_id": "28e7fc68-48ca-4839-ae94-eee762bea0e3",
+        "generated_by_staff_id": "77755b8d-daec-4058-beeb-523bfb0e5cea"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff032f",
+        "invoiceId": "INV-2026-0139",
+        "patient_id": "SWA-100008",
+        "patientName": "Amit Patel",
+        "date": "2026-02-22T00:00:00.000Z",
+        "amount": 177,
+        "paymentMethod": "UPI",
+        "bill_id": "b8c0b2cd-3edd-434a-b445-c1de0f07f2f5",
+        "generated_by_staff_id": "77755b8d-daec-4058-beeb-523bfb0e5cea"
+    },
+    {
+        "_id": "69b113709d1fe37b7dff0330",
+        "invoiceId": "INV-2026-0138",
+        "patient_id": "SWA-100009",
+        "patientName": "Priya Sharma",
+        "date": "2026-02-22T00:00:00.000Z",
+        "amount": 230.1,
+        "paymentMethod": "Cash",
+        "bill_id": "a64daaed-12f7-4157-8585-7a9972dbf993",
+        "generated_by_staff_id": "9eae89fd-06e6-49e8-89f5-498ced8d78e7"
+    }
+]
